@@ -5,8 +5,8 @@ services:
     image: postgres:latest
     container_name: postgres_db
     environment:
-      POSTGRES_USER: malek
-      POSTGRES_PASSWORD: mallouka80*
+      POSTGRES_USER: replace_with_your_username
+      POSTGRES_PASSWORD: replace_with_your_password
       POSTGRES_DB: postgres
     ports:
       - "5432:5432"
