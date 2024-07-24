@@ -8,8 +8,8 @@ from folium.plugins import MarkerCluster
 # Database credentials
 db_host = 'localhost'
 db_name = 'postgres'
-db_user = 'malek'
-db_pass = 'mallouka80*'
+db_user = 'replace_with_your_username'
+db_pass = 'replace_with_your_password'
 db_port = '5432'
 
 # Create the connection string
