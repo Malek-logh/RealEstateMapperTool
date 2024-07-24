@@ -1,4 +1,3 @@
-```markdown
 # Real Estate Data Processing and Visualization
 
 This project involves scraping real estate data, cleaning and inserting it into a PostgreSQL database, and performing clustering analysis with visualization on a map. The main components of the project are:
