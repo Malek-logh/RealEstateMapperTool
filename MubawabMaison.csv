@@ -1,0 +1,932 @@
+id,title,city,property,area(m²),rooms,price(TND),longitude,latitude,link
+1,Maison arabe à kélibia avec titre bleu,Kélibia      ,Maison,168,2,170 000,11.0918,36.8493,https://www.mubawab.tn/fr/a/7813308/maison-arabe-%C3%A0-k%C3%A9libia-avec-titre-bleu
+2,Villa avec studio à hammem el ghezez,Hammam El Ghezaz      ,Maison,220,3,150 000,11.048549,36.930637,https://www.mubawab.tn/fr/a/7913074/villa-avec-studio-%C3%A0-hammem-el-ghezez
+3,Une villa avec piscine de haut standing à Djerba,Djerba à       Djerba      ,Maison,175,3,780 000,10.8451467,33.8075978,https://www.mubawab.tn/fr/a/7953014/une-villa-avec-piscine-de-haut-standing-%C3%A0-djerba
+4,Villa haut standing avec piscine proche de la mer,Djerba à       Djerba      ,Maison,125,3,600 000,10.8451467,33.8075978,https://www.mubawab.tn/fr/a/7761627/villa-haut-standing-avec-piscine-proche-de-la-mer
+5,Vente maison pied dans l'eau Djerba Titre zone urbaine,Djerba à       Djerba      ,Maison,767,2,1 220 000,10.8451467,33.8075978,https://www.mubawab.tn/fr/a/7667871/vente-maison-pied-dans-l-eau-djerba-titre-zone-urbaine
+6,Une maison avec piscine à vendre à Djerba,Djerba à       Djerba      ,Maison,550,3,435 000,10.85,33.86666700000001,https://www.mubawab.tn/fr/a/7667851/une-maison-avec-piscine-%C3%A0-vendre-%C3%A0-djerba
+7,Villa à Djerba proche de la mer en zone urbaine,Djerba à       Djerba      ,Maison,270,3,670 000,10.8451467,33.8075978,https://www.mubawab.tn/fr/a/7887619/villa-%C3%A0-djerba-proche-de-la-mer-en-zone-urbaine
+8,À vendre une maison avec piscine Djerba,Djerba à       Djerba      ,Maison,500,3,415 000,10.85,33.866667,https://www.mubawab.tn/fr/a/7667850/%C3%A0-vendre-une-maison-avec-piscine-djerba
+9,Un Appartement S2 sur plan à La Soukra,La Soukra à       La Soukra      ,Maison,112,2,450 000,10.27417,36.88833,https://www.mubawab.tn/fr/a/7911775/un-appartement-s2-sur-plan-%C3%A0-la-soukra
+10,Villa indépendante De Plain Pied S2 Avec Jardin À La Soukra,La Soukra à       La Soukra      ,Maison,400,3,590 000,10.27417,36.88833,https://www.mubawab.tn/fr/a/7937056/villa-ind%C3%A9pendante-de-plain-pied-s2-avec-jardin-%C3%A0-la-soukra
+11,Villa individuelle en vente,Ezzahra à       Ezzahra      ,Maison,435,3,850 000,10.308149075110713,36.74785205840817,https://www.mubawab.tn/fr/a/7793617/villa-individuelle-en-vente
+12,,Hammamet Sud à       Hammamet      ,Maison,170,3,550 000,10.61457,36.40108,https://www.mubawab.tn/fr/a/7907255/villa-bronco
+13,Dar arbi a hammamet nord,Hammamet Nord à       Hammamet      ,Maison,162,2,247 500,10.61457,36.40108,https://www.mubawab.tn/fr/a/7956572/dar-arbi-a-hammamet-nord
+14,Louez votre maison à La Soukra. 5 chambres agréables. Tout confort avec piscine et cheminée,La Soukra à       La Soukra      ,Maison,650,5,1 500 000 000,10.27417,36.88833,https://www.mubawab.tn/fr/a/7916144/louez-votre-maison-%C3%A0-la-soukra-5-chambres-agr%C3%A9ables-tout-confort-avec-piscine-et-chemin%C3%A9e
+15,A vendre un RDC de villa à Borj Louzir,Ariana à       Ariana Ville      ,Maison,386,3,370 000,10.19556,36.8625,https://www.mubawab.tn/fr/a/7954234/a-vendre-un-rdc-de-villa-%C3%A0-borj-louzir
+16,Triplex Alice à Vendre à La Soukra,La Soukra à       La Soukra      ,Maison,260,4,1 250 000,10.25,36.883333,https://www.mubawab.tn/fr/a/7847354/triplex-alice-%C3%A0-vendre-%C3%A0-la-soukra
+17,Villa Andrew à Vendre à Chotrana 1,Chotrana 1 à       La Soukra      ,Maison,850,4,690 000,10.25,36.883333,https://www.mubawab.tn/fr/a/7906143/villa-andrew-%C3%A0-vendre-%C3%A0-chotrana-1
+18,Jolie villa s3,Borj Louzir à       La Soukra      ,Maison,500,3,380 000,10.25,36.88333299999999,https://www.mubawab.tn/fr/a/7767688/jolie-villa-s3
+19,A vendre deux maisons a bir bouragba,Bir Bouregba      ,Maison,150,4,220 000,10.5673,36.40662,https://www.mubawab.tn/fr/a/7960694/a-vendre-deux-maisons-a-bir-bouragba
+20,Villa jumelée en vente,Hergla      ,Maison,675,4,480 000,10.5079,36.0301,https://www.mubawab.tn/fr/a/7960633/villa-jumel%C3%A9e-en-vente
+21,Duplex S5 avec terrasse à l'aouina,Aouina à       La Marsa      ,Maison,270,5,820 000,10.325278,36.876389,https://www.mubawab.tn/fr/a/7878294/duplex-s5-avec-terrasse-%C3%A0-l-aouina
+22,Un Duplex S4 direct promoteur à vendre à La Soukra,La Soukra à       La Soukra      ,Maison,183,4,756 000,10.27417,36.88833,https://www.mubawab.tn/fr/a/7739366/un-duplex-s4-direct-promoteur-%C3%A0-vendre-%C3%A0-la-soukra
+23,Une Villa Neuve en cours de finition à La Soukra,La Soukra à       La Soukra      ,Maison,200,3,950 000,10.27417,36.88833,https://www.mubawab.tn/fr/a/7911326/une-villa-neuve-en-cours-de-finition-%C3%A0-la-soukra
+24,Duplex s3 avec piscine de 100m² à Hammamet sud,Hammamet Sud à       Hammamet      ,Maison,100,3,540 000,10.61457,36.40108,https://www.mubawab.tn/fr/a/7960519/duplex-s3-avec-piscine-de-100m%C2%B2-%C3%A0-hammamet-sud
+25,Villa de luxe avec piscine et vue de mer,Djerba à       Djerba      ,Maison,450,3,680 000,10.8451467,33.8075978,https://www.mubawab.tn/fr/a/7810344/villa-de-luxe-avec-piscine-et-vue-de-mer
+26,Une Villa en triplex S5 avec piscine à vendre à La Soukra,La Soukra à       La Soukra      ,Maison,275,4,1 140 000,10.27417,36.88833,https://www.mubawab.tn/fr/a/7881622/une-villa-en-triplex-s5-avec-piscine-%C3%A0-vendre-%C3%A0-la-soukra
+27,A Vendre Villa Jumelée à soukra,La Soukra à       La Soukra      ,Maison,227,4,1 050 000,10.213917937464212,36.86348925934452,https://www.mubawab.tn/fr/a/7847799/a-vendre-villa-jumel%C3%A9e-%C3%A0-soukra
+28,Villa S4 Jumelée à La Soukra,La Soukra à       La Soukra      ,Maison,338,4,1 150 000,10.256177295856379,36.87329754401378,https://www.mubawab.tn/fr/a/7878183/villa-s4-jumel%C3%A9e-%C3%A0-la-soukra
+29,A Vendre Une Villa Jumelée à Chotrana 1,Chotrana 1 à       La Soukra      ,Maison,372,5,1 280 000,10.22249141741749,36.88325255073358,https://www.mubawab.tn/fr/a/7855404/a-vendre-une-villa-jumel%C3%A9e-%C3%A0-chotrana-1
+30,Duplex S4 à La Soukra Chotrana 1,Chotrana 1 à       La Soukra      ,Maison,234,4,750 000,10.217961,36.896544,https://www.mubawab.tn/fr/a/7707192/duplex-s4-%C3%A0-la-soukra-chotrana-1
+31,Villa Jumelée à chotrana I,La Soukra à       La Soukra      ,Maison,240,3,750 000,10.223169060193714,36.88317593115942,https://www.mubawab.tn/fr/a/7450812/villa-jumel%C3%A9e-%C3%A0-chotrana-i
+32,Villa Jumelée avec Piscine à laSoukra,La Soukra à       La Soukra      ,Maison,295,4,985 000,10.27417,36.88833,https://www.mubawab.tn/fr/a/7888888/villa-jumel%C3%A9e-avec-piscine-%C3%A0-lasoukra
+33,A vendre villa s5 a 3km de Yasmine Hammmamet,Hammamet Sud à       Hammamet      ,Maison,1000,5,720 000,10.61457,36.40108,https://www.mubawab.tn/fr/a/7956083/a-vendre-villa-s5-a-3km-de-yasmine-hammmamet
+34,Immeuble r3 à vendre à bouhsina,Bouhssina à       Sousse Ville      ,Maison,750,3,900 000,10.5967322,35.82129249999999,https://www.mubawab.tn/fr/a/7871050/immeuble-r3-%C3%A0-vendre-%C3%A0-bouhsina
+35,Vente Duplex S4 à Cité El Khalil La Marsa,Cité El Khalil à       La Marsa      ,Maison,171,4,650 000,10.325278,36.876389,https://www.mubawab.tn/fr/a/7947223/vente-duplex-s4-%C3%A0-cit%C3%A9-el-khalil-la-marsa
+36,A vendre maison r1 a Birboragba Hammamet nord,Hammamet Nord à       Hammamet      ,Maison,180,4,199 000,10.61457,36.40108,https://www.mubawab.tn/fr/a/7949468/a-vendre-maison-r1-a-birboragba-hammamet-nord
+37,A vendre Villa 800 m² à Chotrana III La soukra,La Soukra à       La Soukra      ,Maison,800,6,1 050 000,10.27417,36.88833,https://www.mubawab.tn/fr/a/7876250/a-vendre-villa-800-m%C2%B2-%C3%A0-chotrana-iii-la-soukra
+38,A vendre Villa Moderne à La Soukra,La Soukra à       La Soukra      ,Maison,958,4,2 000 000,10.222537217774319,36.8835815482385,https://www.mubawab.tn/fr/a/7903445/a-vendre-villa-moderne-%C3%A0-la-soukra
+39,A vendre Duplex S4 à Chotrana I,Chotrana 1 à       La Soukra      ,Maison,190,4,800 000,10.222869997284857,36.88342644076738,https://www.mubawab.tn/fr/a/7872801/a-vendre-duplex-s4-%C3%A0-chotrana-i
+40,A vendre une villa s6 avec jardin Chotrana,Chotrana 3 à       La Soukra      ,Maison,408,6,970 000,10.25,36.883333,https://www.mubawab.tn/fr/a/7959309/a-vendre-une-villa-s6-avec-jardin-chotrana
+41,Jolie villa S4 à Gammarth forêt,Gammarth à       La Marsa      ,Maison,305,4,1 600 000,10.325278,36.876389,https://www.mubawab.tn/fr/a/7944638/jolie-villa-s4-%C3%A0-gammarth-for%C3%AAt
+42,Une villa a VENDRE a Chotrana 1,La Soukra à       La Soukra      ,Maison,200,2,480 000,10.25,36.883333,https://www.mubawab.tn/fr/a/7915648/une-villa-a-vendre-a-chotrana-1
+43,A vendre maison style arabesque à La Médina Tunis,La Medina      ,Maison,116,6,680 000,10.16596,36.81881,https://www.mubawab.tn/fr/a/7876875/a-vendre-maison-style-arabesque-%C3%A0-la-m%C3%A9dina-tunis
+44,Superbe maison à vendre à Cité Ennour Jaafar. 2 chambres agréables. Jardin et terrasse,Cité Ennour Jaafar à       Raoued      ,Maison,104,2,145 000,9.537500000000001,33.88689999999999,https://www.mubawab.tn/fr/a/7959870/superbe-maison-%C3%A0-vendre-%C3%A0-cit%C3%A9-ennour-jaafar-2-chambres-agr%C3%A9ables-jardin-et-terrasse
+45,Une Belle Villa avec piscine à vendre à La Soukra,La Soukra à       La Soukra      ,Maison,380,3,980 000,10.27417,36.88833,https://www.mubawab.tn/fr/a/7959844/une-belle-villa-avec-piscine-%C3%A0-vendre-%C3%A0-la-soukra
+46,Villa s3 à kram,Le Kram à       Le Kram      ,Maison,300,3,585 000,10.316667,36.833333,https://www.mubawab.tn/fr/a/7959781/villa-s3-%C3%A0-kram
+47,Villa a vendre a gammarth superieur,Gammarth Supérieur à       La Marsa      ,Maison,703,6,2 800 000,10.325278,36.876389,https://www.mubawab.tn/fr/a/7886190/villa-a-vendre-a-gammarth-superieur
+48,Duplex s3 a jardins de Carthage,Les Jardins de Carthage à       Le Kram      ,Maison,263,3,1 070 000,10.316667,36.833333,https://www.mubawab.tn/fr/a/7906040/duplex-s3-a-jardins-de-carthage
+49,Maison en Triplex Au Centre Ville Ras Jebel,Ras Jebel      ,Maison,160,7,420 000,9.7506777,37.1303,https://www.mubawab.tn/fr/a/7874772/maison-en-triplex-au-centre-ville-ras-jebel
+50,Maison en vente à Hergla,Hergla      ,Maison,250,3,300 000,10.5079,36.0301,https://www.mubawab.tn/fr/a/7824860/maison-en-vente-%C3%A0-hergla
+51,Villa en vente à AFH Hergla,Hergla      ,Maison,360,3,495 000,10.5079,36.0301,https://www.mubawab.tn/fr/a/7889173/villa-en-vente-%C3%A0-afh-hergla
+52,Duplex S3 HST aux berges du lac2,Chotrana 1 à       La Soukra      ,Maison,179,3,900 000,10.25,36.883333,https://www.mubawab.tn/fr/a/7951407/duplex-s3-hst-aux-berges-du-lac2
+53,A vendre une villa s5 avec piscine à Gammarth,La Marsa à       La Marsa      ,Maison,800,7,1 850 000,10.2762232,36.8941992,https://www.mubawab.tn/fr/a/7923779/a-vendre-une-villa-s5-avec-piscine-%C3%A0-gammarth
+54,A vendre une villa en S4 avec piscine à Gammarth Supérieur,Gammarth à       La Marsa      ,Maison,630,4,2 300 000,10.3099394,36.8931787,https://www.mubawab.tn/fr/a/7859786/a-vendre-une-villa-en-s4-avec-piscine-%C3%A0-gammarth-sup%C3%A9rieur
+55,Un immeuble R2 à vendre,Mnihla à       Mnihla      ,Maison,403,9,980 000,10.1157421,36.8567806,https://www.mubawab.tn/fr/a/7919158/un-immeuble-r2-%C3%A0-vendre
+56,Maison de 143m2 sur un terrain de 612m2,El Menzah 5 à       Ariana Ville      ,Maison,612,3,1 300 000,10.19556,36.8625,https://www.mubawab.tn/fr/a/7959064/maison-de-143m2-sur-un-terrain-de-612m2
+57,Villa à vendre à Midoun Djerba,Midoune à       Midoun      ,Maison,359,4,650 000,10.85,33.866667,https://www.mubawab.tn/fr/a/7910703/villa-%C3%A0-vendre-%C3%A0-midoun-djerba
+58,Villa s4 avec piscine hammamet,Hammamet à       Hammamet      ,Maison,350,4,780 000,10.61457,36.40108,https://www.mubawab.tn/fr/a/7821895/villa-s4-avec-piscine-hammamet
+59,Duplex inachevé,Les Jardins d'El Menzah 2 à       Ariana Ville      ,Maison,228,4,750 000,10.19556,36.8625,https://www.mubawab.tn/fr/a/7867719/duplex-inachev%C3%A9
+60,"Maison style américain à Beni Nafa, Bizert",Bizerte      ,Maison,100,3,110 000,9.866667,37.266667,https://www.mubawab.tn/fr/a/7869260/maison-style-am%C3%A9ricain-%C3%A0-beni-nafa-bizert
+61,Duplex à Beni Nafaa Bizerte,Bizerte      ,Maison,150,4,300 000,9.866667,37.266667,https://www.mubawab.tn/fr/a/7874242/duplex-%C3%A0-beni-nafaa-bizerte
+62,"Réf 2499: villa à Quelque mètres de la mer, à Rafr",Raf Raf      ,Maison,200,2,300 000,9.7506777,37.1303,https://www.mubawab.tn/fr/a/7794499/r%C3%A9f-2499-villa-%C3%A0-quelque-m%C3%A8tres-de-la-mer-%C3%A0-rafr
+63,"Maison s2 à Ras Jebel, Bizerte",Ras Jebel      ,Maison,115,2,150 000,9.7506777,37.1303,https://www.mubawab.tn/fr/a/7882478/maison-s2-%C3%A0-ras-jebel-bizerte
+64,Manar 2: Villa à démolir en vente,El Manar 2 à       El Menzah      ,Maison,480,4,950 000,10.152483,36.8385618,https://www.mubawab.tn/fr/a/7854283/manar-2-villa-%C3%A0-d%C3%A9molir-en-vente
+65,A Vendre Villa à jardin d'el Menzah 1,Les Jardins d'El Menzah 1 à       Ariana Ville      ,Maison,230,3,630 000,10.19556,36.8625,https://www.mubawab.tn/fr/a/7941331/a-vendre-villa-%C3%A0-jardin-d-el-menzah-1
+66,Une maison à vivre,Les Jardins d'El Menzah 2 à       Ariana Ville      ,Maison,299,2,550 000,10.134291,36.859673,https://www.mubawab.tn/fr/a/7841520/une-maison-%C3%A0-vivre
+67,Immeuble Lunja à Vendre à Bhar Lazreg,Bhar Lazreg à       La Marsa      ,Maison,112,4,430 000,10.325278,36.876389,https://www.mubawab.tn/fr/a/7758097/immeuble-lunja-%C3%A0-vendre-%C3%A0-bhar-lazreg
+68,À vendre duplex avec piscine à la soukra,La Soukra à       La Soukra      ,Maison,25116,3,1 005 100,10.27417,36.88833000000001,https://www.mubawab.tn/fr/a/7914065/%C3%A0-vendre-duplex-avec-piscine-%C3%A0-la-soukra
+69,À vendre une villa avec piscine à Gammarth,Gammarth à       La Marsa      ,Maison,350,3,1 850 000,10.288893,36.917739,https://www.mubawab.tn/fr/a/7910900/%C3%A0-vendre-une-villa-avec-piscine-%C3%A0-gammarth
+70,A vendre un duplex a Hammamet,Hammamet Sud à       Hammamet      ,Maison,180,3,275 000,10.61457,36.40108,https://www.mubawab.tn/fr/a/7896879/a-vendre-un-duplex-a-hammamet
+71,Villa Marguerite à Vendre à Cité Les Jardins Tunis,Tunis Belvedere à       El Menzah      ,Maison,425,6,1 400 000,10.164723,36.845235,https://www.mubawab.tn/fr/a/7959133/villa-marguerite-%C3%A0-vendre-%C3%A0-cit%C3%A9-les-jardins-tunis
+72,A Vendre une villa s4 jumelée Bhar Lazreg,Bhar Lazreg à       La Marsa      ,Maison,141,4,380 000,10.325278,36.876389,https://www.mubawab.tn/fr/a/7959047/a-vendre-une-villa-s4-jumel%C3%A9e-bhar-lazreg
+73,Marsa cube front mer,La Marsa à       La Marsa      ,Maison,400,3,5 000 000,10.325278000000003,36.87638899999999,https://www.mubawab.tn/fr/a/7833230/marsa-cube-front-mer
+74,Une villa inachevée situé à Raoued Plage,Raoued à       Raoued      ,Maison,620,4,360 000,10.191389,36.954444,https://www.mubawab.tn/fr/a/7928423/une-villa-inachev%C3%A9e-situ%C3%A9-%C3%A0-raoued-plage
+75,A vendre TRIPLEX _ S5,Les Jardins d'El Menzah 1 à       Ariana Ville      ,Maison,100,5,380 000,10.19556,36.8625,https://www.mubawab.tn/fr/a/7958736/a-vendre-triplex-s5
+76,Villa R1 Deux étages séparés à vendre,Ksar Said à       Le Bardo      ,Maison,198,3,680 000,10.13736,36.83017,https://www.mubawab.tn/fr/a/7956329/villa-r1-deux-%C3%A9tages-s%C3%A9par%C3%A9s-%C3%A0-vendre
+77,A vendre une villa avec piscine en S4 a Gammarth Supérieur,Gammarth Supérieur à       La Marsa      ,Maison,900,5,2 900 000,10.3099394,36.8931787,https://www.mubawab.tn/fr/a/7917557/a-vendre-une-villa-avec-piscine-en-s4-a-gammarth-sup%C3%A9rieur
+78,Duplex S4 à Borj Cedria pas loin de la mer,Borj Cedria à       Hammam Chatt      ,Maison,145,4,270 000,10.16596,36.818810000000006,https://www.mubawab.tn/fr/a/7590777/duplex-s4-%C3%A0-borj-cedria-pas-loin-de-la-mer
+79,A vendre Maison S3 à Sidi Hammed Hammamet,Hammamet Sud à       Hammamet      ,Maison,250,3,250 000,10.61457,36.40108,https://www.mubawab.tn/fr/a/7917550/a-vendre-maison-s3-%C3%A0-sidi-hammed-hammamet
+80,Villa en bande en vente,Bhar Lazreg à       La Marsa      ,Maison,178,9,720 000,10.325278,36.876389,https://www.mubawab.tn/fr/a/7873548/villa-en-bande-en-vente
+81,À vendre villa de maître dans les vergers de beni khiar,Nabeul à       Nabeul      ,Maison,5500,3,1 170 000,10.73505,36.45056,https://www.mubawab.tn/fr/a/7859791/%C3%A0-vendre-villa-de-ma%C3%AEtre-dans-les-vergers-de-beni-khiar
+82,À vendre Bungalow en s2 à El Monchar Hammamet,Hammamet à       Hammamet      ,Maison,400,2,300 000,10.61457,36.40108,https://www.mubawab.tn/fr/a/7933651/%C3%A0-vendre-bungalow-en-s2-%C3%A0-el-monchar-hammamet
+83,Villa de 375 m² sur terrain de 475 m² à Borj louzir ariana,Borj Louzir à       La Soukra      ,Maison,475,5,750 000,10.2123551,36.8650901,https://www.mubawab.tn/fr/a/7958680/villa-de-375-m%C2%B2-sur-terrain-de-475-m%C2%B2-%C3%A0-borj-louzir-ariana
+84,A vendre deux maison a bir bouragba,Bir Bouregba      ,Maison,150,2,220 000,10.5673,36.40662,https://www.mubawab.tn/fr/a/7958573/a-vendre-deux-maison-a-bir-bouragba
+85,A vendre une villa s5 avec piscine à Gammarth,La Marsa à       La Marsa      ,Maison,700,7,2 000 000,10.2762232,36.8941992,https://www.mubawab.tn/fr/a/7908840/a-vendre-une-villa-s5-avec-piscine-%C3%A0-gammarth
+86,"A vendre maison zone touristique Mrezga, Hammamet",Hammamet Nord à       Hammamet      ,Maison,140,5,290 000,10.681947906554477,36.42754595386327,https://www.mubawab.tn/fr/a/7907935/a-vendre-maison-zone-touristique-mrezga-hammamet
+87,À vendre Villa avec piscine de 870 m² sur un terr,Cité El Wafa à       Nabeul      ,Maison,747,5,2 300 000,10.684428,36.439144,https://www.mubawab.tn/fr/a/7958484/%C3%A0-vendre-villa-avec-piscine-de-870-m%C2%B2-sur-un-terr
+88,A Vendre Un Joli Duplex Haut Standing S3 Jamais Habité à Choutrana 2,La Soukra      ,Maison,191,3,785 000,10.25,36.883333,https://www.mubawab.tn/fr/a/7902016/a-vendre-un-joli-duplex-haut-standing-s3-jamais-habit%C3%A9-%C3%A0-choutrana-2
+89,Villa s4 avec piscine à vendre à la Marsa,Cité Du Stade à       La Marsa      ,Maison,723,3,2 000 000,10.325278,36.876389,https://www.mubawab.tn/fr/a/7958243/villa-s4-avec-piscine-%C3%A0-vendre-%C3%A0-la-marsa
+90,Villa Spacieuse Et Élégante À Mornaguia,Mornaguia à       Mornaguia      ,Maison,465,3,450 000,9.9089889,36.8094099,https://www.mubawab.tn/fr/a/7958097/villa-spacieuse-et-%C3%A9l%C3%A9gante-%C3%A0-mornaguia
+91,Belle villa style arabesque a Hammamet sud,Hammamet Sud à       Hammamet      ,Maison,670,3,750 000,10.61457,36.40108,https://www.mubawab.tn/fr/a/7957818/belle-villa-style-arabesque-a-hammamet-sud
+92,Une Villa indépendante S4 à vendre à La Soukra,La Soukra à       La Soukra      ,Maison,400,4,970 000,10.27417,36.88833,https://www.mubawab.tn/fr/a/7914043/une-villa-ind%C3%A9pendante-s4-%C3%A0-vendre-%C3%A0-la-soukra
+93,Belle maison a Hammamet sud,Hammamet Sud à       Hammamet      ,Maison,197,2,280 000,10.61457,36.40108,https://www.mubawab.tn/fr/a/7957751/belle-maison-a-hammamet-sud
+94,A vendre appartement S3 A Sidi Daoued,Sidi Daoued à       La Marsa      ,Maison,174,3,640 000,10.325278,36.876389,https://www.mubawab.tn/fr/a/7867386/a-vendre-appartement-s3-a-sidi-daoued
+95,Vente – Villa à La Marsa,La Marsa à       La Marsa      ,Maison,437,3,1 800 000,10.325278,36.876389,https://www.mubawab.tn/fr/a/7927895/vente-%E2%80%93-villa-%C3%A0-la-marsa
+96,Maison arabe 305 m² au centre ville Kelibia,Kélibia      ,Maison,305,4,210 000,11.0918,36.8493,https://www.mubawab.tn/fr/a/7642271/maison-arabe-305-m%C2%B2-au-centre-ville-kelibia
+97,Maison arabe 490 m² au centre ville kelibia,Kélibia      ,Maison,490,5,250 000,11.0918,36.8493,https://www.mubawab.tn/fr/a/6773225/maison-arabe-490-m%C2%B2-au-centre-ville-kelibia
+98,Maison inachevée à cité riadh,Kélibia      ,Maison,260,4,330 000,11.0918,36.8493,https://www.mubawab.tn/fr/a/7303578/maison-inachev%C3%A9e-%C3%A0-cit%C3%A9-riadh
+99,"À vendre: villa S4 coté mer sidi mahrsi, Nabeul",Sidi El Mahrsi à       Nabeul      ,Maison,834,4,1 750 000,10.73505,36.45056,https://www.mubawab.tn/fr/a/7940506/%C3%A0-vendre-villa-s4-cot%C3%A9-mer-sidi-mahrsi-nabeul
+100,À vendre Joli Duplex à Jinene Hammamet,Hammamet à       Hammamet      ,Maison,167,3,920 000,10.61457,36.40108,https://www.mubawab.tn/fr/a/7938205/%C3%A0-vendre-joli-duplex-%C3%A0-jinene-hammamet
+101,À vendre Villa Pied dans l'eau à Beni Khiar,Nabeul à       Nabeul      ,Maison,245,3,650 000,10.73505,36.45056,https://www.mubawab.tn/fr/a/7942788/%C3%A0-vendre-villa-pied-dans-l-eau-%C3%A0-beni-khiar
+102,A vendre une villa à SAHLOUL,Sahloul à       Sousse Jaouhara      ,Maison,350,8,950 000,10.622471,35.832439,https://www.mubawab.tn/fr/a/7912770/a-vendre-une-villa-%C3%A0-sahloul
+103,Vente villa cite les pins,La Marsa à       La Marsa      ,Maison,440,4,1 550 000,10.2564551,36.8590944,https://www.mubawab.tn/fr/a/7901873/vente-villa-cite-les-pins
+104,A vendre une villa sur deux niveaux à bayrem tounsi,Le Bardo à       Le Bardo      ,Maison,463,6,749 000,10.13736,36.83017,https://www.mubawab.tn/fr/a/7912705/a-vendre-une-villa-sur-deux-niveaux-%C3%A0-bayrem-tounsi
+105,Maison avec piscine à kelibia,Kélibia      ,Maison,269,3,400 000,11.0918,36.8493,https://www.mubawab.tn/fr/a/7900784/maison-avec-piscine-%C3%A0-kelibia
+106,À vendre villa de charme à Craxi Hamammet nord,Hammamet à       Hammamet      ,Maison,250,3,750 000,10.61457,36.40108,https://www.mubawab.tn/fr/a/7877966/%C3%A0-vendre-villa-de-charme-%C3%A0-craxi-hamammet-nord
+107,A vendre une villa jumelée en S4 avec piscine à la Soukra,La Soukra à       La Soukra      ,Maison,236,5,1 250 000,10.27417,36.88833,https://www.mubawab.tn/fr/a/7889741/a-vendre-une-villa-jumel%C3%A9e-en-s4-avec-piscine-%C3%A0-la-soukra
+108,A vendre villa de haut standing à kantaoui,Cité de la Plage à       Hammam Sousse      ,Maison,860,6,3 500 000,10.5972,35.8569,https://www.mubawab.tn/fr/a/7926364/a-vendre-villa-de-haut-standing-%C3%A0-kantaoui
+109,À vendre coquette villa à Afh Mrezga,Cité El Wafa à       Nabeul      ,Maison,269,2,620 000,10.73505,36.45056,https://www.mubawab.tn/fr/a/7916937/%C3%A0-vendre-coquette-villa-%C3%A0-afh-mrezga
+110,À vendre coquette villa à Craxi Hamammet nord,Hammamet Nord à       Hammamet      ,Maison,225,3,670 000,10.61457,36.40108,https://www.mubawab.tn/fr/a/7878565/%C3%A0-vendre-coquette-villa-%C3%A0-craxi-hamammet-nord
+111,Maison à retaper,Mutuelle Ville à       El Menzah      ,Maison,586,3,1 420 000,10.1641474,36.8316382,https://www.mubawab.tn/fr/a/7957243/maison-%C3%A0-retaper
+112,A venrde villa s4 a cité des juges marsa,Cité des Juges à       La Marsa      ,Maison,401,5,850 000,10.325278,36.876389,https://www.mubawab.tn/fr/a/7857676/a-venrde-villa-s4-a-cit%C3%A9-des-juges-marsa
+113,Coquette villa vue sur mer,Hammamet Nord à       Hammamet      ,Maison,210,3,850 000,10.661894,36.419773,https://www.mubawab.tn/fr/a/7957131/coquette-villa-vue-sur-mer
+114,A vendre belle maison avec garage a Hammamet sud,Hammamet Sud à       Hammamet      ,Maison,300,2,290 000,10.61457,36.40108,https://www.mubawab.tn/fr/a/7956978/a-vendre-belle-maison-avec-garage-a-hammamet-sud
+115,A vendre duplex gammarth,Gammarth à       La Marsa      ,Maison,214,4,595 000,10.325278,36.876389,https://www.mubawab.tn/fr/a/7792272/a-vendre-duplex-gammarth
+116,Villa Rochefort à Vendre à Bhar Lazreg,Bhar Lazreg à       La Marsa      ,Maison,326,3,530 000,10.325278,36.876389,https://www.mubawab.tn/fr/a/7849792/villa-rochefort-%C3%A0-vendre-%C3%A0-bhar-lazreg
+117,Immeuble Gloria à Vendre à Carthage Salambo,Salambo à       Carthage      ,Maison,270,6,1 160 000,10.3258,36.8566,https://www.mubawab.tn/fr/a/7956623/immeuble-gloria-%C3%A0-vendre-%C3%A0-carthage-salambo
+118,Luxe duplex à chotrana 1,Chotrana 1 à       La Soukra      ,Maison,220,7,870 000,10.25,36.883333,https://www.mubawab.tn/fr/a/7941216/luxe-duplex-%C3%A0-chotrana-1
+119,A Vendre Villa spacieuse à Bhar Lazreg,Bhar Lazreg à       La Marsa      ,Maison,932,5,1 000 000,10.325278,36.876389,https://www.mubawab.tn/fr/a/7914030/a-vendre-villa-spacieuse-%C3%A0-bhar-lazreg
+120,Maison 209 m² à cité riadh Kelibia,Kélibia      ,Maison,209,3,350 000,11.0918,36.8493,https://www.mubawab.tn/fr/a/7118691/maison-209-m%C2%B2-%C3%A0-cit%C3%A9-riadh-kelibia
+121,Maison à forte potentiel à Denden Mannouba,Denden à       La Manouba      ,Maison,570,3,840 000,10.05538,36.778549999999996,https://www.mubawab.tn/fr/a/7896828/maison-%C3%A0-forte-potentiel-%C3%A0-denden-mannouba
+122,Coquette villa,Hammam Lif à       Hammam Lif      ,Maison,330,4,820 000,10.162620000000002,36.891470000000005,https://www.mubawab.tn/fr/a/7956086/coquette-villa
+123,Villa Neuf au cœur centre ville Tunis,La Medina      ,Maison,375,5,950 000,10.171726,36.798013,https://www.mubawab.tn/fr/a/7822500/villa-neuf-au-c%C5%93ur-centre-ville-tunis
+124,Villa 530m2 à Menzah 5 Direct particulier,El Menzah 5 à       Ariana Ville      ,Maison,530,6,1 200 000,10.19556,36.8625,https://www.mubawab.tn/fr/a/7700713/villa-530m2-%C3%A0-menzah-5-direct-particulier
+125,Villa enzo,Hammamet Sud à       Hammamet      ,Maison,315,6,330 000,10.61457,36.40107999999999,https://www.mubawab.tn/fr/a/7779891/villa-enzo
+126,Villa à vendre à la Marsa,La Marsa à       La Marsa      ,Maison,350,4,1 500 000,10.325278,36.876389,https://www.mubawab.tn/fr/a/7955861/villa-%C3%A0-vendre-%C3%A0-la-marsa
+127,A vendre une maison a Soliman a 100m de la plage,Soliman      ,Maison,200,3,350 000,10.4918,36.6927,https://www.mubawab.tn/fr/a/7886210/a-vendre-une-maison-a-soliman-a-100m-de-la-plage
+128,Villa à la vente à Menzah 9,El Menzah 9 à       El Menzah      ,Maison,539,7,1 050 000,10.164723,36.845235,https://www.mubawab.tn/fr/a/7933279/villa-%C3%A0-la-vente-%C3%A0-menzah-9
+129,Villa S6 Avec ascenseur Nouvelle Ariana,Nouvelle Ariana à       Ariana Ville      ,Maison,600,6,1 300 000,10.19556,36.8625,https://www.mubawab.tn/fr/a/7914984/villa-s6-avec-ascenseur-nouvelle-ariana
+130,A vendre petite villa s2 à Tezdaine,Djerba à       Djerba      ,Maison,100,2,269 000,10.8451467,33.8075978,https://www.mubawab.tn/fr/a/7929601/a-vendre-petite-villa-s2-%C3%A0-tezdaine
+131,Triplex 292 m² haut standing Jardins de Carthage,Les Jardins de Carthage à       Le Kram      ,Maison,292,3,1 380 000,10.316667,36.833333,https://www.mubawab.tn/fr/a/7846475/triplex-292-m%C2%B2-haut-standing-jardins-de-carthage
+132,Belle maison de 320m pas loin de hammamet yasmine,Hammamet Sud à       Hammamet      ,Maison,320,2,180 000,10.61457,36.40108,https://www.mubawab.tn/fr/a/7922232/belle-maison-de-320m-pas-loin-de-hammamet-yasmine
+133,Villa à vendre à Houmet souk,Djerba à       Djerba      ,Maison,503,3,320 000,10.8451467,33.8075978,https://www.mubawab.tn/fr/a/7865965/villa-%C3%A0-vendre-%C3%A0-houmet-souk
+134,Maison a vendre,Hammamet Sud à       Hammamet      ,Maison,197,2,301 000,10.61457,36.40108,https://www.mubawab.tn/fr/a/7948164/maison-a-vendre
+135,Château à rades Mrah,Rades El Mrah à       Rades      ,Maison,1800,15,1 500 000,10.2736,36.7609,https://www.mubawab.tn/fr/a/7955779/ch%C3%A2teau-%C3%A0-rades-mrah
+136,A VENDRE Un duplex située à Hammamet Nord,Hammamet Nord à       Hammamet      ,Maison,120,2,170 000,10.61457,36.40108,https://www.mubawab.tn/fr/a/7480032/a-vendre-un-duplex-situ%C3%A9e-%C3%A0-hammamet-nord
+137,Duplex Ariel à Vendre à L'aouina,Aouina à       La Marsa      ,Maison,124,2,280 000,10.325278,36.876389,https://www.mubawab.tn/fr/a/7800605/duplex-ariel-%C3%A0-vendre-%C3%A0-l-aouina
+138,A Vendre une villa de luxe avec pisicne à Gammart,Gammarth à       La Marsa      ,Maison,317,4,1 700 000,10.325278,36.876389,https://www.mubawab.tn/fr/a/7926980/a-vendre-une-villa-de-luxe-avec-pisicne-%C3%A0-gammart
+139,Villa sur trois niveaux indépendants à Hammamet,Hammamet à       Hammamet      ,Maison,320,6,800 000,10.61457,36.40108,https://www.mubawab.tn/fr/a/7904513/villa-sur-trois-niveaux-ind%C3%A9pendants-%C3%A0-hammamet
+140,A vendre Maison arabesque S3 à Sidi Bou Saïd Tunis,Sidi Bousaid à       Carthage      ,Maison,210,3,3 600 000,10.34766,36.870792,https://www.mubawab.tn/fr/a/7816828/a-vendre-maison-arabesque-s3-%C3%A0-sidi-bou-sa%C3%AFd-tunis
+141,Vente ariana foyer universitaire bureaux 5mn metro,Ariana à       Ariana Ville      ,Maison,700,31,881 000,10.19556,36.8625,https://www.mubawab.tn/fr/a/7920096/vente-ariana-foyer-universitaire-bureaux-5mn-metro
+142,Duplex Independent a Soukra avec jardin,La Soukra à       La Soukra      ,Maison,230,3,830 000,10.25,36.883333,https://www.mubawab.tn/fr/a/7905229/duplex-independent-a-soukra-avec-jardin
+143,Villa luxieuse avec piscine a la soukra,La Soukra à       La Soukra      ,Maison,540,5,1 400 000,10.25,36.883333,https://www.mubawab.tn/fr/a/7882600/villa-luxieuse-avec-piscine-a-la-soukra
+144,Maison à vendre à Radès. 2 belles chambres,Radès à       Rades      ,Maison,80,2,180 000,10.2736,36.7609,https://www.mubawab.tn/fr/a/7955304/maison-%C3%A0-vendre-%C3%A0-rad%C3%A8s-2-belles-chambres
+145,A vendre une maisonnette à Nabeul,Nabeul à       Nabeul      ,Maison,117,2,137 000,10.73505,36.45056,https://www.mubawab.tn/fr/a/7955203/a-vendre-une-maisonnette-%C3%A0-nabeul
+146,Maison et duplex à vendre à msaken,Msaken      ,Maison,200,4,360 000,10.3534,35.43188,https://www.mubawab.tn/fr/a/7870989/maison-et-duplex-%C3%A0-vendre-%C3%A0-msaken
+147,"Maison inachevée à vendre à Ouardanine, Monastir",Ouerdanine      ,Maison,1400,3,90 000,10.678794,35.70871,https://www.mubawab.tn/fr/a/7651699/maison-inachev%C3%A9e-%C3%A0-vendre-%C3%A0-ouardanine-monastir
+148,A vendre une villa a menzah 9a,El Menzah 9 à       El Menzah      ,Maison,375,8,1 200 000,10.164723,36.845235,https://www.mubawab.tn/fr/a/7930811/a-vendre-une-villa-a-menzah-9a
+149,A vendre un villa avec piscine à La Soukra,Sidi Frej à       La Soukra      ,Maison,375,3,980 000,10.25,36.883333,https://www.mubawab.tn/fr/a/7840968/a-vendre-un-villa-avec-piscine-%C3%A0-la-soukra
+150,Exclusivité: A vendre Duplex et Local à la marsa,Marsa Erriadh à       La Marsa      ,Maison,270,3,920 000,10.325278,36.876389,https://www.mubawab.tn/fr/a/7926919/exclusivit%C3%A9-a-vendre-duplex-et-local-%C3%A0-la-marsa
+151,A vendre une villa à rénover à Khaireddine,La Goulette à       La Goulette      ,Maison,400,6,780 000,10.305,36.818056,https://www.mubawab.tn/fr/a/7882146/a-vendre-une-villa-%C3%A0-r%C3%A9nover-%C3%A0-khaireddine
+152,A vendre une maison a nabeul,Nabeul à       Nabeul      ,Maison,94,2,90 000,10.73505,36.45056,https://www.mubawab.tn/fr/a/7911679/a-vendre-une-maison-a-nabeul
+153,AV maison non fini de 1200m à hammamet sud,Hammamet Sud à       Hammamet      ,Maison,1200,2,155 000,10.61457,36.40108,https://www.mubawab.tn/fr/a/7954792/av-maison-non-fini-de-1200m-%C3%A0-hammamet-sud
+154,A VENDRE: Villa d'un seul étage à Lakagnia / El Ouardia,Lakanya à       El Ouardia      ,Maison,575,4,575 000,10.183152936447685,36.77310135845571,https://www.mubawab.tn/fr/a/7937856/a-vendre-villa-d-un-seul-%C3%A9tage-%C3%A0-lakagnia-el-ouardia
+155,Un immeuble 2minute de La Marina Bizerte,Bizerte à       Bizerte Nord      ,Maison,200,7,490 000,9.8708,37.272,https://www.mubawab.tn/fr/a/7577855/un-immeuble-2minute-de-la-marina-bizerte
+156,A vendre une maison style arbi à hammem sousse,Hammam Sousse à       Hammam Sousse      ,Maison,397,3,250 000,10.5972,35.8569,https://www.mubawab.tn/fr/a/7913886/a-vendre-une-maison-style-arbi-%C3%A0-hammem-sousse
+157,Deux chalet à vendre,Hammamet à       Hammamet      ,Maison,120,4,400 000,10.61457,36.40108,https://www.mubawab.tn/fr/a/7938310/deux-chalet-%C3%A0-vendre
+158,Villa à jabbes,Jabbes à       Sidi Thabet      ,Maison,2500,4,1 600 000,10.2243965,36.8240829,https://www.mubawab.tn/fr/a/7889251/villa-%C3%A0-jabbes
+159,A Vendre Superbe Villa Avec Piscine Sur Golf,Gammarth à       La Marsa      ,Maison,350,3,802 500,10.325278000000003,36.87638899999999,https://www.mubawab.tn/fr/pa/6521016/a-vendre-superbe-villa-avec-piscine-sur-golf
+160,Une Villa jumelée à vendre à La Soukra,La Soukra à       La Soukra      ,Maison,230,5,740 000,10.27417,36.88833,https://www.mubawab.tn/fr/a/7464420/une-villa-jumel%C3%A9e-%C3%A0-vendre-%C3%A0-la-soukra
+161,Villa à la Soukra,La Soukra à       La Soukra      ,Maison,280,4,650 000,10.25,36.883333,https://www.mubawab.tn/fr/a/7954772/villa-%C3%A0-la-soukra
+162,Dar Mima à Vendre à Beb Mnara,La Medina      ,Maison,130,4,190 000,10.16596,36.81881,https://www.mubawab.tn/fr/a/7954771/dar-mima-%C3%A0-vendre-%C3%A0-beb-mnara
+163,Maison indépendante à La Pêcherie Bizerte,La Pecherie à       Bizerte Sud      ,Maison,113,3,180 000,9.646734,37.243269,https://www.mubawab.tn/fr/a/7868618/maison-ind%C3%A9pendante-%C3%A0-la-p%C3%AAcherie-bizerte
+164,Maison inachevée 300 m² à kelibia,Kélibia      ,Maison,300,3,250 000,11.0918,36.8493,https://www.mubawab.tn/fr/a/7953866/maison-inachev%C3%A9e-300-m%C2%B2-%C3%A0-kelibia
+165,Maison à 600 mètres plage El hawaria,El Haouaria      ,Maison,305,4,300 000,11.016667,37.05,https://www.mubawab.tn/fr/a/7837079/maison-%C3%A0-600-m%C3%A8tres-plage-el-hawaria
+166,A vendre un Triplex s3 à la Marsa,La Marsa à       La Marsa      ,Maison,72,3,900 000,10.325278,36.876389,https://www.mubawab.tn/fr/a/7865023/a-vendre-un-triplex-s3-%C3%A0-la-marsa
+167,A Vendre Villa De Maître À Cebbalet Ben Ammar,Mnihla à       Mnihla      ,Maison,4080,7,2 900 000,10.1157421,36.8567806,https://www.mubawab.tn/fr/a/7848219/a-vendre-villa-de-ma%C3%AEtre-%C3%A0-cebbalet-ben-ammar
+168,Duplexe s2 200 métre de la plage Radisson,Hammamet à       Hammamet      ,Maison,120,2,540 000,10.61457,36.40108,https://www.mubawab.tn/fr/a/7938252/duplexe-s2-200-m%C3%A9tre-de-la-plage-radisson
+169,Appartements Muflier à vendre,Hammamet à       Hammamet      ,Maison,166,2,950 000,10.61457,36.40108,https://www.mubawab.tn/fr/a/7907474/appartements-muflier-%C3%A0-vendre
+170,À vendre une villa à Sahloul,Sahloul à       Sousse Ville      ,Maison,504,6,1 100 000,10.589657722499506,35.84447964395542,https://www.mubawab.tn/fr/a/7892244/%C3%A0-vendre-une-villa-%C3%A0-sahloul
+171,Maison en duplex à kodia bizerte,Bizerte      ,Maison,137,4,200 000,9.866667,37.266667,https://www.mubawab.tn/fr/a/7873474/maison-en-duplex-%C3%A0-kodia-bizerte
+172,Carthage Amilcar maison à rénover,Amilcar à       Carthage      ,Maison,280,3,1 250 000,10.325799999999997,36.856599999999986,https://www.mubawab.tn/fr/a/7833211/carthage-amilcar-maison-%C3%A0-r%C3%A9nover
+173,Grande Residence Jardin Menzeh 2,Les Jardins d'El Menzah 2 à       Ariana Ville      ,Maison,700,9,2 200 000,10.19556,36.8625,https://www.mubawab.tn/fr/a/7734034/grande-residence-jardin-menzeh-2
+174,A Vendre Villa de 2048 m² à Soukra,La Soukra à       La Soukra      ,Maison,2048,6,2 500 000,10.236469076701189,36.87174332062169,https://www.mubawab.tn/fr/a/7845862/a-vendre-villa-de-2048-m%C2%B2-%C3%A0-soukra
+175,Maison à vendre sidi Hammed,Hammamet Sud à       Hammamet      ,Maison,197,2,280 000,10.61457,36.40108,https://www.mubawab.tn/fr/a/7934813/maison-%C3%A0-vendre-sidi-hammed
+176,A vendre une maison située à sidi Hamed Hammamet,Hammamet Sud à       Hammamet      ,Maison,300,2,280 000,10.61457,36.40108,https://www.mubawab.tn/fr/a/7925082/a-vendre-une-maison-situ%C3%A9e-%C3%A0-sidi-hamed-hammamet
+177,A Vendre une maison à Craxi Hammamet nord,Hammamet Nord à       Hammamet      ,Maison,482,3,530 000,10.61457,36.40108,https://www.mubawab.tn/fr/a/7936406/a-vendre-une-maison-%C3%A0-craxi-hammamet-nord
+178,A vendre villa avec jardin a cité el wafa mrezga,Hammamet Nord à       Hammamet      ,Maison,269,2,630 000,10.61457,36.40108,https://www.mubawab.tn/fr/a/7946322/a-vendre-villa-avec-jardin-a-cit%C3%A9-el-wafa-mrezga
+179,Maison 268 m² à Kelibia,Kélibia      ,Maison,268,2,200 000,11.0918,36.8493,https://www.mubawab.tn/fr/a/7791415/maison-268-m%C2%B2-%C3%A0-kelibia
+180,3 Maison à acheter à Sidi Amor. Surface de 213 m²,Sidi Amor à       Le Kram      ,Maison,213,3,440 000,10.316667,36.833333,https://www.mubawab.tn/fr/a/7952808/3-maison-%C3%A0-acheter-%C3%A0-sidi-amor-surface-de-213-m%C2%B2
+181,Maison avec 2 garages à kélibia,Kélibia      ,Maison,512,2,350 000,11.0918,36.8493,https://www.mubawab.tn/fr/a/7851167/maison-avec-2-garages-%C3%A0-k%C3%A9libia
+182,Immeuble Cosmos à Vendre à EL Fejja Mornaguia,Mornaguia à       Mornaguia      ,Maison,200,2,370 000,9.9089889,36.8094099,https://www.mubawab.tn/fr/a/7952343/immeuble-cosmos-%C3%A0-vendre-%C3%A0-el-fejja-mornaguia
+183,A vendre maison R1 a 1km de Yasmine Hammamet,Hammamet Sud à       Hammamet      ,Maison,1075,4,450 000,10.61457,36.40108,https://www.mubawab.tn/fr/a/7952220/a-vendre-maison-r1-a-1km-de-yasmine-hammamet
+184,Villa jumelée à vendre à La Soukra,La Soukra à       La Soukra      ,Maison,320,3,1 100 000,10.27417,36.88833,https://www.mubawab.tn/fr/a/7796506/villa-jumel%C3%A9e-%C3%A0-vendre-%C3%A0-la-soukra
+185,A vendre Un Duplex situé à Ennasr,Cité Ennasr 2 à       Ariana Ville      ,Maison,252,3,840 000,10.156592867431641,36.85398429685242,https://www.mubawab.tn/fr/a/7878540/a-vendre-un-duplex-situ%C3%A9-%C3%A0-ennasr
+186,À vendre villa s4 à cité ghazella,Cité el Ghazela à       Raoued      ,Maison,420,4,650 000,10.191389,36.954444,https://www.mubawab.tn/fr/a/7937156/%C3%A0-vendre-villa-s4-%C3%A0-cit%C3%A9-ghazella
+187,A Vendre une maison à Sidi hssin sijoumi,Sidi Hassine à       Sidi Hassine      ,Maison,120,2,130 000,10.16596,36.81881,https://www.mubawab.tn/fr/a/7952206/a-vendre-une-maison-%C3%A0-sidi-hssin-sijoumi
+188,Une maison avec duplex à ghazella,Cité el Ghazela à       Raoued      ,Maison,300,8,750 000,10.191389,36.954444,https://www.mubawab.tn/fr/a/7938917/une-maison-avec-duplex-%C3%A0-ghazella
+189,Maison arabesque S6 à Tounis,Bab Bhar à       Tunis      ,Maison,197,6,470 000,10.16596,36.81881,https://www.mubawab.tn/fr/a/7929729/maison-arabesque-s6-%C3%A0-tounis
+190,Villa a vendre à Cité El Wafa Mrezgua,Cité El Wafa à       Nabeul      ,Maison,269,2,630 000,10.73505,36.45056,https://www.mubawab.tn/fr/a/7945992/villa-a-vendre-%C3%A0-cit%C3%A9-el-wafa-mrezgua
+191,Maison Arbi en bon état à moins de 1km de la plage,Hammam El Ghezaz      ,Maison,145,4,120 000,11.048549,36.930637,https://www.mubawab.tn/fr/a/7952015/maison-arbi-en-bon-%C3%A9tat-%C3%A0-moins-de-1km-de-la-plage
+192,Médina jdida,Nouvelle Medina à       Nouvelle Medina      ,Maison,615,10,1 660 500,10.18348,36.78898,https://www.mubawab.tn/fr/a/7951703/m%C3%A9dina-jdida
+193,Maison à vendre Riadh 2 borj cedria,Ben Arous à       Ben Arous      ,Maison,312,3,480 000,10.22122,36.77228,https://www.mubawab.tn/fr/a/7951534/maison-%C3%A0-vendre-riadh-2-borj-cedria
+194,A vendre TRIPLEX directe proprietaire BORJ CEDRIA,Borj Cedria à       Hammam Chatt      ,Maison,250,3,450 000,9.97244,36.0683,https://www.mubawab.tn/fr/a/7951507/a-vendre-triplex-directe-proprietaire-borj-cedria
+195,Coquette villa à La Marsa,Cité des Juges à       La Marsa      ,Maison,320,4,980 000,10.325278,36.876389,https://www.mubawab.tn/fr/a/7891494/coquette-villa-%C3%A0-la-marsa
+196,"Villa vue mer à Raoued Plage,",Raoued à       Raoued      ,Maison,600,6,490 000,10.4132,36.70549,https://www.mubawab.tn/fr/a/6460545/villa-vue-mer-%C3%A0-raoued-plage-
+197,Charmante Maison Traditionnelle à la Médina,La Medina      ,Maison,257,5,480 000,10.16596,36.81881,https://www.mubawab.tn/fr/a/7951245/charmante-maison-traditionnelle-%C3%A0-la-m%C3%A9dina
+198,Maison petite Ariana rénovée à neuf et sans travau,Ariana Essoghra à       Raoued      ,Maison,165,4,480 000,10.224396500000001,36.824082899999986,https://www.mubawab.tn/fr/a/7951003/maison-petite-ariana-r%C3%A9nov%C3%A9e-%C3%A0-neuf-et-sans-travau
+199,Rez de chaussé 145 m² à Sidi Mansour Kelibia,Kélibia      ,Maison,145,3,250 000,11.0918,36.8493,https://www.mubawab.tn/fr/a/7939514/rez-de-chauss%C3%A9-145-m%C2%B2-%C3%A0-sidi-mansour-kelibia
+200,Maison a vendre,Cité Essaada à       Sidi Thabet      ,Maison,201,3,185 000,10.2243965,36.8240829,https://www.mubawab.tn/fr/a/7950738/maison-a-vendre
+201,A VENDRE villa à 2 étage à El Ouardia,Bellevue à       El Ouardia      ,Maison,608,6,1 200 000,10.21587,36.83561,https://www.mubawab.tn/fr/a/7884968/a-vendre-villa-%C3%A0-2-%C3%A9tage-%C3%A0-el-ouardia
+202,A vendre: villa à el ouardia / lakagnia,Bellevue à       Tunis      ,Maison,565,4,650 000,10.21587,36.83561,https://www.mubawab.tn/fr/a/7936310/a-vendre-villa-%C3%A0-el-ouardia-lakagnia
+203,Une belle maison prés de cité omar el mokhtar,Birine à       Sidi Hassine      ,Maison,150,3,168 000,10.11562056308934,36.756389781839374,https://www.mubawab.tn/fr/a/7950535/une-belle-maison-pr%C3%A9s-de-cit%C3%A9-omar-el-mokhtar
+204,Vaste maison à hafer mhor bizerte,Bizerte      ,Maison,200,3,220 000,9.866667,37.266667,https://www.mubawab.tn/fr/a/7870525/vaste-maison-%C3%A0-hafer-mhor-bizerte
+205,Maison en triplex à Tinja Bizerte,Bizerte      ,Maison,130,4,300 000,9.866667,37.266667,https://www.mubawab.tn/fr/a/7884972/maison-en-triplex-%C3%A0-tinja-bizerte
+206,RDC et 2 étages au centre ville kélibia,Kélibia      ,Maison,120,6,250 000,11.0918,36.8493,https://www.mubawab.tn/fr/a/7820535/rdc-et-2-%C3%A9tages-au-centre-ville-k%C3%A9libia
+207,Duplex Ired à Vendre à EL Mourouj 1,El Mourouj 1 à       El Mourouj      ,Maison,230,3,300 000,10.2622167,36.6938694,https://www.mubawab.tn/fr/a/7914609/duplex-ired-%C3%A0-vendre-%C3%A0-el-mourouj-1
+208,A Vendre Rez De Chaussée à Cité El Jala,Bizerte Nord      ,Maison,105,3,85 000,9.8708,37.272,https://www.mubawab.tn/fr/a/7950193/a-vendre-rez-de-chauss%C3%A9e-%C3%A0-cit%C3%A9-el-jala
+209,Vente Villa de charme Hergla,Hergla      ,Maison,500,5,750 000,10.504303,36.031411,https://www.mubawab.tn/fr/a/7880989/vente-villa-de-charme-hergla
+210,Vente ariana maison jumelée,Cité Ennouzha à       Ariana Ville      ,Maison,200,4,199 000,10.19556,36.8625,https://www.mubawab.tn/fr/a/7883330/vente-ariana-maison-jumel%C3%A9e
+211,Très belle maison en vente à Zone Touristique. Superficie 90 m². Jardin et terrasse,Zone Touristique à       Tabarka      ,Maison,90,2,135 000,8.80041393173334,36.94099038716626,https://www.mubawab.tn/fr/a/7949919/tr%C3%A8s-belle-maison-en-vente-%C3%A0-zone-touristique-superficie-90-m%C2%B2-jardin-et-terrasse
+212,Maison de 129m² plain pieds à la corniche,Hammamet à       Hammamet      ,Maison,129,2,430 000,10.61457,36.40108,https://www.mubawab.tn/fr/a/7702997/maison-de-129m%C2%B2-plain-pieds-%C3%A0-la-corniche
+213,Maison arabe de 250m² sur 167m² de terrain,Nabeul à       Nabeul      ,Maison,250,3,395 000,10.7287328634236,36.45909282549783,https://www.mubawab.tn/fr/a/7709526/maison-arabe-de-250m%C2%B2-sur-167m%C2%B2-de-terrain
+214,Maison inachevée avec garage à Kelibia,Kélibia      ,Maison,180,2,140 000,11.0918,36.8493,https://www.mubawab.tn/fr/a/7875507/maison-inachev%C3%A9e-avec-garage-%C3%A0-kelibia
+215,Villa jumelée à vendre aux Berges du Lac 1,Les Berges Du Lac 1 à       La Marsa      ,Maison,271,4,1 790 000,10.2241758,36.8355152,https://www.mubawab.tn/fr/a/7836904/villa-jumel%C3%A9e-%C3%A0-vendre-aux-berges-du-lac-1
+216,Maison Bloom à vendre,Hammamet à       Hammamet      ,Maison,130,3,385 000,10.61457,36.40108,https://www.mubawab.tn/fr/a/7915044/maison-bloom-%C3%A0-vendre
+217,Duplex S2 à vendre aux Jardins de Carthage,Les Jardins de Carthage à       Le Kram      ,Maison,250,5,880 000,10.316667,36.833333,https://www.mubawab.tn/fr/a/7948535/duplex-s2-%C3%A0-vendre-aux-jardins-de-carthage
+218,Villa S6 sur la route principale A Menzah 8,El Menzah 8 à       Ariana Ville      ,Maison,432,6,980 000,10.1717264,36.856615,https://www.mubawab.tn/fr/a/7923744/villa-s6-sur-la-route-principale-a-menzah-8
+219,Vila A vendre,Hammamet Sud à       Hammamet      ,Maison,415,3,370 000,10.61457,36.40108,https://www.mubawab.tn/fr/a/7948052/vila-a-vendre
+220,Maison Zina w Aziza à Vendre à Beb Souika,Bab Souika à       Tunis      ,Maison,100,3,120 000,10.16596,36.81881,https://www.mubawab.tn/fr/a/7947906/maison-zina-w-aziza-%C3%A0-vendre-%C3%A0-beb-souika
+221,Une villa style américain à sahloul cité manezah,Sahloul à       Sousse Ville      ,Maison,233,4,370 000,10.6339,35.8273,https://www.mubawab.tn/fr/a/7944554/une-villa-style-am%C3%A9ricain-%C3%A0-sahloul-cit%C3%A9-manezah
+222,A Vendre Villa Plain pied à Ennkhilette,Cité Ennkhilet à       Raoued      ,Maison,330,3,330 000,10.191389,36.954444,https://www.mubawab.tn/fr/a/7789631/a-vendre-villa-plain-pied-%C3%A0-ennkhilette
+223,Maison 2ème position de plage el Mamounia kelibia,Kélibia      ,Maison,150,6,540 000,11.0918,36.8493,https://www.mubawab.tn/fr/a/7906811/maison-2%C3%A8me-position-de-plage-el-mamounia-kelibia
+224,Rez de chaussé 100 m² à hammam ghzeez,Hammam Ghezèze      ,Maison,100,2,120 000,11.10203,36.91237,https://www.mubawab.tn/fr/a/7900795/rez-de-chauss%C3%A9-100-m%C2%B2-%C3%A0-hammam-ghzeez
+225,Maison à acheter à Le Kram. Surface de 180 m². Terrasse et jardin.,Le Kram à       Le Kram      ,Maison,180,3,480 000,10.3124463,36.8325498,https://www.mubawab.tn/fr/a/7947408/maison-%C3%A0-acheter-%C3%A0-le-kram-surface-de-180-m%C2%B2-terrasse-et-jardin-
+226,Av maison de 1600m aux alentours de hammamet,Hammamet Sud à       Hammamet      ,Maison,1600,3,160 000,10.61457,36.40108,https://www.mubawab.tn/fr/a/7947287/av-maison-de-1600m-aux-alentours-de-hammamet
+227,A vendre une belle maison a Hammamet sud,Hammamet à       Hammamet      ,Maison,720,3,400 000,10.61457,36.40108,https://www.mubawab.tn/fr/a/7947290/a-vendre-une-belle-maison-a-hammamet-sud
+228,Duplex florelle s3,Hammamet à       Hammamet      ,Maison,150,3,420 000,10.61457,36.40108,https://www.mubawab.tn/fr/a/7835191/duplex-florelle-s3
+229,À vendre Villa vue sur mer à Hammamet Nord,Hammamet Nord à       Hammamet      ,Maison,321,4,890 000,10.61457,36.40108,https://www.mubawab.tn/fr/a/7900657/%C3%A0-vendre-villa-vue-sur-mer-%C3%A0-hammamet-nord
+230,Villa plain pied de 250 m² sur un terrain de 476 m,Cité Ennasr 2 à       Ariana Ville      ,Maison,476,3,1 050 000,10.19556,36.8625,https://www.mubawab.tn/fr/a/7910820/villa-plain-pied-de-250-m%C2%B2-sur-un-terrain-de-476-m
+231,A Vendre villa sup 454m² à El Menzah 9A,El Menzah 9 à       El Menzah      ,Maison,454,4,1 080 000,10.164723,36.845235,https://www.mubawab.tn/fr/a/7946884/a-vendre-villa-sup-454m%C2%B2-%C3%A0-el-menzah-9a
+232,Vente bardo cité ferdaous villa à retaper,Le Bardo à       Le Bardo      ,Maison,270,4,450 000,10.13736,36.83017,https://www.mubawab.tn/fr/a/7945280/vente-bardo-cit%C3%A9-ferdaous-villa-%C3%A0-retaper
+233,Un duplex S5,Kélibia      ,Maison,270,5,420 000,11.0918,36.8493,https://www.mubawab.tn/fr/a/7946511/un-duplex-s5
+234,Prestigieuse Villa de 680 m² à chotrana II,Chotrana 2 à       La Soukra      ,Maison,680,5,2 700 000,10.25,36.883333,https://www.mubawab.tn/fr/a/7411119/prestigieuse-villa-de-680-m%C2%B2-%C3%A0-chotrana-ii
+235,Maison à la vente à Ben Arous. Surface totale 128 m². Cuisine bien équipée.,Ben Arous à       Ben Arous      ,Maison,128,3,330 000,10.22122,36.77228,https://www.mubawab.tn/fr/a/7945504/maison-%C3%A0-la-vente-%C3%A0-ben-arous-surface-totale-128-m%C2%B2-cuisine-bien-%C3%A9quip%C3%A9e-
+236,Immeuble Ezabelle à Vendre à Borj Cédria,Borj Cedria à       Hammam Chatt      ,Maison,340,7,500 000,9.97244,36.0683,https://www.mubawab.tn/fr/a/7945242/immeuble-ezabelle-%C3%A0-vendre-%C3%A0-borj-c%C3%A9dria
+237,Maison arabe 300 m² au centre ville kelibia,Kélibia      ,Maison,300,3,140 000,11.0918,36.8493,https://www.mubawab.tn/fr/a/7806216/maison-arabe-300-m%C2%B2-au-centre-ville-kelibia
+238,Villa inachevée en vente,Sousse Riadh à       Sousse Riadh      ,Maison,442,3,460 000,10.578951062694486,35.78667804574275,https://www.mubawab.tn/fr/a/7895998/villa-inachev%C3%A9e-en-vente
+239,Belle ancienne maison,Bellevue à       El Ouardia      ,Maison,134,3,280 000,10.21587,36.83561,https://www.mubawab.tn/fr/a/7944943/belle-ancienne-maison
+240,Marsa cube maison à démolir,La Marsa à       La Marsa      ,Maison,650,3,2 500 000,10.325278000000003,36.87638899999999,https://www.mubawab.tn/fr/a/7833212/marsa-cube-maison-%C3%A0-d%C3%A9molir
+241,Une villa avec vue mer dégagée,Sidi Bousaid à       Carthage      ,Maison,300,4,3 300 000,10.3343581,36.871576,https://www.mubawab.tn/fr/a/7837334/une-villa-avec-vue-mer-d%C3%A9gag%C3%A9e
+242,Une villa dans une résidence à Marsa Cube,La Marsa à       La Marsa      ,Maison,400,4,2 350 000,10.276223200000002,36.8941992,https://www.mubawab.tn/fr/a/7834816/une-villa-dans-une-r%C3%A9sidence-%C3%A0-marsa-cube
+243,Spacieuse villa à proximité des plages de Soliman,Soliman      ,Maison,430,11,650 000,10.4918,36.6927,https://www.mubawab.tn/fr/a/7944462/spacieuse-villa-%C3%A0-proximit%C3%A9-des-plages-de-soliman
+244,Maison à vendre,Ennasser à       Kairouan Ville      ,Maison,138,6,230 000,10.0924,35.6776,https://www.mubawab.tn/fr/a/7896488/maison-%C3%A0-vendre
+245,A vendre une maison style arabesque à chott marie,Chatt Meriem à       Sousse Ville      ,Maison,500,4,1 100 000,10.6339,35.8273,https://www.mubawab.tn/fr/a/7852743/a-vendre-une-maison-style-arabesque-%C3%A0-chott-marie
+246,Maison 268 m² à cité Mirdès Kelibia,Kélibia      ,Maison,268,2,550 000,11.0918,36.8493,https://www.mubawab.tn/fr/a/7795984/maison-268-m%C2%B2-%C3%A0-cit%C3%A9-mird%C3%A8s-kelibia
+247,Masion 582 M2 À Beb Sadoune,Bab Saadoun à       Tunis      ,Maison,582,3,1 100 000,10.16596,36.81881,https://www.mubawab.tn/fr/a/7944231/masion-582-m2-%C3%A0-beb-sadoune
+248,Vente de villa,Dar Châabane      ,Maison,158,5,300 000,10.75258,36.48423,https://www.mubawab.tn/fr/a/7707829/vente-de-villa
+249,Vente villa Rouchan S2,Hammamet à       Hammamet      ,Maison,218,2,350 000,10.61457,36.40108,https://www.mubawab.tn/fr/a/7904467/vente-villa-rouchan-s2
+250,A vendre villa à retaper Manar 3,El Manar 2 à       El Menzah      ,Maison,620,5,1 300 000,10.164723,36.845235,https://www.mubawab.tn/fr/a/7898866/a-vendre-villa-%C3%A0-retaper-manar-3
+251,A vendre Une villa de 584m² située à Cité El Fawz,Les Jardins d'El Menzah 2 à       Ariana Ville      ,Maison,584,3,1 150 000,10.179304468814204,36.86593796279119,https://www.mubawab.tn/fr/a/7895216/a-vendre-une-villa-de-584m%C2%B2-situ%C3%A9e-%C3%A0-cit%C3%A9-el-fawz
+252,A vendre un duplex s4 à Ain Zaghouan Nord,Ain Zaghouan Nord à       La Marsa      ,Maison,177,4,520 000,10.325278,36.876389,https://www.mubawab.tn/fr/a/7943855/a-vendre-un-duplex-s4-%C3%A0-ain-zaghouan-nord
+253,A vendre une villa située à la Marsa,La Marsa à       La Marsa      ,Maison,723,5,2 200 000,10.325278,36.876389,https://www.mubawab.tn/fr/a/7920972/a-vendre-une-villa-situ%C3%A9e-%C3%A0-la-marsa
+254,A vendre villa à rénover 360 m² à Mutuelle ville,Mutuelle Ville à       El Menzah      ,Maison,360,4,1 200 000,10.164723,36.845235,https://www.mubawab.tn/fr/a/7888367/a-vendre-villa-%C3%A0-r%C3%A9nover-360-m%C2%B2-%C3%A0-mutuelle-ville
+255,A Vendre Villa à La Route Panoramique Corniche,Ain Damous à       Bizerte Nord      ,Maison,1105,8,1 250 000,9.8708,37.272,https://www.mubawab.tn/fr/a/7943257/a-vendre-villa-%C3%A0-la-route-panoramique-corniche
+256,Une maison style arabe à vendre,Kalâa Kebira      ,Maison,400,4,250 000,10.54372,35.87392,https://www.mubawab.tn/fr/a/7830679/une-maison-style-arabe-%C3%A0-vendre
+257,À vendre une villa à Khezama Ouest,Khezama Ouest      ,Maison,250,3,549 000,10.6179,35.7218,https://www.mubawab.tn/fr/a/7872519/%C3%A0-vendre-une-villa-%C3%A0-khezama-ouest
+258,Villa moderne avec piscine et jardin à vendre aux Jardins de Carthage,Les Jardins de Carthage à       Le Kram      ,Maison,700,5,3 400 000,10.291834,36.8555704,https://www.mubawab.tn/fr/a/7929203/villa-moderne-avec-piscine-et-jardin-%C3%A0-vendre-aux-jardins-de-carthage
+259,A vendre villa S5 à Manar 1,El Manar 1 à       El Menzah      ,Maison,310,4,630 000,10.1384603,36.83319469999999,https://www.mubawab.tn/fr/a/7662807/a-vendre-villa-s5-%C3%A0-manar-1
+260,Maison arabe au centre ville kélibia,Kélibia      ,Maison,240,2,135 000,11.0918,36.8493,https://www.mubawab.tn/fr/a/7919970/maison-arabe-au-centre-ville-k%C3%A9libia
+261,Maison style arabe moderne à kélibia,Kélibia      ,Maison,200,3,180 000,11.0918,36.8493,https://www.mubawab.tn/fr/a/7853057/maison-style-arabe-moderne-%C3%A0-k%C3%A9libia
+262,A vendre villa s7 au Bardo,Le Bardo à       Le Bardo      ,Maison,450,7,750 000,10.13736,36.83017,https://www.mubawab.tn/fr/a/7942918/a-vendre-villa-s7-au-bardo
+263,A vendre Une villa située aux Jardins D'el Menzah,Les Jardins d'El Menzah 2 à       Ariana Ville      ,Maison,750,5,2 200 000,10.154189608154297,36.8641480910109,https://www.mubawab.tn/fr/a/7895227/a-vendre-une-villa-situ%C3%A9e-aux-jardins-d-el-menzah
+264,A vendre grande villa avec titre bleu Individuel,Djerba à       Djerba      ,Maison,150,2,300 000,10.8451467,33.8075978,https://www.mubawab.tn/fr/a/7942368/a-vendre-grande-villa-avec-titre-bleu-individuel
+265,"Très belle maison en vente à Hammamet Sud. Surface totale 500 m². Vue exceptionnelle sur la montagne, Fenêtres en double vitrage.",Hammamet Sud à       Hammamet      ,Maison,500,2,300 000,10.61457,36.40108,https://www.mubawab.tn/fr/a/7942121/tr%C3%A8s-belle-maison-en-vente-%C3%A0-hammamet-sud-surface-totale-500-m%C2%B2-vue-exceptionnelle-sur-la-montagne-fen%C3%AAtres-en-double-vitrage-
+266,Villa avec piscine à TUNIS BAY,Gammarth à       La Marsa      ,Maison,350,3,828 000,10.325278000000003,36.87638899999999,https://www.mubawab.tn/fr/pa/6502441/villa-avec-piscine-%C3%A0-tunis-bay
+267,Vente Villa jumelée S4 à Cité Khalil,Cité El Khalil à       La Marsa      ,Maison,201,4,680 000,10.325278,36.876389,https://www.mubawab.tn/fr/a/7866308/vente-villa-jumel%C3%A9e-s4-%C3%A0-cit%C3%A9-khalil
+268,Villa R plus 2 plus Studio,Sousse Riadh à       Sousse Riadh      ,Maison,380,11,900 000,10.595565080425953,35.80542813542016,https://www.mubawab.tn/fr/a/7800381/villa-r-plus-2-plus-studio
+269,Duplex avec piscine à la Marsa,La Marsa à       La Marsa      ,Maison,225,4,1 500 000,10.325278,36.876389,https://www.mubawab.tn/fr/a/7941876/duplex-avec-piscine-%C3%A0-la-marsa
+270,Maison à vendre à Hammamet,Hammamet à       Hammamet      ,Maison,220,3,510 000,10.61457,36.40108,https://www.mubawab.tn/fr/a/7880821/maison-%C3%A0-vendre-%C3%A0-hammamet
+271,Villa indépendante aux Jardins de Carthage,Les Jardins de Carthage à       Le Kram      ,Maison,703,5,2 500 000,10.316667,36.833333,https://www.mubawab.tn/fr/a/7921747/villa-ind%C3%A9pendante-aux-jardins-de-carthage
+272,Villa en vente a chott mariem,Chott Meriem à       Akouda      ,Maison,170,3,580 000,10.57,35.87,https://www.mubawab.tn/fr/a/7911580/villa-en-vente-a-chott-mariem
+273,Une Maison arabesque rénovée à béni khiar,Beni Khiar à       Beni Khiar      ,Maison,170,2,229 000,10.78,36.47,https://www.mubawab.tn/fr/a/7939207/une-maison-arabesque-r%C3%A9nov%C3%A9e-%C3%A0-b%C3%A9ni-khiar
+274,Immeuble Melissa à Vendre à Zaghouan,Zaghouan      ,Maison,170,5,390 000,10.1448,36.3998,https://www.mubawab.tn/fr/a/7941168/immeuble-melissa-%C3%A0-vendre-%C3%A0-zaghouan
+275,Maison jumelée en vente,Kairouan Ville à       Kairouan Ville      ,Maison,100,3,140 000,10.0924,35.6776,https://www.mubawab.tn/fr/a/7910407/maison-jumel%C3%A9e-en-vente
+276,Maison à vendre,Kairouan Ville à       Kairouan Ville      ,Maison,82,4,180 000,10.0924,35.6776,https://www.mubawab.tn/fr/a/7895579/maison-%C3%A0-vendre
+277,A Vendre une villa jumelée sur la route de relais,Gammarth à       La Marsa      ,Maison,225,4,1 100 000,10.325278,36.876389,https://www.mubawab.tn/fr/a/7937205/a-vendre-une-villa-jumel%C3%A9e-sur-la-route-de-relais
+278,A vendre maison de 460m² sur un terrain de 304m²,La Manouba à       La Manouba      ,Maison,460,4,830 000,10.05538,36.77855,https://www.mubawab.tn/fr/a/7811685/a-vendre-maison-de-460m%C2%B2-sur-un-terrain-de-304m%C2%B2
+279,Maison à deux etages,Cité Ubn Khaldoun à       El Omrane Superieur      ,Maison,160,3,200 000,,,https://www.mubawab.tn/fr/a/7940441/maison-%C3%A0-deux-etages
+280,Villa a moitie prix,Merkez Chihya à       Sakiet Ezzit      ,Maison,900,5,645 000,10.7609,34.7996,https://www.mubawab.tn/fr/a/7939214/villa-a-moitie-prix
+281,Duplex en s2 à hammamet centre,Hammamet à       Hammamet      ,Maison,100,2,370 000,10.57937941772461,36.406053862077705,https://www.mubawab.tn/fr/a/7930826/duplex-en-s2-%C3%A0-hammamet-centre
+282,Villa en triplex Honda à Vendre à La Soukra,La Soukra à       La Soukra      ,Maison,300,5,450 000,10.25,36.883333,https://www.mubawab.tn/fr/a/7914639/villa-en-triplex-honda-%C3%A0-vendre-%C3%A0-la-soukra
+283,S2 Brown à Vendre à La Soukra,La Soukra à       La Soukra      ,Maison,124,2,230 000,10.25,36.883333,https://www.mubawab.tn/fr/a/7630462/s2-brown-%C3%A0-vendre-%C3%A0-la-soukra
+284,Vente Triplex Elegance S3 Hammamet centre,Hammamet à       Hammamet      ,Maison,210,3,850 000,10.61457,36.40108,https://www.mubawab.tn/fr/a/7914177/vente-triplex-elegance-s3-hammamet-centre
+285,A vendre Appartement s2 à kantaoui,El Kantaoui à       Hammam Sousse      ,Maison,110,2,650 000,10.5972,35.8569,https://www.mubawab.tn/fr/a/7922318/a-vendre-appartement-s2-%C3%A0-kantaoui
+286,A vendre villa de haut standing avec garage Midou,Djerba à       Djerba      ,Maison,220,2,450 000,10.8451467,33.8075978,https://www.mubawab.tn/fr/a/7804284/a-vendre-villa-de-haut-standing-avec-garage-midou
+287,Vente d'une villa a Elouardia,El Ouardia à       El Ouardia      ,Maison,599,3,750 000,10.21587,36.83561,https://www.mubawab.tn/fr/a/7938558/vente-d-une-villa-a-elouardia
+288,A vendre VILLA INACHEVEE 238m2 à Borj Louzir,Borj Louzir à       La Soukra      ,Maison,238,4,395 000,10.25,36.883333,https://www.mubawab.tn/fr/a/7937196/a-vendre-villa-inachevee-238m2-%C3%A0-borj-louzir
+289,Maison tres haut standing,Aouina à       La Marsa      ,Maison,225,4,700 000,10.325278,36.876389,https://www.mubawab.tn/fr/a/7838854/maison-tres-haut-standing
+290,Maison à el mansoura,Cité El Mansoura à       La Soukra      ,Maison,139,2,145 000,10.25,36.883333,https://www.mubawab.tn/fr/a/7897560/maison-%C3%A0-el-mansoura
+291,Immeuble Nursel à Vendre à Beb Jdid,Bab Souika à       Tunis      ,Maison,250,6,800 000,10.16596,36.81881,https://www.mubawab.tn/fr/a/7936927/immeuble-nursel-%C3%A0-vendre-%C3%A0-beb-jdid
+292,Av maison non fini à bareket sehehl,Hammamet Sud à       Hammamet      ,Maison,150,2,145 000,10.61457,36.40108,https://www.mubawab.tn/fr/a/7868163/av-maison-non-fini-%C3%A0-bareket-sehehl
+293,Etage S3 Ballote à Vendre à Ain Zaghouan,Ain Zaghouan Sud à       La Marsa      ,Maison,124,3,495 000,10.325278,36.876389,https://www.mubawab.tn/fr/a/7936880/etage-s3-ballote-%C3%A0-vendre-%C3%A0-ain-zaghouan
+294,Duplex Aouina SS4 avec jardin,Aouina à       La Marsa      ,Maison,211,4,520 000,10.325278,36.876389,https://www.mubawab.tn/fr/a/7936839/duplex-aouina-ss4-avec-jardin
+295,A vendre un Duplex s3 à la Marsa cité du stade,Cité des Juges à       La Marsa      ,Maison,170,3,620 000,10.325278,36.876389,https://www.mubawab.tn/fr/a/7720858/a-vendre-un-duplex-s3-%C3%A0-la-marsa-cit%C3%A9-du-stade
+296,A vendre Maison S2 à Sidi Hammed Hammamet Sud,Hammamet Sud à       Hammamet      ,Maison,300,2,290 000,10.61457,36.40108,https://www.mubawab.tn/fr/a/7838866/a-vendre-maison-s2-%C3%A0-sidi-hammed-hammamet-sud
+297,Villa pour investissement cité ettahrir,Cité du Jardin à       Ettahrir      ,Maison,493,6,880 000,10.16596,36.81881,https://www.mubawab.tn/fr/a/7936494/villa-pour-investissement-cit%C3%A9-ettahrir
+298,Houch traditionnel à vendre,Djerba à       Djerba      ,Maison,200,3,250 000,10.850396751958016,33.86839259637503,https://www.mubawab.tn/fr/a/7585093/houch-traditionnel-%C3%A0-vendre
+299,"A vendre Maison S2 à Mrezga, Hammamet Nord",Hammamet Nord à       Hammamet      ,Maison,102,2,180 000,10.684797511701298,36.43379658557738,https://www.mubawab.tn/fr/a/7830531/a-vendre-maison-s2-%C3%A0-mrezga-hammamet-nord
+300,,Djerba à       Djerba      ,Maison,941,4,600 000,10.81399374576289,33.86717566674566,https://www.mubawab.tn/fr/a/7932783/vente-villa-avec-piscine-milita-djerba
+301,Triplex A Hammamet,Hammamet Nord à       Hammamet      ,Maison,88,4,550 000,10.661894,36.419773,https://www.mubawab.tn/fr/a/7817692/triplex-a-hammamet
+302,Une villa style arabesque à vendre à craxy,Hammamet Nord à       Hammamet      ,Maison,400,3,420 000,10.61457,36.40108,https://www.mubawab.tn/fr/a/7814327/une-villa-style-arabesque-%C3%A0-vendre-%C3%A0-craxy
+303,Belle maison a 4km de Hammamet,Hammamet à       Hammamet      ,Maison,150,3,195 000,10.61457,36.40108,https://www.mubawab.tn/fr/a/7931623/belle-maison-a-4km-de-hammamet
+304,Maison à acheter à La Soukra. Surface totale 135 m². Chauffage centralisé,La Soukra à       La Soukra      ,Maison,135,2,364 000,10.27417,36.88833,https://www.mubawab.tn/fr/a/7936089/maison-%C3%A0-acheter-%C3%A0-la-soukra-surface-totale-135-m%C2%B2-chauffage-centralis%C3%A9
+305,Maison inachevée 3 étages Borj cedria dt,Ben Arous à       Ben Arous      ,Maison,300,6,190 000,10.160786015922353,36.86691429469443,https://www.mubawab.tn/fr/a/7935805/maison-inachev%C3%A9e-3-%C3%A9tages-borj-cedria-dt
+306,Maison à vendre,Borj Louzir à       La Soukra      ,Maison,300,2,400 000,10.25,36.883333,https://www.mubawab.tn/fr/a/7915607/maison-%C3%A0-vendre
+307,A Vendre Maison à La Corniche Bizete,Bizerte à       Bizerte Nord      ,Maison,1335,4,980 000,9.7506777,37.1303,https://www.mubawab.tn/fr/a/7935242/a-vendre-maison-%C3%A0-la-corniche-bizete
+308,VENTE villa avec piscine a gammrth golf,Gammarth à       La Marsa      ,Maison,1000,4,3 300 000,10.325278,36.876389,https://www.mubawab.tn/fr/a/7693071/vente-villa-avec-piscine-a-gammrth-golf
+309,Vente villa standing renovée piscine elmenzah 1,El Menzah 1 à       El Menzah      ,Maison,400,4,1 600 000,10.164723,36.845235,https://www.mubawab.tn/fr/a/7721834/vente-villa-standing-renov%C3%A9e-piscine-elmenzah-1
+310,Villa OLGA,Djerba à       Djerba      ,Maison,408,4,1 790 850,10.8451467,33.8075978,https://www.mubawab.tn/fr/a/7894455/villa-olga
+311,The four season house,Djerba à       Djerba      ,Maison,198,4,693 520,10.8451467,33.8075978,https://www.mubawab.tn/fr/a/7609530/the-four-season-house
+312,Houch les veterans vendre a djerba,Djerba à       Djerba      ,Maison,850,3,245 700,10.8451467,33.8075978,https://www.mubawab.tn/fr/a/7884786/houch-les-veterans-vendre-a-djerba
+313,Maison Cosy,Hammamet Nord à       Hammamet      ,Maison,151,2,445 000,10.61457,36.40108,https://www.mubawab.tn/fr/a/7934966/maison-cosy
+314,"Bonne opportunité, Duplex A Vendre à Ras Jebel",Ras Jebel      ,Maison,70,2,150 000,9.7506777,37.1303,https://www.mubawab.tn/fr/a/7934918/bonne-opportunit%C3%A9-duplex-a-vendre-%C3%A0-ras-jebel
+315,Maison à vendre Barraket Essahel Hammamet,Barraket Essahel      ,Maison,190,2,250 000,10.89554,36.78913,https://www.mubawab.tn/fr/a/7934613/maison-%C3%A0-vendre-barraket-essahel-hammamet
+316,A vendre en face la commune el hadika de bardo,Le Bardo à       Le Bardo      ,Maison,143,3,300 000,10.13736,36.83017,https://www.mubawab.tn/fr/a/7934824/a-vendre-en-face-la-commune-el-hadika-de-bardo
+317,Maison S2 à vendre a Hammamet sud,Hammamet Sud à       Hammamet      ,Maison,300,2,290 000,10.61457,36.40108,https://www.mubawab.tn/fr/a/7934756/maison-s2-%C3%A0-vendre-a-hammamet-sud
+318,À vendre villa à hammam lif,Hammam Lif à       Hammam Lif      ,Maison,310,2,420 000,10.3277,36.7311,https://www.mubawab.tn/fr/a/7934725/%C3%A0-vendre-villa-%C3%A0-hammam-lif
+319,Immeuble Ramousa à Vendre à Ezzahra,Ezzahra à       Ezzahra      ,Maison,500,6,750 000,10.16262,36.89147,https://www.mubawab.tn/fr/a/7934703/immeuble-ramousa-%C3%A0-vendre-%C3%A0-ezzahra
+320,Villa style Américaine inachevée a vendre a hammam,Hammam Sousse à       Hammam Sousse      ,Maison,387,4,600 000,10.5972,35.8569,https://www.mubawab.tn/fr/a/7911723/villa-style-am%C3%A9ricaine-inachev%C3%A9e-a-vendre-a-hammam
+321,Belle Villa Titrée Avec Piscine À Vendre,Midoune à       Midoun      ,Maison,622,3,460 000,10.99877484780351,33.816646352729165,https://www.mubawab.tn/fr/a/7933955/belle-villa-titr%C3%A9e-avec-piscine-%C3%A0-vendre
+322,Ariana Soghra vente Duplex & un S3,Ariana Essoghra à       Raoued      ,Maison,300,7,480 000,10.191389,36.954444,https://www.mubawab.tn/fr/a/7934555/ariana-soghra-vente-duplex-un-s3
+323,Trouvez votre maison à acheter à Zone touristique. Surface totale 117 m². Belle terrasse et jardin,Zone touristique à       Midoun      ,Maison,117,3,176 000,10.964031358012251,33.80904197941488,https://www.mubawab.tn/fr/a/7934345/trouvez-votre-maison-%C3%A0-acheter-%C3%A0-zone-touristique-surface-totale-117-m%C2%B2-belle-terrasse-et-jardin
+324,Maison jumelée en vente,Kairouan Ville à       Kairouan Ville      ,Maison,200,5,230 000,10.0924,35.6776,https://www.mubawab.tn/fr/a/7910404/maison-jumel%C3%A9e-en-vente
+325,Un triplex s5 jumelée chotrana 1,Chotrana 1 à       La Soukra      ,Maison,245,5,1 180 000,10.25,36.88333299999999,https://www.mubawab.tn/fr/a/7875970/un-triplex-s5-jumel%C3%A9e-chotrana-1
+326,A vendre Villa sur 3 niveaux à la Marsa,La Marsa à       La Marsa      ,Maison,539,8,1 800 000,10.325278,36.876389,https://www.mubawab.tn/fr/a/7320559/a-vendre-villa-sur-3-niveaux-%C3%A0-la-marsa
+327,Maison à la Médina à vendre,La Medina      ,Maison,441,7,540 000,10.16596,36.81881,https://www.mubawab.tn/fr/a/7799988/maison-%C3%A0-la-m%C3%A9dina-%C3%A0-vendre
+328,Maison 2s4,Beni Khiar à       Beni Khiar      ,Maison,170,4,230 000,10.78,36.47,https://www.mubawab.tn/fr/a/7889617/maison-2s4
+329,A VENDRE une villa à hammamet centre,Hammamet à       Hammamet      ,Maison,150,2,340 000,10.61457,36.40108,https://www.mubawab.tn/fr/a/7932774/a-vendre-une-villa-%C3%A0-hammamet-centre
+330,A Vendre Villa Au Début De Corniche,Bizerte Nord      ,Maison,460,6,760 000,9.8708,37.272,https://www.mubawab.tn/fr/a/7933215/a-vendre-villa-au-d%C3%A9but-de-corniche
+331,Villa Maillard à Vendre à La Soukra,La Soukra à       La Soukra      ,Maison,546,5,900 000,10.25,36.883333,https://www.mubawab.tn/fr/a/7785868/villa-maillard-%C3%A0-vendre-%C3%A0-la-soukra
+332,Maison à l'achat. Surface de 370 m²,Korba      ,Maison,370,5,230 000,10.855326382136182,36.57100374543643,https://www.mubawab.tn/fr/a/7932821/maison-%C3%A0-l-achat-surface-de-370-m%C2%B2
+333,Duplex haut standing à vendre,Cité Ubn Khaldoun à       El Omrane Superieur      ,Maison,200,6,590 000,10.16596,36.81881,https://www.mubawab.tn/fr/a/7932734/duplex-haut-standing-%C3%A0-vendre
+334,Vente maison à Borj Cedria. 3 belles chambres. Jardin et terrasse.,Borj Cedria à       Hammam Chatt      ,Maison,415,3,400 000,9.97244,36.0683,https://www.mubawab.tn/fr/a/7932630/vente-maison-%C3%A0-borj-cedria-3-belles-chambres-jardin-et-terrasse-
+335,A vendre Duplex S3 à la Marsa,Cité des Juges à       La Marsa      ,Maison,106,3,550 000,10.325278,36.876389,https://www.mubawab.tn/fr/a/7817881/a-vendre-duplex-s3-%C3%A0-la-marsa
+336,Villa avec grand terrain à Menzah 1,El Menzah 1 à       El Menzah      ,Maison,704,6,1 350 000,10.164723,36.845235,https://www.mubawab.tn/fr/a/7821971/villa-avec-grand-terrain-%C3%A0-menzah-1
+337,Duplex S5 A El Agba,El Hrairia à       El Hrairia      ,Maison,220,5,395 000,10.16596,36.81881,https://www.mubawab.tn/fr/a/7920445/duplex-s5-a-el-agba
+338,A vendre Villa S4 à Hammamet,Hammamet à       Hammamet      ,Maison,420,4,680 000,10.61457,36.40108,https://www.mubawab.tn/fr/a/7931900/a-vendre-villa-s4-%C3%A0-hammamet
+339,Nouvelle Villa AFH Hammamet,Hammamet à       Hammamet      ,Maison,269,2,630 000,10.61457,36.40108,https://www.mubawab.tn/fr/a/7931886/nouvelle-villa-afh-hammamet
+340,À vendre un Triplex S4 à la marsa,Cité El Khalil à       La Marsa      ,Maison,352,4,870 000,10.325278,36.876389,https://www.mubawab.tn/fr/a/7901012/%C3%A0-vendre-un-triplex-s4-%C3%A0-la-marsa
+341,Triplex S3 avec jardin à La Soukra MTRV0017,La Soukra à       La Soukra      ,Maison,300,3,830 000,10.25,36.883333,https://www.mubawab.tn/fr/a/7931625/triplex-s3-avec-jardin-%C3%A0-la-soukra-mtrv0017
+342,Immeuble Noisette à Vendre à Boumhal,Bou Mhel à       Boumhel Bassatine      ,Maison,390,9,550 000,10.34246,36.57724,https://www.mubawab.tn/fr/a/7931188/immeuble-noisette-%C3%A0-vendre-%C3%A0-boumhal
+343,Ville de 300 m² sur terrain de 475 m² à cité el ghazela,Cité el Ghazela à       Raoued      ,Maison,475,5,795 000,10.1048,36.53203,https://www.mubawab.tn/fr/a/7915867/ville-de-300-m%C2%B2-sur-terrain-de-475-m%C2%B2-%C3%A0-cit%C3%A9-el-ghazela
+344,A vendre une maison arabe à Medina Tunis,La Medina      ,Maison,103,6,470 000,10.16596,36.81881,https://www.mubawab.tn/fr/a/7704654/a-vendre-une-maison-arabe-%C3%A0-medina-tunis
+345,A vendre Maison S3 à Sidi Hammed Hammamet,Hammamet Sud à       Hammamet      ,Maison,250,3,245 000,10.61457,36.40108,https://www.mubawab.tn/fr/a/7917548/a-vendre-maison-s3-%C3%A0-sidi-hammed-hammamet
+346,A Vendre Un Étage de Villa en Plein Centre Ville,Bizerte Nord      ,Maison,130,3,110 000,9.8708,37.272,https://www.mubawab.tn/fr/a/7930802/a-vendre-un-%C3%A9tage-de-villa-en-plein-centre-ville
+347,A vendre maison R1 commercial à Nabeul,Nabeul à       Nabeul      ,Maison,120,4,240 000,10.733854501611972,36.4577558132386,https://www.mubawab.tn/fr/a/7637848/a-vendre-maison-r1-commercial-%C3%A0-nabeul
+348,Charmante maison à vendre à El Omran Tunis,El Omrane à       El Omrane      ,Maison,83,3,220 000,10.1558086,36.814748,https://www.mubawab.tn/fr/a/7930529/charmante-maison-%C3%A0-vendre-%C3%A0-el-omran-tunis
+349,Villa à rafraichir avec piscine à La Marsa,Cité Les Pins à       La Marsa      ,Maison,450,4,2 000 000,10.325278,36.876389,https://www.mubawab.tn/fr/a/7864429/villa-%C3%A0-rafraichir-avec-piscine-%C3%A0-la-marsa
+350,Maison jumelée en vente,Kairouan Ville à       Kairouan Ville      ,Maison,350,5,330 000,10.0924,35.6776,https://www.mubawab.tn/fr/a/7926146/maison-jumel%C3%A9e-en-vente
+351,Maison Zeineb la médina Hammamet,Hammamet à       Hammamet      ,Maison,140,3,1 500 000,10.61457,36.40108,https://www.mubawab.tn/fr/a/7840925/maison-zeineb-la-m%C3%A9dina-hammamet
+352,Villa Lylia Hammamet,Hammamet à       Hammamet      ,Maison,300,3,690 000,10.61457,36.40108,https://www.mubawab.tn/fr/a/7841008/villa-lylia-hammamet
+353,A vendre villa à cité la gazelle,Cité el Ghazela à       Raoued      ,Maison,476,5,710 000,10.191389,36.954444,https://www.mubawab.tn/fr/a/7929801/a-vendre-villa-%C3%A0-cit%C3%A9-la-gazelle
+354,Maison a vendre à Borj Louzir,Borj Louzir à       La Soukra      ,Maison,458,5,770 000,10.25,36.883333,https://www.mubawab.tn/fr/a/7929524/maison-a-vendre-%C3%A0-borj-louzir
+355,Maison avec piscine à 10 min de Yasmine Hammamet,Hammamet Sud à       Hammamet      ,Maison,415,3,370 000,10.61457,36.40108,https://www.mubawab.tn/fr/a/7929393/maison-avec-piscine-%C3%A0-10-min-de-yasmine-hammamet
+356,Villa à R1 à vendre à maamoura plage,El Maamoura      ,Maison,200,2,420 000,10.8,36.466667,https://www.mubawab.tn/fr/a/7898978/villa-%C3%A0-r1-%C3%A0-vendre-%C3%A0-maamoura-plage
+357,A VENDRE un Duplexe à hammamet nord,Hammamet Nord à       Hammamet      ,Maison,130,3,420 000,10.61457,36.40108,https://www.mubawab.tn/fr/a/7921226/a-vendre-un-duplexe-%C3%A0-hammamet-nord
+358,Villa plein pied à la marsa,La Marsa à       La Marsa      ,Maison,850,4,2 700 000,10.276223200000002,36.8941992,https://www.mubawab.tn/fr/a/7916340/villa-plein-pied-%C3%A0-la-marsa
+359,A VENDRE un duplexe à hammamet nord,Hammamet Nord à       Hammamet      ,Maison,112,2,290 000,10.61457,36.40108,https://www.mubawab.tn/fr/a/7927782/a-vendre-un-duplexe-%C3%A0-hammamet-nord
+360,Une Villa à vendre à La Soukra,La Soukra à       La Soukra      ,Maison,800,7,980 000,10.27417,36.88833,https://www.mubawab.tn/fr/a/7730675/une-villa-%C3%A0-vendre-%C3%A0-la-soukra
+361,Maison à vendre à manzel Abd rahmen Bizerte,Menzel Jemil      ,Maison,130,2,150 000,9.91,37.23,https://www.mubawab.tn/fr/a/7906199/maison-%C3%A0-vendre-%C3%A0-manzel-abd-rahmen-bizerte
+362,Cité chaker Ariana,Cité Chaker à       Raoued      ,Maison,120,6,480 000,10.191389,36.954444,https://www.mubawab.tn/fr/a/7873105/cit%C3%A9-chaker-ariana
+363,Villa Indépendante 850 M2 À Vendre À Bab Sâadoun,Bab Saadoun à       Tunis      ,Maison,850,4,1 450 000,10.16596,36.81881,https://www.mubawab.tn/fr/a/7928436/villa-ind%C3%A9pendante-850-m2-%C3%A0-vendre-%C3%A0-bab-s%C3%A2adoun
+364,Villa de 400m2 sur terrain de 351m2 à Menzah 9A,El Menzah 9 à       El Menzah      ,Maison,351,5,1 280 000,10.164723,36.845235,https://www.mubawab.tn/fr/a/7928212/villa-de-400m2-sur-terrain-de-351m2-%C3%A0-menzah-9a
+365,À vendre un duplex,Ibn Sina à       El Kabaria      ,Maison,350,3,350 000,,,https://www.mubawab.tn/fr/a/7928107/%C3%A0-vendre-un-duplex
+366,Maison S3 Indépendante À Ennkilet Ariana,Cité Ennkhilet à       Raoued      ,Maison,160,3,320 000,10.191389,36.954444,https://www.mubawab.tn/fr/a/7928091/maison-s3-ind%C3%A9pendante-%C3%A0-ennkilet-ariana
+367,Villa à vendre à La Marsa,La Marsa à       La Marsa      ,Maison,640,3,1 400 000,10.325278,36.876389,https://www.mubawab.tn/fr/a/7876291/villa-%C3%A0-vendre-%C3%A0-la-marsa
+368,A cause de départ Villa inachevé a vendre,Ksar Said à       Le Bardo      ,Maison,413,8,580 000,10.13736,36.83017,https://www.mubawab.tn/fr/a/7919601/a-cause-de-d%C3%A9part-villa-inachev%C3%A9-a-vendre
+369,Triplex a vendre au jardins de carthage,Les Jardins de Carthage à       Le Kram      ,Maison,250,3,1 250 000,10.291834,36.8555704,https://www.mubawab.tn/fr/a/7927965/triplex-a-vendre-au-jardins-de-carthage
+370,A vendre une magnifique villa à la Soukra,Cité El Boustene 1 à       La Soukra      ,Maison,432,3,1 400 000,10.25,36.883333,https://www.mubawab.tn/fr/a/7904980/a-vendre-une-magnifique-villa-%C3%A0-la-soukra
+371,A Vendre une villa à Menzah 8,El Menzah 8 à       Ariana Ville      ,Maison,542,5,1 045 000,10.1717264,36.856615,https://www.mubawab.tn/fr/a/7912721/a-vendre-une-villa-%C3%A0-menzah-8
+372,Vente ariana maison deux nivaux jumelée,Cité Ennouzha à       Ariana Ville      ,Maison,120,3,199 000,10.19556,36.8625,https://www.mubawab.tn/fr/a/7860027/vente-ariana-maison-deux-nivaux-jumel%C3%A9e
+373,Maison en triplex a vendre,Ghar El Melh      ,Maison,72,5,299 000,10.18686925883788,37.16587512309474,https://www.mubawab.tn/fr/a/7927121/maison-en-triplex-a-vendre
+374,Maison indépendante à vendre à Hammamet AFH Bareka,Hammamet à       Hammamet      ,Maison,195,4,385 000,10.61457,36.40108,https://www.mubawab.tn/fr/a/7909259/maison-ind%C3%A9pendante-%C3%A0-vendre-%C3%A0-hammamet-afh-bareka
+375,Immeuble Malte à Vendre à La Soukra,La Soukra à       La Soukra      ,Maison,404,5,690 000,10.25,36.883333,https://www.mubawab.tn/fr/a/7781876/immeuble-malte-%C3%A0-vendre-%C3%A0-la-soukra
+376,Villa le Bardo,Le Bardo à       Le Bardo      ,Maison,385,4,950 000,10.134472500000001,36.81447030000001,https://www.mubawab.tn/fr/a/7926583/villa-le-bardo
+377,Duplex Cuttie à Vendre à La Marsa Ettabak,La Marsa à       La Marsa      ,Maison,170,4,550 000,10.325278,36.876389,https://www.mubawab.tn/fr/a/7926533/duplex-cuttie-%C3%A0-vendre-%C3%A0-la-marsa-ettabak
+378,A vendre un appartement s2 à jinen beni khiar,Beni Khiar à       Beni Khiar      ,Maison,192,3,320 000,10.78,36.47,https://www.mubawab.tn/fr/a/7926456/a-vendre-un-appartement-s2-%C3%A0-jinen-beni-khiar
+379,Une maison a vendre a Foukaya Sousse,Chott Meriem à       Akouda      ,Maison,730,3,750 000,10.57,35.87,https://www.mubawab.tn/fr/a/7861203/une-maison-a-vendre-a-foukaya-sousse
+380,Vente – Duplex S3 aux jardins de Carthage,La Marsa à       La Marsa      ,Maison,440,3,1 450 000,10.325278,36.876389,https://www.mubawab.tn/fr/a/7926327/vente-%E2%80%93-duplex-s3-aux-jardins-de-carthage
+381,Duplex dans une résidence avec piscine zone Ribat,Hammamet à       Hammamet      ,Maison,155,3,480 000,10.61457,36.40108,https://www.mubawab.tn/fr/a/7926315/duplex-dans-une-r%C3%A9sidence-avec-piscine-zone-ribat
+382,A Vendre villa Ariana Supérieur,Ariana à       Ariana Ville      ,Maison,672,5,980 000,10.19556,36.8625,https://www.mubawab.tn/fr/a/7911664/a-vendre-villa-ariana-sup%C3%A9rieur
+383,A Vendre Maison à Bir Masyougha Bizerte,Bizerte à       Bizerte Nord      ,Maison,112,3,120 000,9.7506777,37.1303,https://www.mubawab.tn/fr/a/7926169/a-vendre-maison-%C3%A0-bir-masyougha-bizerte
+384,À vendre Villa S4 à Hammamet Centre zone Ribat,Hammamet à       Hammamet      ,Maison,345,4,780 000,10.61457,36.40108,https://www.mubawab.tn/fr/a/7898986/%C3%A0-vendre-villa-s4-%C3%A0-hammamet-centre-zone-ribat
+385,RDC à vendre,Kairouan Ville à       Kairouan Ville      ,Maison,180,2,120 000,10.0924,35.6776,https://www.mubawab.tn/fr/a/7919510/rdc-%C3%A0-vendre
+386,Immeuble Jazmin à Vendre à El Manar,El Manar 1 à       El Menzah      ,Maison,500,6,700 000,10.164723,36.845235,https://www.mubawab.tn/fr/a/7918414/immeuble-jazmin-%C3%A0-vendre-%C3%A0-el-manar
+387,Av 3 étagesstudio 700 m² الثمن فرصة,Soliman      ,Maison,700,10,550 000,10.49457670859833,36.701597303883254,https://www.mubawab.tn/fr/a/7925753/av-3-%C3%A9tagesstudio-700-m%C2%B2-%D8%A7%D9%84%D8%AB%D9%85%D9%86-%D9%81%D8%B1%D8%B5%D8%A9
+388,Maison traditionnelle rénovée avec trois chambres,Sousse Ville à       Sousse Ville      ,Maison,140,3,265 000,9.637666631536982,34.01189206583308,https://www.mubawab.tn/fr/a/7878090/maison-traditionnelle-r%C3%A9nov%C3%A9e-avec-trois-chambres
+389,Duplex AFH manaret hammamet,Hammamet Nord à       Hammamet      ,Maison,94,3,275 000,10.661894,36.41977299999999,https://www.mubawab.tn/fr/a/7813923/duplex-afh-manaret-hammamet
+390,A vendre un duplex en S3 situé a la SOUKRA,Chotrana 2 à       La Soukra      ,Maison,191,3,760 000,10.25,36.883333,https://www.mubawab.tn/fr/a/7924899/a-vendre-un-duplex-en-s3-situ%C3%A9-a-la-soukra
+391,A Vendre s5 a la soukra,Chotrana 3 à       La Soukra      ,Maison,300,3,1 050 000,10.25,36.883333,https://www.mubawab.tn/fr/a/7924863/a-vendre-s5-a-la-soukra
+392,A vendre villa inachevé a Ain Zaghouan Nord,Ain Zaghouan Nord à       La Marsa      ,Maison,414,4,980 000,10.325278,36.876389,https://www.mubawab.tn/fr/a/7924799/a-vendre-villa-inachev%C3%A9-a-ain-zaghouan-nord
+393,A vendre une villa avec piscine a chotrana1,Chotrana 1 à       La Soukra      ,Maison,704,5,980 000,10.25,36.883333,https://www.mubawab.tn/fr/a/7899085/a-vendre-une-villa-avec-piscine-a-chotrana1
+394,Maison S3 avec deux appartement S1 et S2,Hammamet Sud à       Hammamet      ,Maison,196,6,380 000,10.61457,36.40108,https://www.mubawab.tn/fr/a/7702365/maison-s3-avec-deux-appartement-s1-et-s2
+395,Une Maison Style Américain à Ain Mariem Bizerte,Bizerte à       Bizerte Nord      ,Maison,96,3,280 000,9.8708,37.272,https://www.mubawab.tn/fr/a/7914893/une-maison-style-am%C3%A9ricain-%C3%A0-ain-mariem-bizerte
+396,A Vendre Une Belle Villa Jumelée s4 Avec Piscine à Choutrana 3,Chotrana 3 à       La Soukra      ,Maison,300,4,1 050 000,10.25,36.883333,https://www.mubawab.tn/fr/a/7924041/a-vendre-une-belle-villa-jumel%C3%A9e-s4-avec-piscine-%C3%A0-choutrana-3
+397,Villa Rafah à Vendre à Béja Nord,Beja Nord à       Béja      ,Maison,180,3,180 000,9.1882,36.7272,https://www.mubawab.tn/fr/a/7924007/villa-rafah-%C3%A0-vendre-%C3%A0-b%C3%A9ja-nord
+398,Villa de maître à la marsa,La Marsa à       La Marsa      ,Maison,723,5,1 850 000,10.2762232,36.8941992,https://www.mubawab.tn/fr/a/7923923/villa-de-ma%C3%AEtre-%C3%A0-la-marsa
+399,Dar arbi à 2 pas des Commodités H Sousse,Hammam Sousse à       Hammam Sousse      ,Maison,230,2,155 000,10.5972,35.85690000000001,https://www.mubawab.tn/fr/a/7696053/dar-arbi-%C3%A0-2-pas-des-commodit%C3%A9s-h-sousse
+400,Maison jumelé à vendre,Kairouan Ville à       Kairouan Ville      ,Maison,360,3,350 000,10.0924,35.6776,https://www.mubawab.tn/fr/a/7900745/maison-jumel%C3%A9-%C3%A0-vendre
+401,Une petite résidence à vendre à Sousse,Sousse Ville à       Sousse Ville      ,Maison,280,5,850 000,10.6339,35.8273,https://www.mubawab.tn/fr/a/7373111/une-petite-r%C3%A9sidence-%C3%A0-vendre-%C3%A0-sousse
+402,A vendre une maison à Birbouregba Hammamet,Hammamet à       Hammamet      ,Maison,260,3,300 000,10.61457,36.40108,https://www.mubawab.tn/fr/a/7698656/a-vendre-une-maison-%C3%A0-birbouregba-hammamet
+403,A vendre Locaux commerciaux à Hammamet,Hammamet à       Hammamet      ,Maison,173,3,820 000,10.61457,36.40108,https://www.mubawab.tn/fr/a/7914064/a-vendre-locaux-commerciaux-%C3%A0-hammamet
+404,Maison à rdc au centre ville hammamet:,Hammamet à       Hammamet      ,Maison,140,3,250 000,10.61457,36.40108,https://www.mubawab.tn/fr/a/7905404/maison-%C3%A0-rdc-au-centre-ville-hammamet-
+405,Maison à vendre à cité mora nabeul,Nabeul à       Nabeul      ,Maison,200,3,280 000,10.73505,36.45056,https://www.mubawab.tn/fr/a/7902184/maison-%C3%A0-vendre-%C3%A0-cit%C3%A9-mora-nabeul
+406,Maison à vendre à jinene beni khiar,Beni Khiar à       Beni Khiar      ,Maison,100,2,250 000,10.78,36.47,https://www.mubawab.tn/fr/a/7910384/maison-%C3%A0-vendre-%C3%A0-jinene-beni-khiar
+407,Immeuble inavhevé à mrezga hammamet nord,Hammamet Nord à       Hammamet      ,Maison,140,2,270 000,10.61457,36.40108,https://www.mubawab.tn/fr/a/7898870/immeuble-inavhev%C3%A9-%C3%A0-mrezga-hammamet-nord
+408,Duplexe à hammamet nord,Hammamet à       Hammamet      ,Maison,96,2,275 000,10.61457,36.40108,https://www.mubawab.tn/fr/a/7909099/duplexe-%C3%A0-hammamet-nord
+409,Villa a vendre à La Mannouba,La Manouba à       La Manouba      ,Maison,580,10,1 090 000,10.05538,36.77855,https://www.mubawab.tn/fr/a/7923179/villa-a-vendre-%C3%A0-la-mannouba
+410,Villa en vente à kantaoui,El Kantaoui à       Hammam Sousse      ,Maison,792,7,2 300 000,10.5972,35.8569,https://www.mubawab.tn/fr/a/7756094/villa-en-vente-%C3%A0-kantaoui
+411,Maison à Medina de Sousse,Sousse Medina à       Sousse Ville      ,Maison,140,5,140 000,10.6327161,35.8243604,https://www.mubawab.tn/fr/a/7846895/maison-%C3%A0-medina-de-sousse
+412,Villa À Vendre À Midoun,Midoune à       Midoun      ,Maison,400,4,600 000,10.97964248773641,33.80781073438534,https://www.mubawab.tn/fr/a/7922967/villa-%C3%A0-vendre-%C3%A0-midoun
+413,Une Belle Villa Avec Piscine À Vendre,Midoune à       Midoun      ,Maison,340,3,380 000,10.980672450759439,33.807874129593735,https://www.mubawab.tn/fr/a/7922965/une-belle-villa-avec-piscine-%C3%A0-vendre
+414,Duplex S4 à la Marsa Ref1849,Gammarth à       La Marsa      ,Maison,280,4,680 000,10.30037035120537,36.888896350974676,https://www.mubawab.tn/fr/a/7898443/duplex-s4-%C3%A0-la-marsa-ref1849
+415,Belle Maison Avec Piscine À Vendre,Tezdaine      ,Maison,800,3,450 000,11.0400653,33.8039664,https://www.mubawab.tn/fr/a/7922962/belle-maison-avec-piscine-%C3%A0-vendre
+416,Magnifique Villa Neuve À Vendre,Houmt Souk à       Houmt Souk      ,Maison,311,3,370 000,10.877822205275207,33.87006303184921,https://www.mubawab.tn/fr/a/7922958/magnifique-villa-neuve-%C3%A0-vendre
+417,Villa Quartier résidentiel La Nouvelle Ariana,Ariana à       Ariana Ville      ,Maison,580,5,860 000,10.19556,36.8625,https://www.mubawab.tn/fr/a/7922736/villa-quartier-r%C3%A9sidentiel-la-nouvelle-ariana
+418,Villa la villa blanche,Hammamet Nord à       Hammamet      ,Maison,270,4,520 000,10.61457,36.40107999999999,https://www.mubawab.tn/fr/a/7666630/villa-la-villa-blanche
+419,A vendre maison individuelle Bhira Bizerte,Cité Ain Meriem à       Bizerte Nord      ,Maison,178,2,200 000,9.8708,37.272,https://www.mubawab.tn/fr/a/7922449/a-vendre-maison-individuelle-bhira-bizerte
+420,Vente Maison Nirvana S3,Hammamet Sud à       Hammamet      ,Maison,200,3,345 000,10.61457,36.40108,https://www.mubawab.tn/fr/a/7922224/vente-maison-nirvana-s3
+421,A vendre maison s4 et studio s1,Merkez Chihya à       Sakiet Ezzit      ,Maison,534,5,350 000,10.7609,34.7996,https://www.mubawab.tn/fr/a/7826271/a-vendre-maison-s4-et-studio-s1
+422,Maison traditionelle de type S2,Hammam Sousse à       Hammam Sousse      ,Maison,110,2,145 000,10.5972,35.8569,https://www.mubawab.tn/fr/a/7895253/maison-traditionelle-de-type-s2
+423,Maison à vendre à hergla,Hergla      ,Maison,446,3,700 000,10.504303,36.031411,https://www.mubawab.tn/fr/a/7921971/maison-%C3%A0-vendre-%C3%A0-hergla
+424,Villa au rez de chaussée independante au Bel Air,Cité Plein Air à       Boumhel Bassatine      ,Maison,350,3,575 000,10.34246,36.57724,https://www.mubawab.tn/fr/a/7828912/villa-au-rez-de-chauss%C3%A9e-independante-au-bel-air
+425,Duplex Paula à Vendre à L'Aouina,Aouina à       La Marsa      ,Maison,160,4,520 000,10.325278,36.876389,https://www.mubawab.tn/fr/a/7861226/duplex-paula-%C3%A0-vendre-%C3%A0-l-aouina
+426,Vente maison de charme à hammamet,Hammamet à       Hammamet      ,Maison,220,5,900 000,10.61457,36.40108,https://www.mubawab.tn/fr/a/7633450/vente-maison-de-charme-%C3%A0-hammamet
+427,Villa à vendre à Houmt souk,Djerba à       Djerba      ,Maison,900,3,630 000,10.8451467,33.8075978,https://www.mubawab.tn/fr/a/7921563/villa-%C3%A0-vendre-%C3%A0-houmt-souk
+428,Villa inachevée à vendre à Hammamet,Hammamet à       Hammamet      ,Maison,280,4,190 000,10.61457,36.40108,https://www.mubawab.tn/fr/a/7860238/villa-inachev%C3%A9e-%C3%A0-vendre-%C3%A0-hammamet
+429,Duplexe à vendre à Hammamet Nord,Hammamet Nord à       Hammamet      ,Maison,245,3,500 000,10.61457,36.40108,https://www.mubawab.tn/fr/a/7917685/duplexe-%C3%A0-vendre-%C3%A0-hammamet-nord
+430,Villa à vendre à cité ghazela,Cité el Ghazela à       Raoued      ,Maison,420,4,560 000,10.191389,36.954444,https://www.mubawab.tn/fr/a/7768489/villa-%C3%A0-vendre-%C3%A0-cit%C3%A9-ghazela
+431,Belle villa a raoued plage takacim thameur,Raoued à       Raoued      ,Maison,220,3,350 000,10.215489426399197,36.949454765792986,https://www.mubawab.tn/fr/a/7921432/belle-villa-a-raoued-plage-takacim-thameur
+432,Villa picolina,Djerba à       Djerba      ,Maison,105,2,291 800,10.8451467,33.8075978,https://www.mubawab.tn/fr/a/7722691/villa-picolina
+433,Villa odessy,Djerba à       Djerba      ,Maison,135,3,448 900,10.987032084526959,33.81232337675592,https://www.mubawab.tn/fr/a/7059735/villa-odessy
+434,Villa Alpine,Midoune à       Midoun      ,Maison,260,3,272 200,10.85,33.866667,https://www.mubawab.tn/fr/a/7852819/villa-alpine
+435,Villa alaya,Djerba à       Djerba      ,Maison,520,6,496 580,10.8451467,33.8075978,https://www.mubawab.tn/fr/a/7894002/villa-alaya
+436,FORSA A VENDRE un Maison traditionnel Studio,Denden à       La Manouba      ,Maison,141,5,140 000,10.130599999999998,36.774939999999994,https://www.mubawab.tn/fr/a/7921067/forsa-a-vendre-un-maison-traditionnel-studio
+437,Villa cité ghazela,Cité el Ghazela à       Raoued      ,Maison,502,6,830 000,10.1717264,36.8805752,https://www.mubawab.tn/fr/a/7900939/villa-cit%C3%A9-ghazela
+438,A vendre une maison à Hammamet sud,Hammamet Sud à       Hammamet      ,Maison,85,2,160 000,10.61457,36.40108,https://www.mubawab.tn/fr/a/7456450/a-vendre-une-maison-%C3%A0-hammamet-sud
+439,Duplex 220 M2 A El Aouina,Aouina à       La Marsa      ,Maison,220,4,420 000,10.325278,36.876389,https://www.mubawab.tn/fr/a/7920436/duplex-220-m2-a-el-aouina
+440,Duplex en S2 indépendant à Craxi Hammamet Nord,Hammamet Nord à       Hammamet      ,Maison,100,2,220 000,10.61457,36.40108,https://www.mubawab.tn/fr/a/7919945/duplex-en-s2-ind%C3%A9pendant-%C3%A0-craxi-hammamet-nord
+441,Immeuble Raina à Vendre à EL Manzah 8,El Menzah 8 à       Ariana Ville      ,Maison,474,6,1 200 000,10.19556,36.8625,https://www.mubawab.tn/fr/a/7918439/immeuble-raina-%C3%A0-vendre-%C3%A0-el-manzah-8
+442,Maison Violette 2 à vendre,Hammamet Sud à       Hammamet      ,Maison,500,2,345 000,10.61457,36.40108,https://www.mubawab.tn/fr/a/7846409/maison-violette-2-%C3%A0-vendre
+443,Maison Indépendante A Cité El Intilaka,Ariana à       Ariana Ville      ,Maison,280,5,270 000,10.19556,36.8625,https://www.mubawab.tn/fr/a/7919486/maison-ind%C3%A9pendante-a-cit%C3%A9-el-intilaka
+444,Villa indépendante à khzema à vendre Sousse,Cité de la Plage à       Hammam Sousse      ,Maison,465,4,1 300 000,10.5972,35.8569,https://www.mubawab.tn/fr/a/7911703/villa-ind%C3%A9pendante-%C3%A0-khzema-%C3%A0-vendre-sousse
+445,Villa de coin à vendre à hergla sousse,Hergla      ,Maison,420,4,790 000,10.5079,36.0301,https://www.mubawab.tn/fr/a/7911692/villa-de-coin-%C3%A0-vendre-%C3%A0-hergla-sousse
+446,Villa à gammarth à la vente,Gammarth à       La Marsa      ,Maison,553,5,1 900 000,10.288893,36.917739,https://www.mubawab.tn/fr/a/7919037/villa-%C3%A0-gammarth-%C3%A0-la-vente
+447,Villa Msaken haut standing,Msaken      ,Maison,500,6,1 200 000,10.3534,35.43188,https://www.mubawab.tn/fr/a/7919017/villa-msaken-haut-standing
+448,Maison à acheter à Cité Ubn Khaldoun. 8 belles chambres,El Omrane Supérieur à       El Omrane Superieur      ,Maison,90,8,250 000,10.123916,36.830534,https://www.mubawab.tn/fr/a/7815188/maison-%C3%A0-acheter-%C3%A0-cit%C3%A9-ubn-khaldoun-8-belles-chambres
+449,Duplex avec Jardin à Vendre à Gammarth,Gammarth à       La Marsa      ,Maison,200,4,690 000,10.325278,36.876389,https://www.mubawab.tn/fr/a/7871358/duplex-avec-jardin-%C3%A0-vendre-%C3%A0-gammarth
+450,"À vendre un immeuble de style colonial, Beb mnara",La Medina      ,Maison,262,10,950 000,10.16596,36.818810000000006,https://www.mubawab.tn/fr/a/7918423/%C3%A0-vendre-un-immeuble-de-style-colonial-beb-mnara
+451,Av charmante villa avec piscine à hammamet nord,Hammamet Nord à       Hammamet      ,Maison,500,4,850 000,10.61457,36.40108,https://www.mubawab.tn/fr/a/7868311/av-charmante-villa-avec-piscine-%C3%A0-hammamet-nord
+452,Maison a la plage elhaouaria,El Haouaria      ,Maison,130,2,159 000,11.016667,37.05,https://www.mubawab.tn/fr/a/7917445/maison-a-la-plage-elhaouaria
+453,Maison a vendre,Kalâa Sghira      ,Maison,207,3,380 000,10.560554,35.821756,https://www.mubawab.tn/fr/a/7917201/maison-a-vendre
+454,Immeuble Evan à Vendre à Ariana,Ariana à       Ariana Ville      ,Maison,480,12,750 000,10.19556,36.8625,https://www.mubawab.tn/fr/a/7917069/immeuble-evan-%C3%A0-vendre-%C3%A0-ariana
+455,Loft Estonia à Vendre Aux Jardins de Carthage,Les Jardins de Carthage à       Le Kram      ,Maison,470,5,1 600 000,10.316667,36.833333,https://www.mubawab.tn/fr/a/7841842/loft-estonia-%C3%A0-vendre-aux-jardins-de-carthage
+456,Vente Maison Alin S5,Hammamet Nord à       Hammamet      ,Maison,130,5,490 000,10.61457,36.40108,https://www.mubawab.tn/fr/a/7916596/vente-maison-alin-s5
+457,Maison Indépendante A Mohamadia Ben Arous,Mohamadia à       Mohamadia      ,Maison,103,4,170 000,10.09106,36.64767,https://www.mubawab.tn/fr/a/7916561/maison-ind%C3%A9pendante-a-mohamadia-ben-arous
+458,Propriété 430 M2 A Bardo Bouchoucha,Bouchoucha à       Le Bardo      ,Maison,430,8,950 000,10.13736,36.83017,https://www.mubawab.tn/fr/a/7916537/propri%C3%A9t%C3%A9-430-m2-a-bardo-bouchoucha
+459,A vendre Etage de villa S2 avec toit à Nabeul,Nabeul à       Nabeul      ,Maison,103,2,200 000,10.717538,36.446774,https://www.mubawab.tn/fr/a/7729491/a-vendre-etage-de-villa-s2-avec-toit-%C3%A0-nabeul
+460,"A vendre maison R1 à Kharrouba, Hammamet Nord",Hammamet Nord à       Hammamet      ,Maison,200,4,130 000,10.649518295574524,36.41599982929221,https://www.mubawab.tn/fr/a/7635705/a-vendre-maison-r1-%C3%A0-kharrouba-hammamet-nord
+461,Villa sur 2 étages à Vendre à Parc Ennahli,Cebalat Ben Ammar à       Sidi Thabet      ,Maison,500,3,840 000,10.2243965,36.8240829,https://www.mubawab.tn/fr/a/7916252/villa-sur-2-%C3%A9tages-%C3%A0-vendre-%C3%A0-parc-ennahli
+462,A Vendre Maison Duplex au Centre Ville Bizerte,Bizerte à       Bizerte Nord      ,Maison,92,11,500 000,9.7506777,37.1303,https://www.mubawab.tn/fr/a/7916134/a-vendre-maison-duplex-au-centre-ville-bizerte
+463,Villa 700m2 avec piscine à la Soukra chotrana 1,Chotrana 1 à       La Soukra      ,Maison,700,5,1 250 000,10.217961,36.896544,https://www.mubawab.tn/fr/a/7905189/villa-700m2-avec-piscine-%C3%A0-la-soukra-chotrana-1
+464,Vente Duplex Vilaine S3,Hammamet à       Hammamet      ,Maison,140,3,420 000,10.61457,36.40108,https://www.mubawab.tn/fr/a/7833895/vente-duplex-vilaine-s3
+465,Villa à vendre Kalaa el Kebira Sousse,Kalâa Kebira      ,Maison,6160,3,1 900 000,10.535237,35.869824,https://www.mubawab.tn/fr/a/7889289/villa-%C3%A0-vendre-kalaa-el-kebira-sousse
+466,Très belle maison en vente. Superficie 450 m². Cuisine bien équipée.,Kalâa Sghira      ,Maison,450,3,600 000,10.560554,35.821756,https://www.mubawab.tn/fr/a/7733722/tr%C3%A8s-belle-maison-en-vente-superficie-450-m%C2%B2-cuisine-bien-%C3%A9quip%C3%A9e-
+467,Maison à vendre à bir lbey hamem chat,Bir El Bey à       Hammam Chatt      ,Maison,120,2,135 000,9.97244,36.0683,https://www.mubawab.tn/fr/a/7914950/maison-%C3%A0-vendre-%C3%A0-bir-lbey-hamem-chat
+468,Une Maison De Deux Niveaux à Bhira Bizerte,Bizerte à       Bizerte Nord      ,Maison,100,4,270 000,9.8708,37.272,https://www.mubawab.tn/fr/a/7913866/une-maison-de-deux-niveaux-%C3%A0-bhira-bizerte
+469,A Vendra Maison à Cité El Jala,Bizerte Nord      ,Maison,120,7,280 000,9.8708,37.272,https://www.mubawab.tn/fr/a/7914601/a-vendra-maison-%C3%A0-cit%C3%A9-el-jala
+470,Villa s4 avec piscine à la Marsa,La Marsa à       La Marsa      ,Maison,480,5,2 600 000,10.2762232,36.8941992,https://www.mubawab.tn/fr/a/7914541/villa-s4-avec-piscine-%C3%A0-la-marsa
+471,Une villa S3 plain pieds à la zone Craxi Hammamet,Hammamet Nord à       Hammamet      ,Maison,400,3,400 000,10.61457,36.40108,https://www.mubawab.tn/fr/a/7852980/une-villa-s3-plain-pieds-%C3%A0-la-zone-craxi-hammamet
+472,A Vendre Villa avec Piscine en Plein Centre Ville Bizerte,Bizerte à       Bizerte Nord      ,Maison,200,10,600 000,9.7506777,37.1303,https://www.mubawab.tn/fr/a/7913823/a-vendre-villa-avec-piscine-en-plein-centre-ville-bizerte
+473,Villa à vendre,Borj Cedria à       Hammam Chatt      ,Maison,225,4,485 000,10.405946,36.658969,https://www.mubawab.tn/fr/a/7913593/villa-%C3%A0-vendre
+474,À vendre villa,Le Kram à       Le Kram      ,Maison,150,5,390 000,10.316667,36.833333,https://www.mubawab.tn/fr/a/7913516/%C3%A0-vendre-villa
+475,Maison Moderne Excellent Etat,Hammam Sousse à       Hammam Sousse      ,Maison,200,3,350 000,10.5972,35.8569,https://www.mubawab.tn/fr/a/7913137/maison-moderne-excellent-etat
+476,Duplex s3 haut standing avec piscine au lac 2,Les Berges Du Lac 2 à       La Marsa      ,Maison,341,3,1 700 000,10.325278,36.876389,https://www.mubawab.tn/fr/a/7907332/duplex-s3-haut-standing-avec-piscine-au-lac-2
+477,Duplex neuf jumelé à la soukra,Aéroport Tunis Carthage à       La Soukra      ,Maison,300,4,1 300 000,10.25,36.883333,https://www.mubawab.tn/fr/a/7878413/duplex-neuf-jumel%C3%A9-%C3%A0-la-soukra
+478,A vendre une villa à chatt mariem,Chott Meriem à       Akouda      ,Maison,451,5,1 650 000,10.54783,35.951365,https://www.mubawab.tn/fr/a/7821333/a-vendre-une-villa-%C3%A0-chatt-mariem
+479,A Vendre Rez De Chaussée De Villa à Cité Ain Mariem,Bizerte à       Bizerte Nord      ,Maison,280,4,350 000,9.7506777,37.1303,https://www.mubawab.tn/fr/a/7912323/a-vendre-rez-de-chauss%C3%A9e-de-villa-%C3%A0-cit%C3%A9-ain-mariem
+480,Villa a vendre à Mutuelle Ville,Mutuelle Ville à       El Menzah      ,Maison,500,4,1 600 000,10.164723,36.845235,https://www.mubawab.tn/fr/a/7911930/villa-a-vendre-%C3%A0-mutuelle-ville
+481,Maison pied dans l'eau à vendre chatt mariem Sousse,Akouda      ,Maison,843,5,2 500 000,10.57,35.87,https://www.mubawab.tn/fr/a/7889421/maison-pied-dans-l-eau-%C3%A0-vendre-chatt-mariem-sousse
+482,Villa sur deux niveaux de 1024m2 à Menzah 5,El Menzah 5 à       Ariana Ville      ,Maison,1024,8,1 600 000,10.19556,36.8625,https://www.mubawab.tn/fr/a/7911406/villa-sur-deux-niveaux-de-1024m2-%C3%A0-menzah-5
+483,Ville de 450m2 sur terrain de 432 m2 à Menzah 8 ariana,El Menzah 8 à       Ariana Ville      ,Maison,432,7,980 000,10.19556,36.8625,https://www.mubawab.tn/fr/a/7911405/ville-de-450m2-sur-terrain-de-432-m2-%C3%A0-menzah-8-ariana
+484,Villa Remada à Vendre à Carthage Byrsa,Carthage Byrsa à       Carthage      ,Maison,424,7,2 000 000,10.3258,36.8566,https://www.mubawab.tn/fr/a/7881938/villa-remada-%C3%A0-vendre-%C3%A0-carthage-byrsa
+485,Villa A rénové,Cité Olympique à       Cité El Khadra      ,Maison,680,5,1 900 000,10.226369,36.823935,https://www.mubawab.tn/fr/a/7910107/villa-a-r%C3%A9nov%C3%A9
+486,Vente appartement s2 a la nouvelle soukra,Ain Zaghouan Nord à       La Marsa      ,Maison,191,2,478 140,10.325278,36.876389,https://www.mubawab.tn/fr/a/7711262/vente-appartement-s2-a-la-nouvelle-soukra
+487,A vendre maison et appartement style arabe a bab s,Bab Souika à       Tunis      ,Maison,360,6,445 000,10.16596,36.81881,https://www.mubawab.tn/fr/a/7867831/a-vendre-maison-et-appartement-style-arabe-a-bab-s
+488,Triplex s3 à la Marsa,La Marsa à       La Marsa      ,Maison,103,3,1 250 000,10.2762232,36.8941992,https://www.mubawab.tn/fr/a/7899911/triplex-s3-%C3%A0-la-marsa
+489,Villa s3 à vendre mourouj 4,El Mourouj 4 à       El Mourouj      ,Maison,420,3,650 000,10.2622167,36.6938694,https://www.mubawab.tn/fr/a/7909556/villa-s3-%C3%A0-vendre-mourouj-4
+490,Villa a vendre mourouj 1 diar el mourouj,El Mourouj 1 à       El Mourouj      ,Maison,200,3,340 000,10.2622167,36.6938694,https://www.mubawab.tn/fr/a/7909525/villa-a-vendre-mourouj-1-diar-el-mourouj
+491,Maison a 2 etages à vendre 150m²,Cité Ettadhamen à       Ettadhamen      ,Maison,150,2,170 000,10.1175982,36.8357541,https://www.mubawab.tn/fr/a/7909500/maison-a-2-etages-%C3%A0-vendre-150m%C2%B2
+492,A vendre villa sur terrain 600 m² à France Ville,El Omrane à       El Omrane      ,Maison,600,6,1 300 000,10.1558086,36.814748,https://www.mubawab.tn/fr/a/7907418/a-vendre-villa-sur-terrain-600-m%C2%B2-%C3%A0-france-ville
+493,Maison indépendante,Cité El Wafa à       Nabeul      ,Maison,226,3,420 000,10.73505,36.45056,https://www.mubawab.tn/fr/a/7816949/maison-ind%C3%A9pendante
+494,A vendre une maison à Manzah 6,El Menzah 6 à       Ariana Ville      ,Maison,700,7,2 000 000,10.19556,36.8625,https://www.mubawab.tn/fr/a/7626882/a-vendre-une-maison-%C3%A0-manzah-6
+495,A vendre maisonà cité ettadhamen,Cité Ettadhamen à       Ettadhamen      ,Maison,200,6,250 000,10.1175982,36.8357541,https://www.mubawab.tn/fr/a/7535878/a-vendre-maison%C3%A0-cit%C3%A9-ettadhamen
+496,Maison indpendante hammamet,Hammamet à       Hammamet      ,Maison,218,2,350 000,10.61457,36.40108,https://www.mubawab.tn/fr/a/7864360/maison-indpendante-hammamet
+497,Une villa pied dans l'eau à maamoura plage,El Maamoura      ,Maison,200,2,480 000,10.8,36.466667,https://www.mubawab.tn/fr/a/7905324/une-villa-pied-dans-l-eau-%C3%A0-maamoura-plage
+498,Vente 2 Maisons,El Yasmina à       Carthage      ,Maison,100,6,600 000,10.306703345691288,36.850130607447625,https://www.mubawab.tn/fr/a/7900274/vente-2-maisons
+499,Un Duplex Neuf S3 à vendre à La Soukra,La Soukra à       La Soukra      ,Maison,216,3,750 000,10.27417,36.88833,https://www.mubawab.tn/fr/a/7831701/un-duplex-neuf-s3-%C3%A0-vendre-%C3%A0-la-soukra
+500,Triplex à 7 novembre Bizerte,Bizerte      ,Maison,246,5,400 000,9.866667,37.266667,https://www.mubawab.tn/fr/a/7869636/triplex-%C3%A0-7-novembre-bizerte
+501,Maison en duplex à cité el jala 2 bizerte,Bizerte      ,Maison,202,4,380 000,9.866667,37.266667,https://www.mubawab.tn/fr/a/7813925/maison-en-duplex-%C3%A0-cit%C3%A9-el-jala-2-bizerte
+502,Maison à vendre,Borj Touil à       Raoued      ,Maison,400,3,380 000,10.152965687235943,36.93557721628745,https://www.mubawab.tn/fr/a/7908329/maison-%C3%A0-vendre
+503,A vendre maison plein pied orientation nord /sud,Barraket Essahel      ,Maison,110,3,400 000,10.534640440148369,36.37974909032699,https://www.mubawab.tn/fr/a/7908049/a-vendre-maison-plein-pied-orientation-nord-sud
+504,A vendre Duplex à Gammarth Golden Tulipe,Gammarth à       La Marsa      ,Maison,180,2,1 000 000,10.325278,36.876389,https://www.mubawab.tn/fr/a/7907432/a-vendre-duplex-%C3%A0-gammarth-golden-tulipe
+505,Ancienne maison 376 m2 à Ben Arous,Ben Arous à       Ben Arous      ,Maison,376,3,430 000,10.22122,36.77228,https://www.mubawab.tn/fr/a/7885767/ancienne-maison-376-m2-%C3%A0-ben-arous
+506,Ancienne Maison 180 m2 Au Centre Ville De Tunis,La Medina      ,Maison,180,5,175 000,10.16596,36.81881,https://www.mubawab.tn/fr/a/7895176/ancienne-maison-180-m2-au-centre-ville-de-tunis
+507,Maison Traditionnelle 200 m2 à Bab Lakouas,Bab El Akoues à       Tunis      ,Maison,200,5,380 000,10.16596,36.81881,https://www.mubawab.tn/fr/a/7904746/maison-traditionnelle-200-m2-%C3%A0-bab-lakouas
+508,Immeuble INVEST Joyce Meyer à Vendre à Lafayette,Montplaisir à       Tunis      ,Maison,2320,16,2 600 000,10.16596,36.81881,https://www.mubawab.tn/fr/a/7907788/immeuble-invest-joyce-meyer-%C3%A0-vendre-%C3%A0-lafayette
+509,A vendre Etage de Villa situé à Cité Intilaka,Cité Ettadhamen à       Ettadhamen      ,Maison,100,3,130 000,10.1175982,36.8357541,https://www.mubawab.tn/fr/a/7907409/a-vendre-etage-de-villa-situ%C3%A9-%C3%A0-cit%C3%A9-intilaka
+510,Villa jumelée en S5 au Menzah 9c,El Menzah 9 à       El Menzah      ,Maison,300,5,790 000,10.164723,36.845235,https://www.mubawab.tn/fr/a/7826879/villa-jumel%C3%A9e-en-s5-au-menzah-9c
+511,Villa s3 à Raoued Plage,Raoued à       Raoued      ,Maison,300,3,260 000,10.4132,36.70549,https://www.mubawab.tn/fr/a/7907115/villa-s3-%C3%A0-raoued-plage
+512,Villa S4 avec piscine a Gammarth,Gammarth à       La Marsa      ,Maison,500,5,8 000,10.288893,36.917739,https://www.mubawab.tn/fr/a/7899071/villa-s4-avec-piscine-a-gammarth
+513,Maison à acheter à La Marsa. 2 belles chambres. Belle terrasse et jardin,La Marsa à       La Marsa      ,Maison,610,2,2 500 000,10.2762232,36.8941992,https://www.mubawab.tn/fr/a/7817145/maison-%C3%A0-acheter-%C3%A0-la-marsa-2-belles-chambres-belle-terrasse-et-jardin
+514,Vente immobilier Rue elhajamine Tunis,Montfleury à       Tunis      ,Maison,173,10,180 000,10.185693359375001,36.69608901919336,https://www.mubawab.tn/fr/a/7906782/vente-immobilier-rue-elhajamine-tunis
+515,Maison style arabe,Kélibia      ,Maison,271,3,350 000,11.0918,36.8493,https://www.mubawab.tn/fr/a/7586094/maison-style-arabe
+516,Maison à l'achat à Cité Ezzitoun 1.2 belles chambres,Cité Ezzitoun 1 à       La Soukra      ,Maison,118,2,165 000,10.25,36.883333,https://www.mubawab.tn/fr/a/7906612/maison-%C3%A0-l-achat-%C3%A0-cit%C3%A9-ezzitoun-1-2-belles-chambres
+517,Villa de 690 m au menzah 9,El Menzah 9 à       El Menzah      ,Maison,680,4,1 150 000,10.164723,36.845235,https://www.mubawab.tn/fr/a/7900682/villa-de-690-m-au-menzah-9
+518,A Vendre un duplex a Hammamet nord,Hammamet à       Hammamet      ,Maison,164,4,550 000,10.61457,36.40108,https://www.mubawab.tn/fr/a/7905494/a-vendre-un-duplex-a-hammamet-nord
+519,Prix Intéressant Dar Arbi Centre H Sousse,Hammam Sousse à       Hammam Sousse      ,Maison,158,2,95 000,10.5972,35.8569,https://www.mubawab.tn/fr/a/7850277/prix-int%C3%A9ressant-dar-arbi-centre-h-sousse
+520,دار للبيع بالحمامات,Hammamet à       Hammamet      ,Maison,163,2,250 000,10.61457,36.40108,https://www.mubawab.tn/fr/a/7905003/%D8%AF%D8%A7%D8%B1-%D9%84%D9%84%D8%A8%D9%8A%D8%B9-%D8%A8%D8%A7%D9%84%D8%AD%D9%85%D8%A7%D9%85%D8%A7%D8%AA
+521,A vendre villa à El Mourouj 2 2 étages séparées,El Mourouj 2 à       El Mourouj      ,Maison,474,3,900 000,10.2622167,36.6938694,https://www.mubawab.tn/fr/a/7904544/a-vendre-villa-%C3%A0-el-mourouj-2-2-%C3%A9tages-s%C3%A9par%C3%A9es
+522,Villa à hergla,Hergla      ,Maison,200,5,445 000,10.5079,36.0301,https://www.mubawab.tn/fr/a/7903568/villa-%C3%A0-hergla
+523,"Maison en Duplex à Rafraf, Bizerte",Raf Raf      ,Maison,150,5,450 000,9.7506777,37.1303,https://www.mubawab.tn/fr/a/7880157/maison-en-duplex-%C3%A0-rafraf-bizerte
+524,Belle Villa à vendre à sahloul 3,Sahloul à       Sousse Ville      ,Maison,414,10,1 650 000,10.5865716,35.8375238,https://www.mubawab.tn/fr/a/7902619/belle-villa-%C3%A0-vendre-%C3%A0-sahloul-3
+525,Une oasis de tranquillité vous attend à la Soukra,Cité Hedi Nouira à       La Soukra      ,Maison,126,3,295 000,10.25,36.883333,https://www.mubawab.tn/fr/a/7901758/une-oasis-de-tranquillit%C3%A9-vous-attend-%C3%A0-la-soukra
+526,Villa Non Fini à vendre à Houmt Souk,Houmt Souk à       Houmt Souk      ,Maison,349,4,620 000,10.85,33.866667,https://www.mubawab.tn/fr/a/7851467/villa-non-fini-%C3%A0-vendre-%C3%A0-houmt-souk
+527,Villa Borj louzir,Borj Louzir à       La Soukra      ,Maison,300,7,420 000,10.2123551,36.865090099999996,https://www.mubawab.tn/fr/a/7888975/villa-borj-louzir
+528,A vendre villa neuve Menzah 9,El Menzah 9 à       El Menzah      ,Maison,506,5,1 700 000,10.164723,36.845235,https://www.mubawab.tn/fr/a/7898918/a-vendre-villa-neuve-menzah-9
+529,A Vendre Villa à La Corniche Bizerte,Bizerte à       Bizerte Nord      ,Maison,770,9,990 000,9.7506777,37.1303,https://www.mubawab.tn/fr/a/7902057/a-vendre-villa-%C3%A0-la-corniche-bizerte
+530,À vendre maison studio dépôt,Cité Taieb Mhiri 1 à       Rades      ,Maison,133,3,300 000,10.2736,36.7609,https://www.mubawab.tn/fr/a/7683138/%C3%A0-vendre-maison-studio-d%C3%A9p%C3%B4t
+531,Maison RDC S2 a cité nakhla Bizerte,Bizerte      ,Maison,115,2,150 000,9.866667,37.266667,https://www.mubawab.tn/fr/a/7809933/maison-rdc-s2-a-cit%C3%A9-nakhla-bizerte
+532,Maison à Bourous ILE de KERKENNAH. Tunisie,Ouled Yaneg à       Kerkennah      ,Maison,260,4,560 000,11.139996537494527,34.670457581302685,https://www.mubawab.tn/fr/a/7901438/maison-%C3%A0-bourous-ile-de-kerkennah-tunisie
+533,Vente Duplex S4 Ain Zaghouan,Ain Zaghouan Nord à       La Marsa      ,Maison,240,4,570 000,10.325278,36.876389,https://www.mubawab.tn/fr/a/7611632/vente-duplex-s4-ain-zaghouan
+534,Une Villa Style Triplex à Bhira Bizerte,Bizerte à       Bizerte Nord      ,Maison,132,3,460 000,9.8708,37.272,https://www.mubawab.tn/fr/a/7901218/une-villa-style-triplex-%C3%A0-bhira-bizerte
+535,Duplex jumelé neuf a la soukra,Aéroport Tunis Carthage à       La Soukra      ,Maison,220,3,770 000,10.25,36.883333,https://www.mubawab.tn/fr/a/7878376/duplex-jumel%C3%A9-neuf-a-la-soukra
+536,A vendre Villa vue mer Raoued,Raoued à       Raoued      ,Maison,315,4,480 000,10.191389,36.954444,https://www.mubawab.tn/fr/a/7644294/a-vendre-villa-vue-mer-raoued
+537,A vendre villa à rénover 761 m² à Mutuelleville,Mutuelle Ville à       El Menzah      ,Maison,761,12,1 650 000,10.164723,36.845235,https://www.mubawab.tn/fr/a/7567213/a-vendre-villa-%C3%A0-r%C3%A9nover-761-m%C2%B2-%C3%A0-mutuelleville
+538,Vente Duplex S3 La Soukra,La Soukra à       La Soukra      ,Maison,160,3,550 000,10.27417,36.88833000000001,https://www.mubawab.tn/fr/a/7867453/vente-duplex-s3-la-soukra
+539,Maison à vendre à Hammamet à 350 MD,Hammamet à       Hammamet      ,Maison,250,2,350 000,10.61457,36.40108,https://www.mubawab.tn/fr/a/7900391/maison-%C3%A0-vendre-%C3%A0-hammamet-%C3%A0-350-md
+540,Ancienne Maison R2 à Ezzouhour 3,Sijoumi      ,Maison,112,2,170 000,10.16596,36.81881,https://www.mubawab.tn/fr/a/7859274/ancienne-maison-r2-%C3%A0-ezzouhour-3
+541,Maion A la Médina Rue souk el Blat,Bab Bhar à       Tunis      ,Maison,164,8,450 000,10.16596,36.81881,https://www.mubawab.tn/fr/a/7796915/maion-a-la-m%C3%A9dina-rue-souk-el-blat
+542,Maison à vendre,Borj Louzir à       La Soukra      ,Maison,730,4,820 000,10.2123551,36.8650901,https://www.mubawab.tn/fr/a/7897978/maison-%C3%A0-vendre
+543,Villa Hmaida,Hammamet à       Hammamet      ,Maison,190,2,470 000,10.61457,36.40108,https://www.mubawab.tn/fr/a/7894237/villa-hmaida
+544,Villa de 210 m² sur terrain de 435 m² à Sidi Thabet,Sidi Thabet à       Sidi Thabet      ,Maison,435,4,450 000,10.2243965,36.8240829,https://www.mubawab.tn/fr/a/7798089/villa-de-210-m%C2%B2-sur-terrain-de-435-m%C2%B2-%C3%A0-sidi-thabet
+545,A Vendre Maison à Borj Ghamez,Bizerte Nord      ,Maison,140,7,300 000,9.8708,37.272,https://www.mubawab.tn/fr/a/7793435/a-vendre-maison-%C3%A0-borj-ghamez
+546,A Vendre Une villa à enasr 2 dans un cartier calme et résidentiel,Cité Ennasr 2 à       Ariana Ville      ,Maison,550,4,1 200 000,10.19556,36.8625,https://www.mubawab.tn/fr/a/6594153/a-vendre-une-villa-%C3%A0-enasr-2-dans-un-cartier-calme-et-r%C3%A9sidentiel
+547,Vente Triplex Rio S3 Hammamet centre,Hammamet à       Hammamet      ,Maison,244,3,550 000,10.61457,36.40108,https://www.mubawab.tn/fr/a/7887507/vente-triplex-rio-s3-hammamet-centre
+548,Une maison S2 à vendre à Sidi Bou Saïd,Sidi Bousaid à       Carthage      ,Maison,272,2,1 100 000,10.3258,36.8566,https://www.mubawab.tn/fr/a/7822720/une-maison-s2-%C3%A0-vendre-%C3%A0-sidi-bou-sa%C3%AFd
+549,Triplex avec piscine à chotrana 1,Chotrana 1 à       La Soukra      ,Maison,250,3,750 000,10.25,36.883333,https://www.mubawab.tn/fr/a/7448189/triplex-avec-piscine-%C3%A0-chotrana-1
+550,A VENDRE Maison de charme dans la Médina de Sousse,Sousse Medina à       Sousse Ville      ,Maison,200,3,550 000,10.6339,35.8273,https://www.mubawab.tn/fr/a/7896342/a-vendre-maison-de-charme-dans-la-m%C3%A9dina-de-sousse
+551,Très belle villa moderne à france ville,El Omrane à       El Omrane      ,Maison,290,4,980 000,10.162976290327004,36.816841912680985,https://www.mubawab.tn/fr/a/7895752/tr%C3%A8s-belle-villa-moderne-%C3%A0-france-ville
+552,Un Duplex S3 avec jardin à vendre à La Soukra,La Soukra à       La Soukra      ,Maison,189,3,810 000,10.27417,36.88833,https://www.mubawab.tn/fr/a/7785413/un-duplex-s3-avec-jardin-%C3%A0-vendre-%C3%A0-la-soukra
+553,Terrain 430m Raoued Plage,Raoued à       Raoued      ,Maison,430,2,220 000,10.219172129766912,36.96678792945012,https://www.mubawab.tn/fr/a/7826763/terrain-430m-raoued-plage
+554,"Souplex S2 avec jardin, Carthage Amilcar",Amilcar à       Carthage      ,Maison,242,2,880 000,10.3258,36.8566,https://www.mubawab.tn/fr/a/7874395/souplex-s2-avec-jardin-carthage-amilcar
+555,A VENDRE DUPLEX en étages sépararés à IBN SINA,Ibn Sina à       El Kabaria      ,Maison,97,6,295 000,,,https://www.mubawab.tn/fr/a/7784053/a-vendre-duplex-en-%C3%A9tages-s%C3%A9parar%C3%A9s-%C3%A0-ibn-sina
+556,A VENDRE Villa à Dubosville,Bellevue à       El Ouardia      ,Maison,420,4,415 000,10.21587,36.83561,https://www.mubawab.tn/fr/a/7822402/a-vendre-villa-%C3%A0-dubosville
+557,À vendre maison traditionnelle à Beb el Khadhra,Bab Souika à       Tunis      ,Maison,146,6,280 000,10.16596,36.81881,https://www.mubawab.tn/fr/a/7893987/%C3%A0-vendre-maison-traditionnelle-%C3%A0-beb-el-khadhra
+558,Villa TIPO,Djerba à       Djerba      ,Maison,146,3,315 800,10.8451467,33.8075978,https://www.mubawab.tn/fr/a/7775752/villa-tipo
+559,Maison à vendre Cité Romana,Le Bardo à       Le Bardo      ,Maison,500,3,700 000,10.13736,36.83017,https://www.mubawab.tn/fr/a/7893803/maison-%C3%A0-vendre-cit%C3%A9-romana
+560,A vendre une grande villa a la soukra,La Soukra à       La Soukra      ,Maison,2700,8,3 500 000,10.25,36.883333,https://www.mubawab.tn/fr/a/7549906/a-vendre-une-grande-villa-a-la-soukra
+561,Villa jumelée de 170m² sur un terrain de 260 m² à Manar 1,El Manar 1 à       El Menzah      ,Maison,260,4,720 000,10.164723,36.845235,https://www.mubawab.tn/fr/a/7860698/villa-jumel%C3%A9e-de-170m%C2%B2-sur-un-terrain-de-260-m%C2%B2-%C3%A0-manar-1
+562,A Vendre Une Maison S Plus 2 Bhira Bizerte,Bizerte à       Bizerte Nord      ,Maison,110,2,185 000,9.8708,37.272,https://www.mubawab.tn/fr/a/7856516/a-vendre-une-maison-s-plus-2-bhira-bizerte
+563,Villa jumelée S4 avec piscine au Lac 2,La Marsa      ,Maison,430,4,7 000,10.325278,36.876389,https://www.mubawab.tn/fr/a/7888186/villa-jumel%C3%A9e-s4-avec-piscine-au-lac-2
+564,A vendre villa sur un terrain 520 m² à Bab Saadoun,Bab Saadoun Gare à       El Omrane      ,Maison,520,3,675 000,10.1558086,36.814748,https://www.mubawab.tn/fr/a/7803859/a-vendre-villa-sur-un-terrain-520-m%C2%B2-%C3%A0-bab-saadoun
+565,Duplex s3 à la Marsa,La Marsa à       La Marsa      ,Maison,110,4,550 000,10.2762232,36.8941992,https://www.mubawab.tn/fr/a/7891483/duplex-s3-%C3%A0-la-marsa
+566,Superbe villa,Borj Touil à       Raoued      ,Maison,1000,3,750 000,10.142317,36.932333,https://www.mubawab.tn/fr/a/7891451/superbe-villa
+567,A Vendre un appartement cite Wafa mrezgua Hammamet,Cité El Wafa à       Nabeul      ,Maison,104,2,343 000,10.732432164001448,36.44652107731304,https://www.mubawab.tn/fr/a/7886264/a-vendre-un-appartement-cite-wafa-mrezgua-hammamet
+568,A Vendre Villa à Cité La Santé,Bizerte Nord      ,Maison,500,5,900 000,9.8708,37.272,https://www.mubawab.tn/fr/a/7890947/a-vendre-villa-%C3%A0-cit%C3%A9-la-sant%C3%A9
+569,A vendre une maison S2 dont une suite à HAMMAMET,Hammamet à       Hammamet      ,Maison,485,3,650 000,10.61457,36.40108,https://www.mubawab.tn/fr/a/7885635/a-vendre-une-maison-s2-dont-une-suite-%C3%A0-hammamet
+570,Villa à Midoun Djerba avec piscine à vendre,Djerba à       Djerba      ,Maison,700,3,750 000,10.8451467,33.8075978,https://www.mubawab.tn/fr/a/7866491/villa-%C3%A0-midoun-djerba-avec-piscine-%C3%A0-vendre
+571,Une Villa inachevée S4 à vendre à La Soukra,La Soukra à       La Soukra      ,Maison,400,5,850 000,10.27417,36.88833,https://www.mubawab.tn/fr/a/7850293/une-villa-inachev%C3%A9e-s4-%C3%A0-vendre-%C3%A0-la-soukra
+572,Une grande villa avec piscine à vendre à Djerba,Djerba à       Djerba      ,Maison,825,3,650 000,10.8451467,33.8075978,https://www.mubawab.tn/fr/a/7866239/une-grande-villa-avec-piscine-%C3%A0-vendre-%C3%A0-djerba
+573,Une villa à vendre avec piscine à Djerba,Djerba à       Djerba      ,Maison,400,3,550 000,10.8451467,33.8075978,https://www.mubawab.tn/fr/a/7866228/une-villa-%C3%A0-vendre-avec-piscine-%C3%A0-djerba
+574,Villa d’exception à Vendre Sousse,Hammam Sousse      ,Maison,720,5,2 500 000,10.5972,35.8569,https://www.mubawab.tn/fr/a/7889329/villa-d%E2%80%99exception-%C3%A0-vendre-sousse
+575,Maison à vendre à hammem sousse,Hammam Sousse à       Hammam Sousse      ,Maison,330,3,550 000,10.591507,35.8569,https://www.mubawab.tn/fr/a/7331135/maison-%C3%A0-vendre-%C3%A0-hammem-sousse
+576,Maison à vendre Rue Tataouine cité Ennour Médenine,Medenine      ,Maison,110,4,132 000,10.49143,33.34318,https://www.mubawab.tn/fr/a/7889083/maison-%C3%A0-vendre-rue-tataouine-cit%C3%A9-ennour-m%C3%A9denine
+577,Une villa avec piscine à vendre à Djerba,Djerba à       Djerba      ,Maison,400,3,550 000,10.8451467,33.8075978,https://www.mubawab.tn/fr/a/7866221/une-villa-avec-piscine-%C3%A0-vendre-%C3%A0-djerba
+578,Maison De Plain Pied À Vendre À Route Du Phare,Midoune à       Midoun      ,Maison,578,3,300 000,11.004857641318814,33.81506896289502,https://www.mubawab.tn/fr/a/7888504/maison-de-plain-pied-%C3%A0-vendre-%C3%A0-route-du-phare
+579,A Vendre Maison S2 Lot Terrain À Temlel,Midoune à       Midoun      ,Maison,932,2,430 000,11.010655969521025,33.803563279019095,https://www.mubawab.tn/fr/a/7888495/a-vendre-maison-s2-lot-terrain-%C3%A0-temlel
+580,Villa à vendre à Houmet souk,Djerba à       Djerba      ,Maison,420,3,390 000,10.859126281743945,33.816093167836705,https://www.mubawab.tn/fr/a/7888486/villa-%C3%A0-vendre-%C3%A0-houmet-souk
+581,Villa a vende a Raoued cité des juges,Cité des Juges à       Raoued      ,Maison,322,3,330 000,10.204308460401913,36.978609504876935,https://www.mubawab.tn/fr/a/7888380/villa-a-vende-a-raoued-cit%C3%A9-des-juges
+582,Villa à vendre à la Marsa,La Marsa à       La Marsa      ,Maison,252,4,1 150 000,10.2762232,36.8941992,https://www.mubawab.tn/fr/a/7888187/villa-%C3%A0-vendre-%C3%A0-la-marsa
+583,Villa inachevée à L'aouina,Aouina à       La Marsa      ,Maison,470,6,1 100 000,10.325278,36.876389,https://www.mubawab.tn/fr/a/7866002/villa-inachev%C3%A9e-%C3%A0-l-aouina
+584,A Vendre Maison à Cité El Waha,Bizerte Nord      ,Maison,136,8,310 000,9.8708,37.272,https://www.mubawab.tn/fr/a/7888000/a-vendre-maison-%C3%A0-cit%C3%A9-el-waha
+585,RDC à rénover à Marsa Cube 1160,La Marsa à       La Marsa      ,Maison,240,3,800 000,10.325740004494403,36.88576746040715,https://www.mubawab.tn/fr/a/7794180/rdc-%C3%A0-r%C3%A9nover-%C3%A0-marsa-cube-1160
+586,Villa Marie Ange à Vendre à EL Manar 1,El Manar 1 à       El Menzah      ,Maison,300,4,650 000,10.164723,36.845235,https://www.mubawab.tn/fr/a/7801187/villa-marie-ange-%C3%A0-vendre-%C3%A0-el-manar-1
+587,Maison spacieuse à vendre,Sidi Soufiene à       La Soukra      ,Maison,400,4,470 000,10.25,36.883333,https://www.mubawab.tn/fr/a/7792123/maison-spacieuse-%C3%A0-vendre
+588,Très belle maison en vente. Surface totale 500 m². Superbe vue sur mer,Enfidha      ,Maison,500,8,300 000,10.421903871336044,36.22978698506158,https://www.mubawab.tn/fr/a/7886480/tr%C3%A8s-belle-maison-en-vente-surface-totale-500-m%C2%B2-superbe-vue-sur-mer
+589,Duplex à dar fadhal,Dar Fadhal à       La Soukra      ,Maison,200,3,650 000,10.25,36.883333,https://www.mubawab.tn/fr/a/7883755/duplex-%C3%A0-dar-fadhal
+590,Maison à acheter à Cité Bir El Araies. Superficie 1000 m². Espace vert,Cité Bir El Araies à       Kalaat Landalous      ,Maison,1000,4,1 600 000,9.265700825299003,32.969309183298215,https://www.mubawab.tn/fr/a/7885980/maison-%C3%A0-acheter-%C3%A0-cit%C3%A9-bir-el-araies-superficie-1000-m%C2%B2-espace-vert
+591,Maison au Cœur de Houmet Essouk,Houmt Souk à       Houmt Souk      ,Maison,360,3,620 000,10.85,33.866667,https://www.mubawab.tn/fr/a/7885658/maison-au-c%C5%93ur-de-houmet-essouk
+592,EN EXCLUSIVITE Duplex à Vendre à La Marsa,La Marsa à       La Marsa      ,Maison,140,3,570 000,10.325278,36.876389,https://www.mubawab.tn/fr/a/7846456/en-exclusivite-duplex-%C3%A0-vendre-%C3%A0-la-marsa
+593,"Ain_Zaghouan_Sud, Vente Triplex de 240 m2",Ain Zaghouan Sud à       La Marsa      ,Maison,240,4,450 000,10.325278,36.876389,https://www.mubawab.tn/fr/a/7841443/ain-zaghouan-sud-vente-triplex-de-240-m2
+594,A vendre villa a Hammamet sud,Hammamet Sud à       Hammamet      ,Maison,500,3,490 000,10.61457,36.40108,https://www.mubawab.tn/fr/a/7884502/a-vendre-villa-a-hammamet-sud
+595,Maison 3etages inachevé Borj cedria dt,Ben Arous Sud à       Ben Arous      ,Maison,300,6,210 000,10.160483010122704,36.866823979687766,https://www.mubawab.tn/fr/a/7884470/maison-3etages-inachev%C3%A9-borj-cedria-dt
+596,Villa deux Etages,Gabès Sud      ,Maison,290,4,320 000,10.113342057850188,33.8612239984437,https://www.mubawab.tn/fr/a/7884309/villa-deux-etages
+597,BONNE OCCASION. Maison avec deux appartements à Hammam Lif,Hammam Lif à       Hammam Lif      ,Maison,180,4,410 000,10.3501526996927,36.72324948114315,https://www.mubawab.tn/fr/a/7868487/bonne-occasion-maison-avec-deux-appartements-%C3%A0-hammam-lif
+598,Maison à acheter à Cité Mohamed Ali. 8 chambres. Terrasse et jardin.,Cité Mohamed Ali à       Rades      ,Maison,450,8,600 000,10.2736,36.7609,https://www.mubawab.tn/fr/a/7883879/maison-%C3%A0-acheter-%C3%A0-cit%C3%A9-mohamed-ali-8-chambres-terrasse-et-jardin-
+599,A vendre belle villa hammamet avec piscine,Hammamet à       Hammamet      ,Maison,1000,5,957 900,10.568995,36.404007,https://www.mubawab.tn/fr/a/7880987/a-vendre-belle-villa-hammamet-avec-piscine
+600,Villa Sahloul 1 2 apparts,Sahloul à       Sousse Jaouhara      ,Maison,530,7,920 000,10.620260859771685,35.822644204188286,https://www.mubawab.tn/fr/a/7671904/villa-sahloul-1-2-apparts
+601,Villa swing à 07 min de la plage,Djerba à       Djerba      ,Maison,139,3,388 900,10.98692087616417,33.81224144550944,https://www.mubawab.tn/fr/a/7148087/villa-swing-%C3%A0-07-min-de-la-plage
+602,Trouvez votre maison à acheter à Les Jardins de Carthage. Superficie 439 m²,Les Jardins de Carthage à       Le Kram      ,Maison,439,7,2 100 000,10.290574653967287,36.852732139995894,https://www.mubawab.tn/fr/a/7825847/trouvez-votre-maison-%C3%A0-acheter-%C3%A0-les-jardins-de-carthage-superficie-439-m%C2%B2
+603,Villa Cité Romana Près du bardo prix négociable,Cité Ibn Khaldoun      ,Maison,480,4,730 000,10.148154049564676,36.820457247875204,https://www.mubawab.tn/fr/a/7882837/villa-cit%C3%A9-romana-pr%C3%A8s-du-bardo-prix-n%C3%A9gociable
+604,Maison s4 coté foyer universitaire omrane sup,El Omrane Supérieur à       El Omrane Superieur      ,Maison,100,4,190 000,10.16596,36.81881,https://www.mubawab.tn/fr/a/7882590/maison-s4-cot%C3%A9-foyer-universitaire-omrane-sup
+605,Maison laico,Nabeul à       Nabeul      ,Maison,220,3,300 000,10.73505,36.45056,https://www.mubawab.tn/fr/a/7856181/maison-laico
+606,Villa à rénover à vendre à Kherddine,Le Kram à       Le Kram      ,Maison,390,3,1 000 000,10.316667,36.833333,https://www.mubawab.tn/fr/a/7860065/villa-%C3%A0-r%C3%A9nover-%C3%A0-vendre-%C3%A0-kherddine
+607,Ancien dar arbi a hergla de 400 m,Hergla      ,Maison,400,3,280 000,10.5079,36.0301,https://www.mubawab.tn/fr/a/7881965/ancien-dar-arbi-a-hergla-de-400-m
+608,A vendre à Mourouj 6 Villa de style américain,Bir El Kassaa à       El Mourouj      ,Maison,430,6,820 000,10.2622167,36.6938694,https://www.mubawab.tn/fr/a/7881885/a-vendre-%C3%A0-mourouj-6-villa-de-style-am%C3%A9ricain
+609,Duplex S3 avec piscine à Gammarth,Gammarth à       La Marsa      ,Maison,312,3,1 200 000,10.325278,36.876389,https://www.mubawab.tn/fr/a/7588110/duplex-s3-avec-piscine-%C3%A0-gammarth
+610,Villa de 400 m² sur terrain de 503m2 à Nouvelle Ariana,Nouvelle Ariana à       Ariana Ville      ,Maison,503,4,940 000,10.1604276,36.8604803,https://www.mubawab.tn/fr/a/7799208/villa-de-400-m%C2%B2-sur-terrain-de-503m2-%C3%A0-nouvelle-ariana
+611,Superbe maison à vendre à Cité Ubn Khaldoun. 7 chambres. Cuisine équipée,Cité Ubn Khaldoun à       El Omrane Superieur      ,Maison,70,7,265 000 000,,,https://www.mubawab.tn/fr/a/7740114/superbe-maison-%C3%A0-vendre-%C3%A0-cit%C3%A9-ubn-khaldoun-7-chambres-cuisine-%C3%A9quip%C3%A9e
+612,A vendre Duplex S2 à Hammamet,Hammamet à       Hammamet      ,Maison,100,2,330 000,10.61457,36.40108,https://www.mubawab.tn/fr/a/7880326/a-vendre-duplex-s2-%C3%A0-hammamet
+613,Villa style HOUCH à Midoun Djerba,Djerba à       Djerba      ,Maison,471,4,470 000,10.8451467,33.8075978,https://www.mubawab.tn/fr/a/7748200/villa-style-houch-%C3%A0-midoun-djerba
+614,Villa style HOUCH à Midoun Djerba,Mahboubine à       Midoun      ,Maison,465,3,404 000,10.85,33.866667,https://www.mubawab.tn/fr/a/7798120/villa-style-houch-%C3%A0-midoun-djerba
+615,Duplex avec jardin au lac 1,Les Berges Du Lac 1 à       La Marsa      ,Maison,185,3,820 000,10.2241758,36.8355152,https://www.mubawab.tn/fr/a/7879918/duplex-avec-jardin-au-lac-1
+616,A vendre Villa a Hammamet,Hammamet à       Hammamet      ,Maison,400,3,430 000,10.61457,36.40108,https://www.mubawab.tn/fr/a/7777469/a-vendre-villa-a-hammamet
+617,A vendre Villa a Hammamet Nord,Hammamet à       Hammamet      ,Maison,270,4,1 200 000,10.661894,36.419773,https://www.mubawab.tn/fr/a/7842254/a-vendre-villa-a-hammamet-nord
+618,A vendre VIilla à Hammamet. Sud,Hammamet à       Hammamet      ,Maison,238,3,470 000,10.535237,36.374884,https://www.mubawab.tn/fr/a/7843650/a-vendre-viilla-%C3%A0-hammamet-sud
+619,A vendre Villa El menchar Hammamet,Hammamet à       Hammamet      ,Maison,800,3,680 000,10.61457,36.40108,https://www.mubawab.tn/fr/a/7842954/a-vendre-villa-el-menchar-hammamet
+620,A vendre a maison arabe Hammamet,Hammamet à       Hammamet      ,Maison,163,2,245 000,10.61457,36.40108,https://www.mubawab.tn/fr/a/7679617/a-vendre-a-maison-arabe-hammamet
+621,Vente villa standing a manar 1,El Manar 1 à       El Menzah      ,Maison,540,4,1 300 000,10.164723,36.845235,https://www.mubawab.tn/fr/a/7867357/vente-villa-standing-a-manar-1
+622,A vendre villa inachevée a Hammamet,Hammamet Nord à       Hammamet      ,Maison,308,3,480 000,10.61457,36.40108,https://www.mubawab.tn/fr/a/7879000/a-vendre-villa-inachev%C3%A9e-a-hammamet
+623,Maison à Zahrouni,Ezzahrouni à       El Hrairia      ,Maison,100,2,95 000,10.16596,36.81881,https://www.mubawab.tn/fr/a/7878838/maison-%C3%A0-zahrouni
+624,Vente Maison Prisco S2,Hammamet à       Hammamet      ,Maison,441,2,670 000,10.61457,36.40108,https://www.mubawab.tn/fr/a/7862247/vente-maison-prisco-s2
+625,A Vendre – Belle Villa Avec Piscine Titrée,Midoune à       Midoun      ,Maison,400,3,420 000,10.85,33.866667,https://www.mubawab.tn/fr/a/7876836/a-vendre-%E2%80%93-belle-villa-avec-piscine-titr%C3%A9e
+626,Maison Titrée À Vendre Avec Grand Terrain,Tezdaine      ,Maison,1024,2,365 000,11.0400653,33.8039664,https://www.mubawab.tn/fr/a/7876840/maison-titr%C3%A9e-%C3%A0-vendre-avec-grand-terrain
+627,Très Belle Villa À Vendre À Midoun Route Du Phare,Midoune à       Midoun      ,Maison,700,5,550 000,10.85,33.866667,https://www.mubawab.tn/fr/a/7876837/tr%C3%A8s-belle-villa-%C3%A0-vendre-%C3%A0-midoun-route-du-phare
+628,RDC d'une maison,Mansourah à       Kairouan Ville      ,Maison,140,3,170 000,10.0738994,35.6543584,https://www.mubawab.tn/fr/a/7876401/rdc-d-une-maison
+629,Villa RDC et 1 er etage,Cité Ennkhilet à       Raoued      ,Maison,384,6,780 000,10.195541,36.89316,https://www.mubawab.tn/fr/a/7640997/villa-rdc-et-1-er-etage
+630,Maison traditionnelle 197 m2 à La Medina,La Medina      ,Maison,197,4,470 000,10.16596,36.81881,https://www.mubawab.tn/fr/a/7859256/maison-traditionnelle-197-m2-%C3%A0-la-medina
+631,A Vendre Grande Villa Avec Piscine Inachevée,Aghir      ,Maison,2510,4,990 000,11.01251,33.759722,https://www.mubawab.tn/fr/a/7875483/a-vendre-grande-villa-avec-piscine-inachev%C3%A9e
+632,Une villa avec piscine en vente à Djerba,Djerba à       Djerba      ,Maison,135,2,450 000,10.8451467,33.8075978,https://www.mubawab.tn/fr/a/7866490/une-villa-avec-piscine-en-vente-%C3%A0-djerba
+633,À vendre une belle maison fait l angle à Fouchana,Cité El Amel 2 à       Fouchana      ,Maison,110,4,250 000,10.169820000000001,36.701070000000016,https://www.mubawab.tn/fr/a/7874020/%C3%A0-vendre-une-belle-maison-fait-l-angle-%C3%A0-fouchana
+634,Vente – Villa à retaper à Notre Dame,Montplaisir à       Tunis      ,Maison,860,4,2 400 000,10.16596,36.81881,https://www.mubawab.tn/fr/a/7825060/vente-%E2%80%93-villa-%C3%A0-retaper-%C3%A0-notre-dame
+635,A vendre villa à Akouda,Akouda à       Akouda      ,Maison,340,4,450 000,10.57,35.87,https://www.mubawab.tn/fr/a/7874621/a-vendre-villa-%C3%A0-akouda
+636,Une villa indépendante de 400m² situé à sahloul,Sahloul à       Sousse Ville      ,Maison,400,5,945 000,10.6339,35.8273,https://www.mubawab.tn/fr/a/7627313/une-villa-ind%C3%A9pendante-de-400m%C2%B2-situ%C3%A9-%C3%A0-sahloul
+637,Jolie Maison À Vendre À Midoun,Midoune à       Midoun      ,Maison,500,2,350 000,10.85,33.866667,https://www.mubawab.tn/fr/a/7873289/jolie-maison-%C3%A0-vendre-%C3%A0-midoun
+638,Villa à vendre à Roued Plage,Raoued à       Raoued      ,Maison,281,3,275 000,10.4132,36.70549,https://www.mubawab.tn/fr/a/7872951/villa-%C3%A0-vendre-%C3%A0-roued-plage
+639,Villa en S6 de 543m² au Menzah 5,El Menzah 5 à       Ariana Ville      ,Maison,543,6,890 000,10.19556,36.8625,https://www.mubawab.tn/fr/a/7811867/villa-en-s6-de-543m%C2%B2-au-menzah-5
+640,Vente Duplex et trois appartements Fouchana,Cité El Moustakbel à       Fouchana      ,Maison,417,8,500 000,10.16982,36.70107,https://www.mubawab.tn/fr/a/7860965/vente-duplex-et-trois-appartements-fouchana
+641,Maison à Bellevue el Ouardia,Bellevue à       El Ouardia      ,Maison,394,3,330 000,10.191015263127943,36.77167149751806,https://www.mubawab.tn/fr/a/7872480/maison-%C3%A0-bellevue-el-ouardia
+642,A vendre villa S4 avec piscine à la Soukra,La Soukra à       La Soukra      ,Maison,764,5,1 200 000,10.27417,36.88833,https://www.mubawab.tn/fr/a/7824138/a-vendre-villa-s4-avec-piscine-%C3%A0-la-soukra
+643,Maison Cayenne,Hammamet à       Hammamet      ,Maison,350,3,650 000,10.61457,36.40108,https://www.mubawab.tn/fr/a/7695239/maison-cayenne
+644,A vendre une maison arabe à Dar Chaâbene Nabeul,Dar Châabane      ,Maison,96,2,200 000,10.75258,36.48423,https://www.mubawab.tn/fr/a/7704076/a-vendre-une-maison-arabe-%C3%A0-dar-cha%C3%A2bene-nabeul
+645,A vendre une grande villa avec piscine à chatt mariem pied dans l'eau,Chott Meriem à       Akouda      ,Maison,3500,4,3 500 000,10.57,35.87,https://www.mubawab.tn/fr/a/7867932/a-vendre-une-grande-villa-avec-piscine-%C3%A0-chatt-mariem-pied-dans-l-eau
+646,Maison de plain pieds à vendre,Bhar Lazreg à       La Marsa      ,Maison,326,3,490 000,10.325278,36.876389,https://www.mubawab.tn/fr/a/7635817/maison-de-plain-pieds-%C3%A0-vendre
+647,Villa Fragolina à Vendre à Cité EL Ghazela,Ariana à       Ariana Ville      ,Maison,428,3,650 000,10.19556,36.8625,https://www.mubawab.tn/fr/a/7792947/villa-fragolina-%C3%A0-vendre-%C3%A0-cit%C3%A9-el-ghazela
+648,Superbe maison à vendre à Sidi Frej. Surface de 455 m². Belle terrasse et jardin,Sidi Frej à       La Soukra      ,Maison,455,3,400 000,11.137673,34.696444,https://www.mubawab.tn/fr/a/7869115/superbe-maison-%C3%A0-vendre-%C3%A0-sidi-frej-surface-de-455-m%C2%B2-belle-terrasse-et-jardin
+649,Maison à vendre à Sfax de 923 m2,Route Teniour à       Sfax Ville      ,Maison,923,5,800 000,10.28607,36.763943,https://www.mubawab.tn/fr/a/7868990/maison-%C3%A0-vendre-%C3%A0-sfax-de-923-m2
+650,A vendre maison à Birbouregba Hammamet,Hammamet à       Hammamet      ,Maison,200,5,370 000,10.61457,36.40108,https://www.mubawab.tn/fr/a/7868938/a-vendre-maison-%C3%A0-birbouregba-hammamet
+651,Villa s3 à Raoued Plage,La Marsa      ,Maison,174,4,600 000,10.325278,36.876389,https://www.mubawab.tn/fr/a/7868815/villa-s3-%C3%A0-raoued-plage
+652,Maison de compagne située à Kalaa Kbira,Kalâa Kebira      ,Maison,650,4,650 000,10.54372,35.87392,https://www.mubawab.tn/fr/a/7594590/maison-de-compagne-situ%C3%A9e-%C3%A0-kalaa-kbira
+653,Triplex Oriental À Vendre À Ain Zaghouan,Ain Zaghouan Sud à       La Marsa      ,Maison,80,3,480 000,10.325278,36.876389,https://www.mubawab.tn/fr/a/7623569/triplex-oriental-%C3%A0-vendre-%C3%A0-ain-zaghouan
+654,A Vendre Une Maison à Ain Mariem Bizerte,Cité Ain Meriem à       Bizerte Nord      ,Maison,183,6,360 000,9.860302389916429,37.28724843197912,https://www.mubawab.tn/fr/a/7853677/a-vendre-une-maison-%C3%A0-ain-mariem-bizerte
+655,Maison a vendre à petit prix prés du Midoun,Djerba à       Djerba      ,Maison,330,2,255 000,10.8451467,33.8075978,https://www.mubawab.tn/fr/a/7867665/maison-a-vendre-%C3%A0-petit-prix-pr%C3%A9s-du-midoun
+656,Triplex Lily Rose à Vendre à Sidi Daoud,Sidi Daoued à       La Marsa      ,Maison,312,4,2 300 000,10.325278,36.876389,https://www.mubawab.tn/fr/a/7867608/triplex-lily-rose-%C3%A0-vendre-%C3%A0-sidi-daoud
+657,Ancienne Maison 112 m2 au Centre Ville Tunis,Bab Bhar à       Tunis      ,Maison,112,3,185 000,10.16596,36.81881,https://www.mubawab.tn/fr/a/7859285/ancienne-maison-112-m2-au-centre-ville-tunis
+658,Maison a renover,Menzel Bourguiba      ,Maison,120,4,290 000,9.7674,37.1578,https://www.mubawab.tn/fr/a/7867188/maison-a-renover
+659,Duplex 3 chambres Mourjou1,El Mourouj 1 à       El Mourouj      ,Maison,150,3,300 000,10.209552,36.713434,https://www.mubawab.tn/fr/a/7866899/duplex-3-chambres-mourjou1
+660,Maison en omrane supérieur À vendre,El Omrane Supérieur à       El Omrane Superieur      ,Maison,102,8,650 000,10.123916,36.830534,https://www.mubawab.tn/fr/a/7866695/maison-en-omrane-sup%C3%A9rieur-%C3%A0-vendre
+661,4 Pieces cuisine et salle de bain snit a Fouchana,Fouchana à       Fouchana      ,Maison,94,3,145 000,10.16982,36.70107,https://www.mubawab.tn/fr/a/7800197/4-pieces-cuisine-et-salle-de-bain-snit-a-fouchana
+662,Une villa à vendre avec piscine à Djerba,Djerba à       Djerba      ,Maison,400,3,550 000,10.8451467,33.8075978,https://www.mubawab.tn/fr/a/7866213/une-villa-%C3%A0-vendre-avec-piscine-%C3%A0-djerba
+663,Duplex a vendre neuf à la soukra,Chotrana 1 à       La Soukra      ,Maison,235,3,1 080 000,10.22993,36.880508,https://www.mubawab.tn/fr/a/7804173/duplex-a-vendre-neuf-%C3%A0-la-soukra
+664,Immeuble Annemarie à Vendre à Raoued Plage,Raoued à       Raoued      ,Maison,300,8,630 000,10.191389,36.954444,https://www.mubawab.tn/fr/a/7780288/immeuble-annemarie-%C3%A0-vendre-%C3%A0-raoued-plage
+665,Villa Younos à Vendre à Raoued,Raoued à       Raoued      ,Maison,630,4,400 000,10.191389,36.954444,https://www.mubawab.tn/fr/a/7793696/villa-younos-%C3%A0-vendre-%C3%A0-raoued
+666,Superbe maison à vendre à Bab El Khadra. Surface de 470 m². Jardin et terrasse.,Bab El Khadra à       Tunis      ,Maison,470,3,1 070 000,10.16596,36.81881,https://www.mubawab.tn/fr/a/7865227/superbe-maison-%C3%A0-vendre-%C3%A0-bab-el-khadra-surface-de-470-m%C2%B2-jardin-et-terrasse-
+667,Immeuble Corne Payen à Vendre à Cité EL Khadhra,Cité El Khadra à       Cité El Khadra      ,Maison,120,5,310 000,10.226369,36.823935,https://www.mubawab.tn/fr/a/7798625/immeuble-corne-payen-%C3%A0-vendre-%C3%A0-cit%C3%A9-el-khadhra
+668,Belle villa Mourouj 6,El Mourouj 6 à       El Mourouj      ,Maison,340,5,590 000,10.2622167,36.6938694,https://www.mubawab.tn/fr/a/7865048/belle-villa-mourouj-6
+669,Emplacement exceptionnel à 100m de la plage sidi mehrez,Mezraya      ,Maison,1000,3,1 200 000,10.964524571628841,33.86580074742621,https://www.mubawab.tn/fr/a/7830008/emplacement-exceptionnel-%C3%A0-100m-de-la-plage-sidi-mehrez
+670,Vend une grande construction,Ras Angela à       Bizerte Nord      ,Maison,600,2,350 000,9.743478,37.339522,https://www.mubawab.tn/fr/a/7864449/vend-une-grande-construction
+671,Une villa S4 a vendre,Hammamet Nord à       Hammamet      ,Maison,300,4,720 000,10.61457,36.40108,https://www.mubawab.tn/fr/a/7864375/une-villa-s4-a-vendre
+672,Maison à acheter à Sidi Daoued. Surface de 268 m². Ascenseur et terrasse,Sidi Daoued à       La Marsa      ,Maison,268,3,1 300 000,10.325278,36.876389,https://www.mubawab.tn/fr/a/7778535/maison-%C3%A0-acheter-%C3%A0-sidi-daoued-surface-de-268-m%C2%B2-ascenseur-et-terrasse
+673,Vente Haut de villa Korba Plage,Korba      ,Maison,140,4,300 000,10.8582,36.5769,https://www.mubawab.tn/fr/a/7863446/vente-haut-de-villa-korba-plage
+674,Quatre maisons pieds dans l'eau a korba,Korba      ,Maison,640,3,1 400 000,10.8582,36.5769,https://www.mubawab.tn/fr/a/7863117/quatre-maisons-pieds-dans-l-eau-a-korba
+675,Quatre maisons pieds dans l'eau a korba,Korba      ,Maison,640,3,1 400 000,10.8582,36.5769,https://www.mubawab.tn/fr/a/7740894/quatre-maisons-pieds-dans-l-eau-a-korba
+676,Superbe maison à vendre. 2 chambres. Environnement calme avec vue sur la mer et double vitrage,Chebba      ,Maison,750,2,110 000,11.101316918311483,35.207042997807896,https://www.mubawab.tn/fr/a/7680012/superbe-maison-%C3%A0-vendre-2-chambres-environnement-calme-avec-vue-sur-la-mer-et-double-vitrage
+677,Maison en bois sur pilotis hammamet,Hammamet Nord à       Hammamet      ,Maison,400,4,580 000,10.592101830055299,36.43742719492101,https://www.mubawab.tn/fr/a/7862601/maison-en-bois-sur-pilotis-hammamet
+678,Maison à l'achat. 7 belles chambres,Cité Ettahrir      ,Maison,100,7,250 000,10.124557638174473,36.82206932211771,https://www.mubawab.tn/fr/a/7862543/maison-%C3%A0-l-achat-7-belles-chambres
+679,Propriété 1350 M2 A Oued Elil Manouba,Oued Ellil à       Oued Ellil      ,Maison,1350,3,1 350 000,9.9089889,36.8094099,https://www.mubawab.tn/fr/a/7857836/propri%C3%A9t%C3%A9-1350-m2-a-oued-elil-manouba
+680,Villa de luxe à Hammamet,Hammamet Sud à       Hammamet      ,Maison,1067,2,470 000,10.61457,36.40108,https://www.mubawab.tn/fr/a/7862135/villa-de-luxe-%C3%A0-hammamet
+681,Villa à dar allouche kelibia,Kélibia      ,Maison,1400,3,230 000,11.0918,36.8493,https://www.mubawab.tn/fr/a/7263871/villa-%C3%A0-dar-allouche-kelibia
+682,Maison coloniale à vendre,Rades Mongil à       Rades      ,Maison,781,4,980 000,10.647119140625,36.666720734485715,https://www.mubawab.tn/fr/a/7861625/maison-coloniale-%C3%A0-vendre
+683,A vendre une maison à Birbouregba Hammamet,Hammamet à       Hammamet      ,Maison,254,3,360 000,10.61457,36.40108,https://www.mubawab.tn/fr/a/7703143/a-vendre-une-maison-%C3%A0-birbouregba-hammamet
+684,A vendre villa s3 titre bleu à Midoun Djerba,Djerba à       Djerba      ,Maison,400,3,280 000,10.8451467,33.8075978,https://www.mubawab.tn/fr/a/7540428/a-vendre-villa-s3-titre-bleu-%C3%A0-midoun-djerba
+685,A Vendre Une Maison De Deux Niveaux à Bhira,Bizerte à       Bizerte Nord      ,Maison,141,5,280 000,9.860540028339313,37.28730744793547,https://www.mubawab.tn/fr/a/7853694/a-vendre-une-maison-de-deux-niveaux-%C3%A0-bhira
+686,A Vendre Une Maison à oued el roumine Bizerte,Bizerte à       Bizerte Nord      ,Maison,180,2,210 000,9.8708,37.272,https://www.mubawab.tn/fr/a/7853849/a-vendre-une-maison-%C3%A0-oued-el-roumine-bizerte
+687,A vendre une maison inachevée Rades Ben Arous,Cité Taieb Mhiri 1 à       Rades      ,Maison,160,3,250 000,10.2736,36.7609,https://www.mubawab.tn/fr/a/7859214/a-vendre-une-maison-inachev%C3%A9e-rades-ben-arous
+688,Superbe villa spacieuse à 100m de la plage,Soliman      ,Maison,652,3,400 000,10.483333,36.7,https://www.mubawab.tn/fr/a/7858661/superbe-villa-spacieuse-%C3%A0-100m-de-la-plage
+689,Villa titré rénovée et érigée sur deux étages au début cité Essaha Borj Louzir,Borj Louzir à       La Soukra      ,Maison,260,6,399 000,10.2123551,36.8650901,https://www.mubawab.tn/fr/a/7858566/villa-titr%C3%A9-r%C3%A9nov%C3%A9e-et-%C3%A9rig%C3%A9e-sur-deux-%C3%A9tages-au-d%C3%A9but-cit%C3%A9-essaha-borj-louzir
+690,"Villa de haut standing à Chatt Ezzouhour, Lebna",Menzel Temime      ,Maison,3000,6,1 350 000,10.941144,36.71195,https://www.mubawab.tn/fr/a/7858390/villa-de-haut-standing-%C3%A0-chatt-ezzouhour-lebna
+691,Villa avec vue sur mer à Haouaria,El Haouaria      ,Maison,691,3,695 000,11.016667,37.05,https://www.mubawab.tn/fr/a/7858173/villa-avec-vue-sur-mer-%C3%A0-haouaria
+692,Très belle maison en vente à Sousse Jaouhara. Surface de 200 m²,Sousse Jaouhara à       Sousse Jaouhara      ,Maison,200,3,400 000,9.537500000000001,33.88689999999999,https://www.mubawab.tn/fr/a/7856468/tr%C3%A8s-belle-maison-en-vente-%C3%A0-sousse-jaouhara-surface-de-200-m%C2%B2
+693,A vendre Maison Arabe au plein centre Hammamet,Hammamet à       Hammamet      ,Maison,660,4,1 680 000,10.61457,36.40108,https://www.mubawab.tn/fr/a/7784943/a-vendre-maison-arabe-au-plein-centre-hammamet
+694,Villa inachevée de 500m² à Soukra,La Soukra à       La Soukra      ,Maison,500,3,550 000,10.25,36.883333,https://www.mubawab.tn/fr/a/7796613/villa-inachev%C3%A9e-de-500m%C2%B2-%C3%A0-soukra
+695,A vendre villa à Khzama Est,Khezama à       Sousse Jaouhara      ,Maison,548,6,1 400 000,10.618753,35.844,https://www.mubawab.tn/fr/a/7791951/a-vendre-villa-%C3%A0-khzama-est
+696,Très belle maison en vente à Mornag. Superficie 246 m². Triplex,Mornag à       Mornag      ,Maison,246,8,172 000,10.29964,36.68902,https://www.mubawab.tn/fr/a/7855221/tr%C3%A8s-belle-maison-en-vente-%C3%A0-mornag-superficie-246-m%C2%B2-triplex
+697,Deux maisons a hammamet,Hammamet à       Hammamet      ,Maison,100,5,240 000,10.61457,36.40108,https://www.mubawab.tn/fr/a/7620808/deux-maisons-a-hammamet
+698,Une belle maison a Hammamet Birbouregba,Hammamet à       Hammamet      ,Maison,160,4,420 000,10.61457,36.40108,https://www.mubawab.tn/fr/a/7853347/une-belle-maison-a-hammamet-birbouregba
+699,Vente Maison Bader S4,Beni Khiar à       Beni Khiar      ,Maison,228,4,310 000,10.78,36.47,https://www.mubawab.tn/fr/a/7829783/vente-maison-bader-s4
+700,Villa magnifique avec piscine à La Soukra,La Soukra à       La Soukra      ,Maison,1141,6,1 550 000,10.25,36.883333,https://www.mubawab.tn/fr/a/7792030/villa-magnifique-avec-piscine-%C3%A0-la-soukra
+701,Annonce de Vente de 2 maisons est un studio Bizert,Bizerte      ,Maison,130,6,600 000,9.866667,37.266667,https://www.mubawab.tn/fr/a/7852547/annonce-de-vente-de-2-maisons-est-un-studio-bizert
+702,Villa à vendre à Mahdia,Mahdia      ,Maison,160,3,670 000,10.7299779,35.3581191,https://www.mubawab.tn/fr/a/7624971/villa-%C3%A0-vendre-%C3%A0-mahdia
+703,Villa à vendre,Cité Ons à       Sakiet Ezzit      ,Maison,350,4,370 000,10.7609,34.7996,https://www.mubawab.tn/fr/a/7851652/villa-%C3%A0-vendre
+704,Vente 1er étage avec locaux commerciaux,Bhar Lazreg à       La Marsa      ,Maison,220,4,650 000,10.325278,36.876389,https://www.mubawab.tn/fr/a/7851454/vente-1er-%C3%A9tage-avec-locaux-commerciaux
+705,A vendre grande villa avec studio sur un grand ter,Djerba à       Djerba      ,Maison,1618,4,595 000,10.8451467,33.8075978,https://www.mubawab.tn/fr/a/7789136/a-vendre-grande-villa-avec-studio-sur-un-grand-ter
+706,À vendre une superbe villa à cité la Gazelle,Cité el Ghazela à       Raoued      ,Maison,450,3,670 000,10.191389,36.954444,https://www.mubawab.tn/fr/a/7850667/%C3%A0-vendre-une-superbe-villa-%C3%A0-cit%C3%A9-la-gazelle
+707,Maisonette Inachevée Rmila Chott Meriem,Chott Meriem à       Akouda      ,Maison,573,2,290 000,10.57,35.87,https://www.mubawab.tn/fr/a/7849035/maisonette-inachev%C3%A9e-rmila-chott-meriem
+708,Immeuble Lana à Vendre à Bellevue,Bellevue à       El Ouardia      ,Maison,480,5,1 100 000,10.21587,36.83561,https://www.mubawab.tn/fr/a/7850194/immeuble-lana-%C3%A0-vendre-%C3%A0-bellevue
+709,Une maison avec 2 commerces à vendre,Ezzouhour 5 à       El Hrairia      ,Maison,200,2,200 000,10.16596,36.81881,https://www.mubawab.tn/fr/a/7400837/une-maison-avec-2-commerces-%C3%A0-vendre
+710,Maison à vendre,El Kabaria 4 à       El Kabaria      ,Maison,150,4,250 000,10.16596,36.81881,https://www.mubawab.tn/fr/a/7849046/maison-%C3%A0-vendre
+711,Une Villa Jumelée à vendre à La Soukra,La Soukra à       La Soukra      ,Maison,250,5,1 095 000,10.27417,36.88833,https://www.mubawab.tn/fr/a/7701824/une-villa-jumel%C3%A9e-%C3%A0-vendre-%C3%A0-la-soukra
+712,Duplex avec un studio à vendre,Hammamet à       Hammamet      ,Maison,200,3,270 000,10.61457,36.40108,https://www.mubawab.tn/fr/a/7848514/duplex-avec-un-studio-%C3%A0-vendre
+713,A vendre une maison coloniale à Carthage Amilcar,Sidi Bousaid à       Carthage      ,Maison,257,6,1 180 000,10.3343581,36.871576,https://www.mubawab.tn/fr/a/7797385/a-vendre-une-maison-coloniale-%C3%A0-carthage-amilcar
+714,Nahj wasse3 awra9 lkolha mri9ka,Sijoumi      ,Maison,96,3,65 000,10.15352,36.782255,https://www.mubawab.tn/fr/a/7847477/nahj-wasse3-awra9-lkolha-mri9ka
+715,Villa à vendre à Hammmaet Nord,Hammamet Nord à       Hammamet      ,Maison,210,5,495 000,10.61457,36.40108,https://www.mubawab.tn/fr/a/7826893/villa-%C3%A0-vendre-%C3%A0-hammmaet-nord
+716,A vendre à Hammamet une villa S5,Hammamet à       Hammamet      ,Maison,800,5,695 000,10.61457,36.40108,https://www.mubawab.tn/fr/a/7657939/a-vendre-%C3%A0-hammamet-une-villa-s5
+717,Jolie Villa À Vendre À Midoun Route de Houmt Souk,Houmt Souk à       Houmt Souk      ,Maison,1800,4,430 000,10.85,33.866667,https://www.mubawab.tn/fr/a/7794082/jolie-villa-%C3%A0-vendre-%C3%A0-midoun-route-de-houmt-souk
+718,Bien à vendre,Cité Ettadhamen à       Ettadhamen      ,Maison,250,9,650 000,10.1175982,36.8357541,https://www.mubawab.tn/fr/a/7846570/bien-%C3%A0-vendre
+719,A vendre une maison arabesque à Hammamet,Hammamet à       Hammamet      ,Maison,310,6,585 000,10.61457,36.40108,https://www.mubawab.tn/fr/a/7701227/a-vendre-une-maison-arabesque-%C3%A0-hammamet
+720,Villa spacieuse a la cite romana,Rommana à       El Omrane Superieur      ,Maison,549,6,860 000,10.14300029083252,36.82293251548109,https://www.mubawab.tn/fr/a/7844509/villa-spacieuse-a-la-cite-romana
+721,Immeuble Lafy à Vendre à Mourouj2,El Mourouj 2 à       El Mourouj      ,Maison,600,13,900 000,10.2622167,36.6938694,https://www.mubawab.tn/fr/a/7845814/immeuble-lafy-%C3%A0-vendre-%C3%A0-mourouj2
+722,A vendre Maison à lMédina Hammamet,Hammamet à       Hammamet      ,Maison,75,2,600 000,10.61457,36.40108,https://www.mubawab.tn/fr/a/7756610/a-vendre-maison-%C3%A0-lm%C3%A9dina-hammamet
+723,Villa en Bord de Mer à Korba,Korba      ,Maison,70,3,450 000,10.8582,36.5769,https://www.mubawab.tn/fr/a/7844399/villa-en-bord-de-mer-%C3%A0-korba
+724,Villa avec studio à vendre,Nouvelle Medina à       Nouvelle Medina      ,Maison,356,4,520 000,10.18348,36.78898,https://www.mubawab.tn/fr/a/7843776/villa-avec-studio-%C3%A0-vendre
+725,A vendre duplex á la marsa,La Marsa à       La Marsa      ,Maison,180,3,600 000,10.325278,36.876389,https://www.mubawab.tn/fr/a/7842613/a-vendre-duplex-%C3%A1-la-marsa
+726,Duplex plus appartement,Borj Cedria à       Hammam Chatt      ,Maison,450,7,650 000,10.405946000000002,36.658969000000006,https://www.mubawab.tn/fr/a/7616857/duplex-plus-appartement
+727,Maison à vendre près de la mer,Kélibia      ,Maison,300,2,150 000,11.0918,36.8493,https://www.mubawab.tn/fr/a/7842563/maison-%C3%A0-vendre-pr%C3%A8s-de-la-mer
+728,Villa sur 2 étages lotissement AFH,Cité Ennour Jaafar à       Raoued      ,Maison,220,4,260 000,10.191389,36.954444,https://www.mubawab.tn/fr/a/7842540/villa-sur-2-%C3%A9tages-lotissement-afh
+729,Maison style arabe moderne à hammam sousse,Hammam Sousse à       Hammam Sousse      ,Maison,200,3,330 000,10.5972,35.8569,https://www.mubawab.tn/fr/a/7841645/maison-style-arabe-moderne-%C3%A0-hammam-sousse
+730,Villa innachevée au niveau de dalle à kélibia,Kélibia      ,Maison,200,2,90 000,11.0918,36.8493,https://www.mubawab.tn/fr/a/7841618/villa-innachev%C3%A9e-au-niveau-de-dalle-%C3%A0-k%C3%A9libia
+731,Une maison de campagne à vendre à Kalaa Kabira,Kalâa Kebira      ,Maison,800,6,650 000,10.535237,35.869824,https://www.mubawab.tn/fr/a/7645685/une-maison-de-campagne-%C3%A0-vendre-%C3%A0-kalaa-kabira
+732,Magnifique Villa à vendre à Erriadh Djerba Hood,Houmt Souk à       Houmt Souk      ,Maison,369,2,420 000,10.857350922092573,33.81864116203957,https://www.mubawab.tn/fr/a/7837788/magnifique-villa-%C3%A0-vendre-%C3%A0-erriadh-djerba-hood
+733,Villa Zahra Kharrouba Hammamet Nord,Hammamet Nord à       Hammamet      ,Maison,350,4,800 000,10.61457,36.40108,https://www.mubawab.tn/fr/a/7840942/villa-zahra-kharrouba-hammamet-nord
+734,Rez de chausser a vendre,Sousse Ville à       Sousse Ville      ,Maison,119,4,300 000,10.6339,35.8273,https://www.mubawab.tn/fr/a/7805840/rez-de-chausser-a-vendre
+735,Maison inachevée,Cité Chaker à       Raoued      ,Maison,350,3,370 000,10.191389,36.954444,https://www.mubawab.tn/fr/a/7839738/maison-inachev%C3%A9e
+736,"Maison avec jardin à vendre, Merkez Sahnoun",Merkez Sahnoun à       Sfax Sud      ,Maison,670,3,200 000,10.42479,34.48221,https://www.mubawab.tn/fr/a/7839397/maison-avec-jardin-%C3%A0-vendre-merkez-sahnoun
+737,Vente Maison Sultan S3,Hammamet Nord à       Hammamet      ,Maison,240,3,480 000,10.61457,36.40108,https://www.mubawab.tn/fr/a/7611268/vente-maison-sultan-s3
+738,Magnifique Villa s3 à Gammarth,La Marsa à       La Marsa      ,Maison,100,5,2 000 000,10.2762232,36.8941992,https://www.mubawab.tn/fr/a/7822020/magnifique-villa-s3-%C3%A0-gammarth
+739,Villa de 3 Niveaux à Sidi Abdelaziz,La Marsa à       La Marsa      ,Maison,220,7,1 980 000,10.325278,36.876389,https://www.mubawab.tn/fr/a/7838611/villa-de-3-niveaux-%C3%A0-sidi-abdelaziz
+740,Maison S4 ouardia,El Ouardia à       El Ouardia      ,Maison,214,4,380 000,10.21587,36.83561,https://www.mubawab.tn/fr/a/7838534/maison-s4-ouardia
+741,A vendre un Duplex S4 à Birbouregba Hammamet,Hammamet à       Hammamet      ,Maison,160,4,290 000,10.61457,36.40108,https://www.mubawab.tn/fr/a/7706142/a-vendre-un-duplex-s4-%C3%A0-birbouregba-hammamet
+742,Trouvez votre maison à acheter à Aouina. Surface totale 176 m². Jardin.,Aouina à       La Marsa      ,Maison,176,4,200 000,10.2728658,36.87960630000001,https://www.mubawab.tn/fr/a/7837493/trouvez-votre-maison-%C3%A0-acheter-%C3%A0-aouina-surface-totale-176-m%C2%B2-jardin-
+743,"3 maisons indépendantes faisant le coin,",Borj Cedria à       Hammam Chatt      ,Maison,500,9,650 000,10.405946000000004,36.658969000000006,https://www.mubawab.tn/fr/a/7609496/3-maisons-ind%C3%A9pendantes-faisant-le-coin-
+744,A vendre maison jumelée 3 etage,Cité El Agba à       Monastir Ville      ,Maison,480,9,950 000,10.827216,35.755393999999995,https://www.mubawab.tn/fr/a/7835740/a-vendre-maison-jumel%C3%A9e-3-etage
+745,Villa a Vendre Soliman Plage Terrain 426 m²,Soliman      ,Maison,426,5,360 000,10.467751873883596,36.727698382232155,https://www.mubawab.tn/fr/a/7834868/villa-a-vendre-soliman-plage-terrain-426-m%C2%B2
+746,Villa sur deux niveaux,El Ouardia à       El Ouardia      ,Maison,230,6,280 000,10.21587,36.83561,https://www.mubawab.tn/fr/a/7676128/villa-sur-deux-niveaux
+747,A vendre villa à Carthage Salambo,Carthage à       Carthage      ,Maison,600,6,580 000,10.3164051,36.8694317,https://www.mubawab.tn/fr/a/7833747/a-vendre-villa-%C3%A0-carthage-salambo
+748,Villa recente,Raoued à       Raoued      ,Maison,330,8,520 000,10.185088784976614,36.945977976952186,https://www.mubawab.tn/fr/a/7736088/villa-recente
+749,"2 villas, houch arabe et écuries à vendre à hachane djerba",Houmt Souk à       Houmt Souk      ,Maison,1130,8,450 000,10.85,33.866667,https://www.mubawab.tn/fr/a/7832952/2-villas-houch-arabe-et-%C3%A9curies-%C3%A0-vendre-%C3%A0-hachane-djerba
+750,Maison avendre,Cité Hwas à       El Hrairia      ,Maison,200,12,370 000,10.16596,36.81881,https://www.mubawab.tn/fr/a/7831887/maison-avendre
+751,Bâtiment de 2 étages avec commerces et appartement,Gafsa Sud      ,Maison,340,3,400 000,8.770979845686787,34.42161610941996,https://www.mubawab.tn/fr/a/7831802/b%C3%A2timent-de-2-%C3%A9tages-avec-commerces-et-appartement
+752,Belle maison à vendre,Debouzville à       El Ouardia      ,Maison,130,3,310 000,10.21587,36.83561,https://www.mubawab.tn/fr/a/7831365/belle-maison-%C3%A0-vendre
+753,Villa neuve avec titre bleu. Plage a pied,Midoune à       Midoun      ,Maison,200,3,685 000,10.85,33.866667,https://www.mubawab.tn/fr/a/7831130/villa-neuve-avec-titre-bleu-plage-a-pied
+754,Maison à acheter à Hammamet. 2 grandes pièces,Hammamet à       Hammamet      ,Maison,100,2,370 000,10.61457,36.40108,https://www.mubawab.tn/fr/a/7830441/maison-%C3%A0-acheter-%C3%A0-hammamet-2-grandes-pi%C3%A8ces
+755,A Vendre Maison Duplex à Cité Ain Mariem,Bizerte Nord      ,Maison,141,7,280 000,9.8708,37.272,https://www.mubawab.tn/fr/a/7828950/a-vendre-maison-duplex-%C3%A0-cit%C3%A9-ain-mariem
+756,Opportunité d’investissement à El Omrane,El Omrane à       El Omrane      ,Maison,619,3,890 000,10.1558086,36.814748,https://www.mubawab.tn/fr/a/7810339/opportunit%C3%A9-d%E2%80%99investissement-%C3%A0-el-omrane
+757,Villa en cours de construction à Djerba,Medenine      ,Maison,135,3,250 000,10.49143,33.34318,https://www.mubawab.tn/fr/a/7828410/villa-en-cours-de-construction-%C3%A0-djerba
+758,Duplex indépendant dans une résidence,Bhar Lazreg à       La Marsa      ,Maison,154,3,197 000,10.325278,36.876389,https://www.mubawab.tn/fr/a/7527202/duplex-ind%C3%A9pendant-dans-une-r%C3%A9sidence
+759,Cité thameur raoud,Raoued à       Raoued      ,Maison,365,4,227 000,10.201620729487562,36.956361974371355,https://www.mubawab.tn/fr/a/7803690/cit%C3%A9-thameur-raoud
+760,Un magnifique S3 vue mer à Gammarth,La Marsa à       La Marsa      ,Maison,175,3,1 200 000,10.2762232,36.8941992,https://www.mubawab.tn/fr/a/7806692/un-magnifique-s3-vue-mer-%C3%A0-gammarth
+761,A vendre un triplex S4 avec piscine à Gammarth,Gammarth à       La Marsa      ,Maison,331,4,2 500 000,10.288893,36.917739,https://www.mubawab.tn/fr/a/7817319/a-vendre-un-triplex-s4-avec-piscine-%C3%A0-gammarth
+762,Maison a vendre prix négociable,Nefta      ,Maison,80,4,80 000,7.88355,33.87673,https://www.mubawab.tn/fr/a/7825911/maison-a-vendre-prix-n%C3%A9gociable
+763,Vente: Villa d'Exception,Sakiet Ezzit à       Sakiet Ezzit      ,Maison,470,6,950 000,10.760806991388732,34.778617510576424,https://www.mubawab.tn/fr/a/7823548/vente-villa-d-exception
+764,Dar lelbi3 m9ayda fi d'aider 5ana,Sidi Salah à       La Soukra      ,Maison,132,2,165 000,10.25,36.883333,https://www.mubawab.tn/fr/a/7821932/dar-lelbi3-m9ayda-fi-d-aider-5ana
+765,Duplex s3 à Gammarth,La Marsa à       La Marsa      ,Maison,180,3,1 200 000,10.2762232,36.8941992,https://www.mubawab.tn/fr/a/7815853/duplex-s3-%C3%A0-gammarth
+766,Sfax à vendre 2 maisons rez de chaussé1ere étage tel97557,Caid Mhamed à       Sfax Ville      ,Maison,144,4,200 000,10.28607,36.763943,https://www.mubawab.tn/fr/a/7820960/sfax-%C3%A0-vendre-2-maisons-rez-de-chauss%C3%A91ere-%C3%A9tage-tel97557
+767,Villa avec piscine,Hammamet      ,Maison,600,5,680 000,10.61457,36.40108,https://www.mubawab.tn/fr/a/7817691/villa-avec-piscine
+768,Vente villa Le Bardo,Le Bardo à       Le Bardo      ,Maison,350,4,750 000,10.1344725,36.8144703,https://www.mubawab.tn/fr/a/7820495/vente-villa-le-bardo
+769,Dar lelbi3 m9ayda fi d'aider 5ana,Sidi Salah à       La Soukra      ,Maison,132,2,175 000,10.25,36.883333,https://www.mubawab.tn/fr/a/7814608/dar-lelbi3-m9ayda-fi-d-aider-5ana
+770,2 maisons sur deux niveaux,Cité des Juges à       Raoued      ,Maison,300,5,395 000,10.204989263919199,36.977476888038055,https://www.mubawab.tn/fr/a/7696021/2-maisons-sur-deux-niveaux
+771,Villa Gammarth Supérieure,Gammarth Supérieur à       La Marsa      ,Maison,980,2,5 500 000,10.3099394,36.8931787,https://www.mubawab.tn/fr/a/7819271/villa-gammarth-sup%C3%A9rieure
+772,A vendre une maison meublée à Hammamet centre,Hammamet à       Hammamet      ,Maison,90,2,325 000,10.61457,36.40108,https://www.mubawab.tn/fr/a/7703203/a-vendre-une-maison-meubl%C3%A9e-%C3%A0-hammamet-centre
+773,Une Villa S4 à vendre à L'Aouina,El Aouina      ,Maison,152,5,500 000,9.58381,33.07772,https://www.mubawab.tn/fr/a/7818738/une-villa-s4-%C3%A0-vendre-%C3%A0-l-aouina
+774,Très belle maison en vente à Tabarka Ville. 6 belles chambres. Meublé.,Tabarka Ville à       Tabarka      ,Maison,540,6,600 000,8.41644,36.4164,https://www.mubawab.tn/fr/a/7818661/tr%C3%A8s-belle-maison-en-vente-%C3%A0-tabarka-ville-6-belles-chambres-meubl%C3%A9-
+775,Une villa en s5,Nabeul à       Nabeul      ,Maison,505,6,1 100 000,10.73505,36.45056,https://www.mubawab.tn/fr/a/7817697/une-villa-en-s5
+776,Maison à la vente à El Yasminette. Surface de 96 m². Terrasse et jardin,El Yasminette à       Nouvelle Medina      ,Maison,96,5,150 000,10.18348,36.78898,https://www.mubawab.tn/fr/a/7816989/maison-%C3%A0-la-vente-%C3%A0-el-yasminette-surface-de-96-m%C2%B2-terrasse-et-jardin
+777,L'investissement garantis,Raoued à       Raoued      ,Maison,281,3,300 000,10.4132,36.70549,https://www.mubawab.tn/fr/a/7816820/l-investissement-garantis
+778,Magnifique villa à Gammarth,La Marsa à       La Marsa      ,Maison,330,4,2 300 000,10.2762232,36.8941992,https://www.mubawab.tn/fr/a/7815856/magnifique-villa-%C3%A0-gammarth
+779,Maison à acheter à Jadins de Carthage. 5 chambres agréables. Porte blindée et parabole,Cité Ennasr à       Mnihla      ,Maison,110,5,330 000,10.1563204,36.8645971,https://www.mubawab.tn/fr/a/7815798/maison-%C3%A0-acheter-%C3%A0-jadins-de-carthage-5-chambres-agr%C3%A9ables-porte-blind%C3%A9e-et-parabole
+780,Maison à l'achat à Ibn Sina. 4 chambres. Système de parabole,Ibn Sina à       El Kabaria      ,Maison,,4,200 000,,,https://www.mubawab.tn/fr/a/7815715/maison-%C3%A0-l-achat-%C3%A0-ibn-sina-4-chambres-syst%C3%A8me-de-parabole
+781,A vendre villa à carthage byrsa,Carthage Byrsa à       Carthage      ,Maison,450,3,1 260 000,10.19186,36.5046,https://www.mubawab.tn/fr/a/7815144/a-vendre-villa-%C3%A0-carthage-byrsa
+782,Une Villa S5 haut standing à vendre à La Soukra,La Soukra à       La Soukra      ,Maison,200,5,1 400 000,10.27417,36.88833,https://www.mubawab.tn/fr/a/7402323/une-villa-s5-haut-standing-%C3%A0-vendre-%C3%A0-la-soukra
+783,Une Fastueuse Villa de plain pied à vendre à La Soukra,La Soukra à       La Soukra      ,Maison,1900,7,1 900 000,10.27417,36.88833,https://www.mubawab.tn/fr/a/7678537/une-fastueuse-villa-de-plain-pied-%C3%A0-vendre-%C3%A0-la-soukra
+784,Une Superbe Villa de plain pied à vendre à Chotrana 1,Chotrana 1 à       La Soukra      ,Maison,1500,4,1 300 000,10.217961,36.896544,https://www.mubawab.tn/fr/a/7764144/une-superbe-villa-de-plain-pied-%C3%A0-vendre-%C3%A0-chotrana-1
+785,A vendre une belle villa au Lac 2,Les Berges Du Lac 2 à       La Marsa      ,Maison,600,4,3 700 000,10.325278,36.876389,https://www.mubawab.tn/fr/a/7789776/a-vendre-une-belle-villa-au-lac-2
+786,Maison à vendre,Oued Ellil à       Oued Ellil      ,Maison,80,5,130 000,10.02483554351507,36.847470487872805,https://www.mubawab.tn/fr/a/7217338/maison-%C3%A0-vendre
+787,Maison a vendre maison arbi,Hammam Sousse à       Hammam Sousse      ,Maison,114,2,140 000,10.5972,35.85690000000001,https://www.mubawab.tn/fr/a/7729662/maison-a-vendre-maison-arbi
+788,Maison Traditionnelle a vendre maison arbi,Hammam Sousse à       Hammam Sousse      ,Maison,216,4,220 000,10.593623872619439,35.85638371583854,https://www.mubawab.tn/fr/a/7743007/maison-traditionnelle-a-vendre-maison-arbi
+789,Maison 400 m2 de superficie dont 190 m2 Couvert,Raoued à       Raoued      ,Maison,400,3,250 000,10.4132,36.70549,https://www.mubawab.tn/fr/a/7812424/maison-400-m2-de-superficie-dont-190-m2-couvert
+790,Villa de 2 étages à rénover,El Ouardia à       El Ouardia      ,Maison,376,5,530 000,10.21587,36.83561,https://www.mubawab.tn/fr/a/7811348/villa-de-2-%C3%A9tages-%C3%A0-r%C3%A9nover
+791,Maison à deux étages R2 à Vendre à Soliman,Soliman      ,Maison,127,2,250 000,10.4918,36.6927,https://www.mubawab.tn/fr/a/7810936/maison-%C3%A0-deux-%C3%A9tages-r2-%C3%A0-vendre-%C3%A0-soliman
+792,Maison indépendante en vente,Cité El Wafa à       Nabeul      ,Maison,226,2,420 000,10.73505,36.45056,https://www.mubawab.tn/fr/a/7803305/maison-ind%C3%A9pendante-en-vente
+793,Maison à la vente à Beja Sudcafé2 locaux commerciaux. Surface totale 521 m². Jardin et terrasse,Beja Sud à       Béja      ,Maison,521,6,800 000,9.10534,36.39372,https://www.mubawab.tn/fr/a/7808695/maison-%C3%A0-la-vente-%C3%A0-beja-sudcaf%C3%A92-locaux-commerciaux-surface-totale-521-m%C2%B2-jardin-et-terrasse
+794,Villa Sur 3 Niveaux Ennasr,Cité Ennasr 1 à       Ariana Ville      ,Maison,500,7,1 200 000,10.19556,36.8625,https://www.mubawab.tn/fr/a/7697398/villa-sur-3-niveaux-ennasr
+795,Vaste maison,Mornaguia à       Mornaguia      ,Maison,450,3,250 000,9.9089889,36.8094099,https://www.mubawab.tn/fr/a/7808405/vaste-maison
+796,Villa 1er étage à vendre avec un sous sol,El Omrane à       El Omrane      ,Maison,180,3,240 000,10.1558086,36.814748,https://www.mubawab.tn/fr/a/7806847/villa-1er-%C3%A9tage-%C3%A0-vendre-avec-un-sous-sol
+797,Villa de maitre La Soukra,La Soukra à       La Soukra      ,Maison,700,7,2 800 000,10.27417,36.88833,https://www.mubawab.tn/fr/a/7800031/villa-de-maitre-la-soukra
+798,Grande maison à vendre,El Omrane Supérieur à       El Omrane Superieur      ,Maison,360,7,620 000,10.123916,36.830534,https://www.mubawab.tn/fr/a/7806358/grande-maison-%C3%A0-vendre
+799,Trouvez votre maison à acheter à El Yasminette. 6 chambres agréables,El Yasminette à       Nouvelle Medina      ,Maison,105,6,350 000,10.18348,36.78898,https://www.mubawab.tn/fr/a/7805026/trouvez-votre-maison-%C3%A0-acheter-%C3%A0-el-yasminette-6-chambres-agr%C3%A9ables
+800,Immeuble R2,Ariana à       Ariana Ville      ,Maison,450,6,1 500 000,10.18957977920993,36.86161608740915,https://www.mubawab.tn/fr/a/7804535/immeuble-r2
+801,Excellente opportunité pour investisseur,Barraket Essahel      ,Maison,300,8,500 000,10.562334538497907,36.40530052457267,https://www.mubawab.tn/fr/a/7633944/excellente-opportunit%C3%A9-pour-investisseur
+802,Villa à Sidi Abdelaziz,La Marsa à       La Marsa      ,Maison,200,7,1 980 000,10.325278,36.876389,https://www.mubawab.tn/fr/a/7803768/villa-%C3%A0-sidi-abdelaziz
+803,Maison à la vente. 4 chambres,Korba      ,Maison,370,3,350 000,10.8582,36.5769,https://www.mubawab.tn/fr/a/7802326/maison-%C3%A0-la-vente-4-chambres
+804,Vente ghazella villa jumelée,Ariana à       Ariana Ville      ,Maison,200,3,339 000,10.19556,36.8625,https://www.mubawab.tn/fr/a/7641076/vente-ghazella-villa-jumel%C3%A9e
+805,Maison 2 niveau mghira fouchena,Fouchana      ,Maison,130,8,290 000,10.16982,36.70107,https://www.mubawab.tn/fr/a/7802233/maison-2-niveau-mghira-fouchena
+806,Villa avec piscine Ennasr,Ariana Ville      ,Maison,500,4,1 600 000,10.19556,36.8625,https://www.mubawab.tn/fr/a/7799172/villa-avec-piscine-ennasr
+807,Villa Menzah 9 B,El Menzah 9 à       El Menzah      ,Maison,500,5,1 400 000,10.164723,36.845235,https://www.mubawab.tn/fr/a/7706458/villa-menzah-9-b
+808,Maison à la vente. Superficie 205 m²,Mateur      ,Maison,205,4,375 000,9.7506777,37.1303,https://www.mubawab.tn/fr/a/7798615/maison-%C3%A0-la-vente-superficie-205-m%C2%B2
+809,Duplexe en très bon état,Monastir Ville à       Monastir Ville      ,Maison,230,3,400 000,10.833333,35.783333,https://www.mubawab.tn/fr/a/7797558/duplexe-en-tr%C3%A8s-bon-%C3%A9tat
+810,Maison sur 3 niveaux séparés,Cite Elwaha à       Bizerte Nord      ,Maison,135,3,400 000,10.075961,36.778896,https://www.mubawab.tn/fr/a/7797012/maison-sur-3-niveaux-s%C3%A9par%C3%A9s
+811,Maison à acheter. Surface de 80 m². Espace vert.,Kalâa Sghira      ,Maison,80,3,200 000,10.560554,35.821756,https://www.mubawab.tn/fr/a/7796979/maison-%C3%A0-acheter-surface-de-80-m%C2%B2-espace-vert-
+812,TRIPLEX composé d'un s3 et d'un s5,Mnihla à       Mnihla      ,Maison,320,7,680 000,10.1157421,36.8567806,https://www.mubawab.tn/fr/a/7796552/triplex-compos%C3%A9-d-un-s3-et-d-un-s5
+813,Maison avec deux appartements,Fouchana à       Fouchana      ,Maison,100,6,250 000,10.16982,36.70107,https://www.mubawab.tn/fr/a/7796339/maison-avec-deux-appartements
+814,Maison a vendre BEN AROUS Yasminet st jacques,Ben Arous à       Ben Arous      ,Maison,112,4,300 000,10.22122,36.77228,https://www.mubawab.tn/fr/a/7796290/maison-a-vendre-ben-arous-yasminet-st-jacques
+815,Maison à l'achat à Hammamet Nord. 2 chambres. Air conditionné,Hammamet Nord à       Hammamet      ,Maison,80,2,155 000,10.661894,36.419773,https://www.mubawab.tn/fr/a/7794765/maison-%C3%A0-l-achat-%C3%A0-hammamet-nord-2-chambres-air-conditionn%C3%A9
+816,Un magnifique immeuble à vendre,Hammam Chatt à       Hammam Chatt      ,Maison,820,10,1 600 000,9.97244,36.0683,https://www.mubawab.tn/fr/a/7792531/un-magnifique-immeuble-%C3%A0-vendre
+817,Grande maison,El Hrairia à       El Hrairia      ,Maison,600,4,350 000,10.16596,36.81881,https://www.mubawab.tn/fr/a/7792334/grande-maison
+818,Villa avec pisine à Chotrana 3,Chotrana 3 à       La Soukra      ,Maison,1790,4,1 900 000,10.25,36.883333,https://www.mubawab.tn/fr/a/7792154/villa-avec-pisine-%C3%A0-chotrana-3
+819,Villa Haut Standing de 1000 m² à Chotrana 2,Chotrana 2 à       La Soukra      ,Maison,1000,6,2 250 000,10.25,36.883333,https://www.mubawab.tn/fr/a/7792138/villa-haut-standing-de-1000-m%C2%B2-%C3%A0-chotrana-2
+820,Villa spacieuse de bon standing à Borj Louzir,Borj Louzir à       La Soukra      ,Maison,320,4,700 000,10.25,36.883333,https://www.mubawab.tn/fr/a/7792048/villa-spacieuse-de-bon-standing-%C3%A0-borj-louzir
+821,Maison à acheter à Bir El Bey. Superficie 300 m². Antenne parabolique,Bir El Bey à       Hammam Chatt      ,Maison,300,9,520 000,9.97244,36.0683,https://www.mubawab.tn/fr/a/7791632/maison-%C3%A0-acheter-%C3%A0-bir-el-bey-superficie-300-m%C2%B2-antenne-parabolique
+822,Maison arabe centre ville de Nabeul,Nabeul à       Nabeul      ,Maison,125,3,220 000,10.738876848387093,36.455926161294244,https://www.mubawab.tn/fr/a/7637577/maison-arabe-centre-ville-de-nabeul
+823,Trouvez votre maison à acheter au Bardo. 4 grandes pièces,Le Bardo à       Le Bardo      ,Maison,147,3,340 000,10.134472500000001,36.81447030000001,https://www.mubawab.tn/fr/a/7788668/trouvez-votre-maison-%C3%A0-acheter-au-bardo-4-grandes-pi%C3%A8ces
+824,Villa avec piscine et jardin à vendre aux Berges du Lac 2,Les Berges Du Lac 2 à       La Marsa      ,Maison,587,4,3 700 000,10.2641808,36.8468986,https://www.mubawab.tn/fr/a/7738430/villa-avec-piscine-et-jardin-%C3%A0-vendre-aux-berges-du-lac-2
+825,A vendre maison,El Menzah 1 à       El Menzah      ,Maison,289,4,750 000,10.164723,36.845235,https://www.mubawab.tn/fr/a/7726019/a-vendre-maison
+826,A vendre 02 Maisons à Salloum Bouficha,Bouficha      ,Maison,160,4,370 000,10.45554,36.30084,https://www.mubawab.tn/fr/a/7755615/a-vendre-02-maisons-%C3%A0-salloum-bouficha
+827,Villa à ouardia 1,El Ouardia à       El Ouardia      ,Maison,525,6,750 000,10.21587,36.83561,https://www.mubawab.tn/fr/a/7782910/villa-%C3%A0-ouardia-1
+828,A vendre un duplex en S4 à la Soukra,La Soukra à       La Soukra      ,Maison,212,4,550 000,10.27417,36.88833,https://www.mubawab.tn/fr/a/7613491/a-vendre-un-duplex-en-s4-%C3%A0-la-soukra
+829,A vendre maison à restaurer,Ezzahra à       Ezzahra      ,Maison,420,3,500 000,10.16262,36.89147,https://www.mubawab.tn/fr/a/7782611/a-vendre-maison-%C3%A0-restaurer
+830,Maison à l'achat. Surface de 500 m². Places de stationnement et jardin,Soliman      ,Maison,500,3,400 000,10.483333,36.7,https://www.mubawab.tn/fr/a/7782234/maison-%C3%A0-l-achat-surface-de-500-m%C2%B2-places-de-stationnement-et-jardin
+831,Ancien étage à sousse,Sousse Ville      ,Maison,118,2,112 000,10.6339,35.8273,https://www.mubawab.tn/fr/a/7781902/ancien-%C3%A9tage-%C3%A0-sousse
+832,"Charmante Villa à Deux Étages à Ezzahra, Quartier",Cité Ennakhil 1 à       Ezzahra      ,Maison,250,5,625 000,10.16262,36.89147,https://www.mubawab.tn/fr/a/7781428/charmante-villa-%C3%A0-deux-%C3%A9tages-%C3%A0-ezzahra-quartier
+833,Trouvez votre maison à acheter à Nouvelle Medina. Superficie 220 m². Four.,Nouvelle Medina à       Nouvelle Medina      ,Maison,220,6,320 000,10.18348,36.78898,https://www.mubawab.tn/fr/a/7780290/trouvez-votre-maison-%C3%A0-acheter-%C3%A0-nouvelle-medina-superficie-220-m%C2%B2-four-
+834,Un particulier vend une villa R2 a Bizerte,Bizerte      ,Maison,261,7,580 000,9.866667,37.266667,https://www.mubawab.tn/fr/a/7779282/un-particulier-vend-une-villa-r2-a-bizerte
+835,Très belle maison,Dar Châabane      ,Maison,179,3,250 000,10.75258,36.48423,https://www.mubawab.tn/fr/a/7243784/tr%C3%A8s-belle-maison
+836,Maison à vendre. 3 pièces. Espace vert,Sers      ,Maison,346,3,70 000,8.6901089,36.0002464,https://www.mubawab.tn/fr/a/7778285/maison-%C3%A0-vendre-3-pi%C3%A8ces-espace-vert
+837,Duplexe,Monastir Ville à       Monastir Ville      ,Maison,230,3,400 000,10.833333,35.783333,https://www.mubawab.tn/fr/a/7778084/duplexe
+838,Vente maison à Zone touristique. 3 chambres agréables. Jardin et terrasse,Zone touristique à       Midoun      ,Maison,200,3,180 000,10.987879760183764,33.81409640586857,https://www.mubawab.tn/fr/a/7608786/vente-maison-%C3%A0-zone-touristique-3-chambres-agr%C3%A9ables-jardin-et-terrasse
+839,Maison à vendre avec deux appartements,Mnihla à       Mnihla      ,Maison,159,4,295 000,10.114318,36.876188,https://www.mubawab.tn/fr/a/7777981/maison-%C3%A0-vendre-avec-deux-appartements
+840,Cherche a acheter,Sidi El Mahrsi à       Nabeul      ,Maison,200,2,500 000,10.748872,36.466135,https://www.mubawab.tn/fr/a/7777915/cherche-a-acheter
+841,A vendre un triplex avec jardin à la Soukra,La Soukra à       La Soukra      ,Maison,293,7,970 000,10.27417,36.88833,https://www.mubawab.tn/fr/a/7596447/a-vendre-un-triplex-avec-jardin-%C3%A0-la-soukra
+842,Villa RDC & 2 Appartements au 1er étage,Sousse Ville à       Sousse Ville      ,Maison,400,7,375 000,10.6339,35.8273,https://www.mubawab.tn/fr/a/7777091/villa-rdc-2-appartements-au-1er-%C3%A9tage
+843,Maison inachevée a cité el katira borj cedria,Soliman      ,Maison,326,3,240 000,10.43638039494078,36.69904881222752,https://www.mubawab.tn/fr/a/7776427/maison-inachev%C3%A9e-a-cit%C3%A9-el-katira-borj-cedria
+844,Villa S3 acite ennasr Sidi Abdelaziz La Marsa,La Marsa à       La Marsa      ,Maison,300,3,630 000,10.317342856502934,36.887672714531,https://www.mubawab.tn/fr/a/7775382/villa-s3-acite-ennasr-sidi-abdelaziz-la-marsa
+845,Très belle maison en vente à Kalaat Landalous. Superficie 216 m²,Kalaat Landalous à       Kalaat Landalous      ,Maison,216,2,90 000,10.1199168,37.0618319,https://www.mubawab.tn/fr/a/7774170/tr%C3%A8s-belle-maison-en-vente-%C3%A0-kalaat-landalous-superficie-216-m%C2%B2
+846,Appartement a residence baraka,Hammam Lif à       Hammam Lif      ,Maison,124,3,180 000,10.331219734159895,36.732028585191536,https://www.mubawab.tn/fr/a/7773947/appartement-a-residence-baraka
+847,Maison a ne pas rater,Cité Bouzaiene à       El Hrairia      ,Maison,430,4,390 000,,,https://www.mubawab.tn/fr/a/7736504/maison-a-ne-pas-rater
+848,Maison a ne pas rater,Cité Bouzaiene à       El Hrairia      ,Maison,430,4,390 000,,,https://www.mubawab.tn/fr/a/7736504/maison-a-ne-pas-rater
+849,Maison arabe traditionelle,El Halfaouine à       Tunis      ,Maison,170,3,260 000,10.16596,36.81881,https://www.mubawab.tn/fr/a/7735199/maison-arabe-traditionelle
+850,A vendre une villa à khzema,Lebna à       Sousse Jaouhara      ,Maison,374,3,560 000,10.941144,36.71195,https://www.mubawab.tn/fr/a/7767182/a-vendre-une-villa-%C3%A0-khzema
+851,Maison à vendre,Beja Nord à       Béja      ,Maison,240,5,580 000,9.125604131803007,36.4941808042569,https://www.mubawab.tn/fr/a/7773144/maison-%C3%A0-vendre
+852,Maison à l'achat à Cité El Argoub. Superficie 210 m²,Cité El Argoub à       Tebourba      ,Maison,210,5,160 000,9.9089889,36.8094099,https://www.mubawab.tn/fr/a/7772171/maison-%C3%A0-l-achat-%C3%A0-cit%C3%A9-el-argoub-superficie-210-m%C2%B2
+853,Maison à acheter. 5 belles chambres,Cité Ibn Khaldoun      ,Maison,210,5,1 600 000,10.135918976602417,36.830503067324074,https://www.mubawab.tn/fr/a/7772170/maison-%C3%A0-acheter-5-belles-chambres
+854,Maisons avec 2 appartements indépendants kasserine,Kasserine Nord      ,Maison,240,5,180 000,8.835395302087864,35.16545132962012,https://www.mubawab.tn/fr/a/7771313/maisons-avec-2-appartements-ind%C3%A9pendants-kasserine
+855,Maison à l'achat à Cité Al Yamama. Superficie 200 m²,Cité Al Yamama à       Raoued      ,Maison,200,4,1 500 000,10.191389,36.954444,https://www.mubawab.tn/fr/a/7770530/maison-%C3%A0-l-achat-%C3%A0-cit%C3%A9-al-yamama-superficie-200-m%C2%B2
+856,A vendre une villa en S3 à Gammarth,Gammarth à       La Marsa      ,Maison,400,3,5 500 000,10.2733997,36.8578827,https://www.mubawab.tn/fr/a/7705604/a-vendre-une-villa-en-s3-%C3%A0-gammarth
+857,Superbe maison à vendre. 3 grandes pièces.,Grombalia      ,Maison,650,4,750 000,10.5,36.6,https://www.mubawab.tn/fr/a/7769721/superbe-maison-%C3%A0-vendre-3-grandes-pi%C3%A8ces-
+858,Vente Maison S2,La Manouba à       La Manouba      ,Maison,120,3,160 000,10.05538,36.77855,https://www.mubawab.tn/fr/a/7769419/vente-maison-s2
+859,A vendre Maison inachevée à Besbesia Hammamet Sud,Hammamet à       Hammamet      ,Maison,650,4,380 000,10.61457,36.40108,https://www.mubawab.tn/fr/a/7767252/a-vendre-maison-inachev%C3%A9e-%C3%A0-besbesia-hammamet-sud
+860,A Vendre Maison à la Marsa,La Marsa à       La Marsa      ,Maison,288,4,1 200 000,10.325278,36.876389,https://www.mubawab.tn/fr/a/7323764/a-vendre-maison-%C3%A0-la-marsa
+861,Vente Villa à Marsa les pins,Cité Les Pins à       La Marsa      ,Maison,360,4,1 900 000,10.2564551,36.8590944,https://www.mubawab.tn/fr/a/7766103/vente-villa-%C3%A0-marsa-les-pins
+862,Belle villa à saisir,Soliman      ,Maison,450,3,350 000,10.483333,36.7,https://www.mubawab.tn/fr/a/7765234/belle-villa-%C3%A0-saisir
+863,Maison à vendre,Kalâa Kebira      ,Maison,400,3,299 000,10.54372,35.87392,https://www.mubawab.tn/fr/a/7765041/maison-%C3%A0-vendre
+864,Maison à vendre à Montfleury. 3 chambres agréables. Double vitrage et chauffage central,Montfleury à       Tunis      ,Maison,136,3,500 000,10.1774792,36.79008840000001,https://www.mubawab.tn/fr/a/7765045/maison-%C3%A0-vendre-%C3%A0-montfleury-3-chambres-agr%C3%A9ables-double-vitrage-et-chauffage-central
+865,Maison a vendre,Hammam Sousse à       Hammam Sousse      ,Maison,100,2,160 000,10.591507,35.8569,https://www.mubawab.tn/fr/a/7764651/maison-a-vendre
+866,Maison à vendre à Cité Ennasr. Surface totale 480 m². Parking privé,Cité Ennasr à       Mohamadia      ,Maison,480,7,224 950,10.146295670417153,36.67503537516863,https://www.mubawab.tn/fr/a/7764509/maison-%C3%A0-vendre-%C3%A0-cit%C3%A9-ennasr-surface-totale-480-m%C2%B2-parking-priv%C3%A9
+867,A vendre Maison ancienne au cœur de la Marsa,La Marsa à       La Marsa      ,Maison,290,5,1 300 000,10.325278,36.876389,https://www.mubawab.tn/fr/a/7323825/a-vendre-maison-ancienne-au-c%C5%93ur-de-la-marsa
+868,Bonne affaire: Maison S2 avec garage,Bou Mhel à       Boumhel Bassatine      ,Maison,111,2,199 800,10.279821110115037,36.726452515319366,https://www.mubawab.tn/fr/a/7761933/bonne-affaire-maison-s2-avec-garage
+869,Maison à Ibn Sina proche du métro 6 El Ghazali,Ibn Sina à       El Kabaria      ,Maison,130,3,250 000,10.16596,36.81881,https://www.mubawab.tn/fr/a/7718325/maison-%C3%A0-ibn-sina-proche-du-m%C3%A9tro-6-el-ghazali
+870,Villa avec 2 studios route de Raoued,Jaafar à       Raoued      ,Maison,560,3,330 000,10.18011583284297,36.91920699376849,https://www.mubawab.tn/fr/a/7759895/villa-avec-2-studios-route-de-raoued
+871,A vendre à Raoued Plage,Cité des Juges à       Raoued      ,Maison,80,3,165 000,10.191389,36.954444,https://www.mubawab.tn/fr/a/7758549/a-vendre-%C3%A0-raoued-plage
+872,A vendre une maison à el médina Tunis,La Medina      ,Maison,121,6,730 000,10.16596,36.81881,https://www.mubawab.tn/fr/a/7757836/a-vendre-une-maison-%C3%A0-el-m%C3%A9dina-tunis
+873,Duplex à vendre à la Marsa,La Marsa à       La Marsa      ,Maison,135,3,620 000,10.325278,36.876389,https://www.mubawab.tn/fr/a/7757452/duplex-%C3%A0-vendre-%C3%A0-la-marsa
+874,Très bonne occasion à saisir,Cité Ubn Khaldoun à       El Omrane Superieur      ,Maison,100,3,220 000,,,https://www.mubawab.tn/fr/a/7757264/tr%C3%A8s-bonne-occasion-%C3%A0-saisir
+875,A vendre RDC Haut standing d'une villa,Monastir Ville à       Monastir Ville      ,Maison,150,3,310 000,10.826244363784754,35.77526879360524,https://www.mubawab.tn/fr/a/7490180/a-vendre-rdc-haut-standing-d-une-villa
+876,Superbe Villa Jumelée avec un apartement séparé,Sousse Riadh à       Sousse Riadh      ,Maison,267,4,380 000,10.5951466558197,35.802521889422934,https://www.mubawab.tn/fr/a/7755876/superbe-villa-jumel%C3%A9e-avec-un-apartement-s%C3%A9par%C3%A9
+877,Villa Duplex au meilleur endroit Ibn Khaldoun,Cité Ibn Khaldoun      ,Maison,200,4,530 000,10.133790402419162,36.828938869977456,https://www.mubawab.tn/fr/a/7755894/villa-duplex-au-meilleur-endroit-ibn-khaldoun
+878,Une maison indépendante à elhaouaria,El Haouaria      ,Maison,200,2,145 000,11.016667,37.05,https://www.mubawab.tn/fr/a/7755326/une-maison-ind%C3%A9pendante-%C3%A0-elhaouaria
+879,Agance immo farawla,Hammamet Nord à       Hammamet      ,Maison,220,2,470 000,10.61457,36.40108,https://www.mubawab.tn/fr/a/7755250/agance-immo-farawla
+880,Vente maison à Megrine Chaker. 3 chambres,Megrine Chaker à       Mégrine      ,Maison,150,3,320 000,10.2622167,36.6938694,https://www.mubawab.tn/fr/a/7755088/vente-maison-%C3%A0-megrine-chaker-3-chambres
+881,Vente villa jumelée a jardin d'el Menzah,Cité Ennasr à       Mnihla      ,Maison,220,4,700 000,10.1157421,36.8567806,https://www.mubawab.tn/fr/a/7259963/vente-villa-jumel%C3%A9e-a-jardin-d-el-menzah
+882,Maison familiale moderne,Oued Ellil à       Oued Ellil      ,Maison,80,5,200 000,9.9089889,36.8094099,https://www.mubawab.tn/fr/a/7753141/maison-familiale-moderne
+883,A VENDRE: VILLA deux niveaux séparées à EL MENZEH 5,El Menzah 4 à       El Menzah      ,Maison,980,12,2 400 000,10.164723,36.845235,https://www.mubawab.tn/fr/a/7574613/a-vendre-villa-deux-niveaux-s%C3%A9par%C3%A9es-%C3%A0-el-menzeh-5
+884,Maison a vendre ras jebel,Ras Jebel      ,Maison,80,2,70 000,9.7506777,37.1303,https://www.mubawab.tn/fr/a/7752663/maison-a-vendre-ras-jebel
+885,Maison agréable Manouba Centre,La Manouba à       La Manouba      ,Maison,376,3,1 020 000,10.05538,36.77855,https://www.mubawab.tn/fr/a/7752620/maison-agr%C3%A9able-manouba-centre
+886,Villa La Marsa,La Marsa à       La Marsa      ,Maison,390,3,1 450 000,10.2762232,36.8941992,https://www.mubawab.tn/fr/a/7373992/villa-la-marsa
+887,Villa de maitre à vendre à Douar Hicher,Douar Hicher à       Douar Hicher      ,Maison,700,5,1 050 000,9.9089889,36.8094099,https://www.mubawab.tn/fr/a/7746199/villa-de-maitre-%C3%A0-vendre-%C3%A0-douar-hicher
+888,Villa Carthage Hannibal,Carthage à       Carthage      ,Maison,900,7,7 000 000,10.3164051,36.8694317,https://www.mubawab.tn/fr/a/7608554/villa-carthage-hannibal
+889,Villa pied dans l'eau,Le Kram      ,Maison,455,2,1 480 000,10.316667,36.833333,https://www.mubawab.tn/fr/a/7738522/villa-pied-dans-l-eau
+890,Très belle maison en vente. 2 grandes pièces. Porte blindée et vue sur mer.,Somâa      ,Maison,105,4,170 000,10.781313571738165,36.54458255117953,https://www.mubawab.tn/fr/a/7748910/tr%C3%A8s-belle-maison-en-vente-2-grandes-pi%C3%A8ces-porte-blind%C3%A9e-et-vue-sur-mer-
+891,Maison À Vendre À Dar Fadhal 150m² DT,Aouina à       La Marsa      ,Maison,150,2,120 000,10.325278,36.876389,https://www.mubawab.tn/fr/a/7552116/maison-%C3%A0-vendre-%C3%A0-dar-fadhal-150m%C2%B2-dt
+892,Villa Yasmin Hammamet,Hammamet Sud à       Hammamet      ,Maison,450,3,980 000,10.61457,36.40108,https://www.mubawab.tn/fr/a/7462650/villa-yasmin-hammamet
+893,Maison à chabbia près de résidence borj el Aal,Tozeur      ,Maison,176,3,180 000,8.122292659289933,33.91592386031578,https://www.mubawab.tn/fr/a/7743359/maison-%C3%A0-chabbia-pr%C3%A8s-de-r%C3%A9sidence-borj-el-aal
+894,Villa avec piscine La Soukra,La Soukra à       La Soukra      ,Maison,1065,2,1 950 000,10.27417,36.88833,https://www.mubawab.tn/fr/a/7642112/villa-avec-piscine-la-soukra
+895,Superbe maison à vendre. Surface de 150 m².,Kalâa Sghira      ,Maison,150,3,85 000,10.5545,35.83238,https://www.mubawab.tn/fr/a/7743068/superbe-maison-%C3%A0-vendre-surface-de-150-m%C2%B2-
+896,Maison à la vente à La Marsa,La Marsa à       La Marsa      ,Maison,179,3,650 000,10.2762232,36.8941992,https://www.mubawab.tn/fr/a/7742305/maison-%C3%A0-la-vente-%C3%A0-la-marsa
+897,Une maison de campagne à vendre à Kalaa Kabira,Kalâa Kebira      ,Maison,600,3,550 000,10.54372,35.87392,https://www.mubawab.tn/fr/a/7645824/une-maison-de-campagne-%C3%A0-vendre-%C3%A0-kalaa-kabira
+898,Un duplex R2 à vendre à Zone Touristique,Khezama à       Sousse Jaouhara      ,Maison,250,3,700 000,10.622471,35.832439,https://www.mubawab.tn/fr/a/7646465/un-duplex-r2-%C3%A0-vendre-%C3%A0-zone-touristique
+899,Villa El Jem,El Jem      ,Maison,100,3,300 000,10.6888388,35.295229,https://www.mubawab.tn/fr/a/7740689/villa-el-jem
+900,Sénya avec maison,Soliman      ,Maison,150,2,330 000,10.483333,36.7,https://www.mubawab.tn/fr/a/7740173/s%C3%A9nya-avec-maison
+901,Villa à vendre,Korba      ,Maison,540,2,700 000,10.8582,36.5769,https://www.mubawab.tn/fr/a/7736871/villa-%C3%A0-vendre
+902,A Vendre Villa indépendante à Notre Dame,Mutuelle Ville à       El Menzah      ,Maison,850,5,2 300 000,10.164723,36.845235,https://www.mubawab.tn/fr/a/7686345/a-vendre-villa-ind%C3%A9pendante-%C3%A0-notre-dame
+903,A vendre un s2 vue port à maison de la mer,El Kantaoui à       Hammam Sousse      ,Maison,70,2,480 000,10.58025,35.898175,https://www.mubawab.tn/fr/a/7722782/a-vendre-un-s2-vue-port-%C3%A0-maison-de-la-mer
+904,A vendre villa style américain à Khzama Est,Khezama à       Sousse Jaouhara      ,Maison,465,3,1 200 000,10.618753,35.844,https://www.mubawab.tn/fr/a/7730044/a-vendre-villa-style-am%C3%A9ricain-%C3%A0-khzama-est
+905,A vendre au zone touristique de touzeur,Tozeur      ,Maison,512,2,120 000,8.084821,33.9187468,https://www.mubawab.tn/fr/a/7724786/a-vendre-au-zone-touristique-de-touzeur
+906,La maison se situe dans la cité des sous officiers,Khaznadar à       Le Bardo      ,Maison,370,7,650 000,10.13736,36.83017,https://www.mubawab.tn/fr/a/7559361/la-maison-se-situe-dans-la-cit%C3%A9-des-sous-officiers
+907,Villa neuve GHIZEN zone agricole permis,Houmt Souk à       Houmt Souk      ,Maison,130,3,372 000,10.85,33.866667,https://www.mubawab.tn/fr/a/7721692/villa-neuve-ghizen-zone-agricole-permis
+908,Villa avec piscine et jardin à vendre au Lac 2,Les Berges Du Lac 2 à       La Marsa      ,Maison,620,4,4 000 000,10.2641808,36.8468986,https://www.mubawab.tn/fr/a/7721034/villa-avec-piscine-et-jardin-%C3%A0-vendre-au-lac-2
+909,Une maison S4 à vendre à sahloul,Sahloul à       Sousse Ville      ,Maison,200,4,320 000,10.62,35.83,https://www.mubawab.tn/fr/a/7373083/une-maison-s4-%C3%A0-vendre-%C3%A0-sahloul
+910,A vendre une villa avec piscine à chatt mariem,Chott Meriem à       Akouda      ,Maison,360,5,880 000,10.54783,35.951365,https://www.mubawab.tn/fr/a/7693507/a-vendre-une-villa-avec-piscine-%C3%A0-chatt-mariem
+911,Penthouse Neuf avec piscine à vendre aux jardins de Carthage,Les Jardins de Carthage à       Le Kram      ,Maison,467,4,1 500 000,10.291834,36.8555704,https://www.mubawab.tn/fr/a/7481201/penthouse-neuf-avec-piscine-%C3%A0-vendre-aux-jardins-de-carthage
+912,A vendre Villa à Monfleury,Montfleury à       Tunis      ,Maison,141,3,310 000,10.16596,36.81881,https://www.mubawab.tn/fr/a/7668542/a-vendre-villa-%C3%A0-monfleury
+913,Grande villa à vendre à La Soukra,La Soukra à       La Soukra      ,Maison,1150,5,1 180 000,10.27417,36.88833,https://www.mubawab.tn/fr/a/7370720/grande-villa-%C3%A0-vendre-%C3%A0-la-soukra
+914,Belle villa à Riah Andalous,Riadh al Andalous à       Ariana Ville      ,Maison,500,6,900 000,10.19556,36.8625,https://www.mubawab.tn/fr/a/7694717/belle-villa-%C3%A0-riah-andalous
+915,Villa avec piscine et jardin à vendre aux Berges du Lac,Les Berges Du Lac 1 à       La Marsa      ,Maison,1350,5,4 800 000,10.325278,36.876389,https://www.mubawab.tn/fr/a/7528120/villa-avec-piscine-et-jardin-%C3%A0-vendre-aux-berges-du-lac
+916,A Vendre Villa Sur Trois Niveaux,Bizerte Nord      ,Maison,424,8,800 000,9.8708,37.272,https://www.mubawab.tn/fr/a/7675713/a-vendre-villa-sur-trois-niveaux
+917,Terrain de 3306 m2 avec villa Raoued route principale,Raoued à       Raoued      ,Maison,3306,5,2 650 000,9.5375,33.8869,https://www.mubawab.tn/fr/a/7575163/terrain-de-3306-m2-avec-villa-raoued-route-principale
+918,Duplex à kélibia cité plage,Kélibia      ,Maison,180,3,170 000,11.0918,36.8493,https://www.mubawab.tn/fr/a/7666483/duplex-%C3%A0-k%C3%A9libia-cit%C3%A9-plage
+919,Maison avec local commerciale,La Medina      ,Maison,123,3,165 000,10.161665273711066,36.80741642043217,https://www.mubawab.tn/fr/a/7541378/maison-avec-local-commerciale
+920,Villa pied dans l'eau à kélibia,Kélibia      ,Maison,750,4,700 000,11.0918,36.8493,https://www.mubawab.tn/fr/a/7653597/villa-pied-dans-l-eau-%C3%A0-k%C3%A9libia
+921,Maison arabe à kélibia centre ville,Kélibia      ,Maison,200,4,280 000,11.0918,36.8493,https://www.mubawab.tn/fr/a/7651758/maison-arabe-%C3%A0-k%C3%A9libia-centre-ville
+922,Maison idéale et très agréable,Chotrana 3 à       La Soukra      ,Maison,810,8,950 000,9.801171875000023,36.77239664489394,https://www.mubawab.tn/fr/a/7252243/maison-id%C3%A9ale-et-tr%C3%A8s-agr%C3%A9able
+923,Une Villa Jumelée S3 à vendre aux Jardins de L'Aouina,El Aouina      ,Maison,180,3,560 000,9.58381,33.07772,https://www.mubawab.tn/fr/a/7527134/une-villa-jumel%C3%A9e-s3-%C3%A0-vendre-aux-jardins-de-l-aouina
+924,Maison indépendante avec 2 studios à Chott mariem,Chott Meriem à       Akouda      ,Maison,200,3,450 000,10.57,35.87,https://www.mubawab.tn/fr/a/7568683/maison-ind%C3%A9pendante-avec-2-studios-%C3%A0-chott-mariem
+925,"Maison à l'achat à Cité Plein Air. Surface totale 509 m². Environnement calme avec vue montagne, double vitrage.",Cité Plein Air à       Boumhel Bassatine      ,Maison,509,14,1 200 000,10.34246,36.57724,https://www.mubawab.tn/fr/a/7544807/maison-%C3%A0-l-achat-%C3%A0-cit%C3%A9-plein-air-surface-totale-509-m%C2%B2-environnement-calme-avec-vue-montagne-double-vitrage-
+926,Villa à vendre à Sidi Rezig,Sidi Rezig à       Mégrine      ,Maison,460,5,750 000,10.2622167,36.6938694,https://www.mubawab.tn/fr/a/7438145/villa-%C3%A0-vendre-%C3%A0-sidi-rezig
+927,Une spacieuse villa à hammem sousse en vente,Hammam Sousse à       Hammam Sousse      ,Maison,898,4,1 200 000,10.5972,35.8569,https://www.mubawab.tn/fr/a/7471117/une-spacieuse-villa-%C3%A0-hammem-sousse-en-vente
+928,Maison à zarzis avec emplacement exceptionnel,Zarzis      ,Maison,1000,3,650 000,11.108544921875023,33.48466970618921,https://www.mubawab.tn/fr/a/7431824/maison-%C3%A0-zarzis-avec-emplacement-exceptionnel
+929,02 Appartements Sfax,Sakiet Ezzit à       Sakiet Ezzit      ,Maison,143,3,250 000,10.7609,34.7996,https://www.mubawab.tn/fr/a/7361513/02-appartements-sfax
+930,Magnifique villa à Hergla à vendre,Hergla      ,Maison,450,4,1 000 000,10.504303,36.031411,https://www.mubawab.tn/fr/a/7276417/magnifique-villa-%C3%A0-hergla-%C3%A0-vendre
+931,Maison à vendre,Saida Mannoubia à       Tunis      ,Maison,180,7,170 000,10.16596,36.81881,https://www.mubawab.tn/fr/a/7244235/maison-%C3%A0-vendre
