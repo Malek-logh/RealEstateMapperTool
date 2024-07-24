@@ -4,7 +4,7 @@ This project involves scraping real estate data, cleaning and inserting it into 
 
 1. **Data Scraping and Cleaning**
 2. **Database Setup and Data Insertion**
-3. **Clustering Analysis and Visualization**
+3. **Clustering and Geospatial Visualization of Real Estate Data**
 
 ## Table of Contents
 
