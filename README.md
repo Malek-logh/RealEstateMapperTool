@@ -134,7 +134,7 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ## Example Map Visualization
 
-![Alt text](image_url)
+![Alt text]([image_url](https://github.com/Malek-logh/RealEstateMapperTool/blob/main/Example%20Map%20Visualization(1).png))
 
 ```
 
