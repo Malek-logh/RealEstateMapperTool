@@ -131,6 +131,13 @@ Feel free to fork this project, make your changes, and submit a pull request. An
 ## License
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
+
+## Example Map Visualization
+
+![Alt text](image_url)
+
 ```
 
-This documentation provides a comprehensive guide to setting up, running, and understanding the project. Make sure to replace the placeholder `https://github.com/yourusername/real-estate-data.git` with the actual URL of your GitHub repository.
+This documentation provides a comprehensive guide to setting up, running, and understanding the project. Make sure to replace the placeholder `https://github.com/Malek-logh/RealEstateMapperTool.git` with the actual URL of your GitHub repository.
+
+
