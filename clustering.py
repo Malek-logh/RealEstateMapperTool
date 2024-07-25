@@ -54,7 +54,6 @@ marker_cluster = MarkerCluster().add_to(m)
 for idx, row in cleaned_df.iterrows():
     if not pd.isna(row['cluster']):
         popup_text = f"""
-        id:{row['id']} <br>
         Type: {row['property']} <br>
         Prix: {row['price(TND)']} TND<br>
         Surface: {row['area(m²)']} m²<br>
