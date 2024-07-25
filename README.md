@@ -124,6 +124,12 @@ docker-compose up -d
 - Access pgAdmin at `http://localhost:8081`
 - PostgreSQL will be running on port `5432`
 
+## Example Map Visualization
+
+![Example Map Visualization(1).png](Example%20Map%20Visualization(1).png)
+![Example Map Visualization(2).png](Example%20Map%20Visualization(2).png)
+
+
 ## Contributing
 
 Feel free to fork this project, make your changes, and submit a pull request. Any contributions are highly appreciated!
@@ -131,12 +137,3 @@ Feel free to fork this project, make your changes, and submit a pull request. An
 ## License
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
-
-## Example Map Visualization
-
-![Example Map Visualization(1).png](Example%20Map%20Visualization(1).png)
-![Example Map Visualization(2).png](Example%20Map%20Visualization(2).png)
-
-```
-
-
